@@ -3,10 +3,10 @@
 ### Publishing and Subscription
 生产者可以创建Topic发布多种类型的消息，消费者可以订阅Topic按需进行消费。
 
-### 消息查看
+### View Messages
 用户可以通过TopicID和MessageID进行消息状态和内容的查看。
 
-### 死信队列
+### Dead Letter Queue
 由于多种原因无法成功传递消费的消息都放置在死信队列上，可以进行查看和再次消费。
 
 ### 重置消费点位
