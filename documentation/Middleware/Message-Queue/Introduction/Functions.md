@@ -21,7 +21,7 @@ Reset the message consumption schedule within the duration of the message persis
 ## Multi protocol access
 ### Support HTTP Protocol
 
-Support RESTFul API simple and convenient access.
+Support simply and convenient accessing RESTFul API.
 
 ### Support TCP Protocol
 
