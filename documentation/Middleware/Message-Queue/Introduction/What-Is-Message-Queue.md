@@ -3,5 +3,5 @@ Message Queue is a distributed message queue service developed by JD Cloud, whic
 
 ## Billing
 
-Message Queue supports Pay-As-You-Go billing method, for details to see [Billing-Rules](https://github.com/jdcloudcom/cn/blob/edit/documentation/Internet-Middleware/Message%20Queue/Pricing/Billing-Rules.md).
+Message Queue supports Pay-As-You-Go billing method, for details to see [Billing-Rules](https://github.com/jdcloudcom/en/blob/edit/documentation/Middleware/Message%20Queue/Pricing/Billing-Rules.md).
 
