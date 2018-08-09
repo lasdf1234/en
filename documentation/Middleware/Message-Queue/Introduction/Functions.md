@@ -1,6 +1,6 @@
 # Features
-## 核心功能
-### 发布订阅
+## Core Features
+### Publishing and Subscription
 生产者可以创建Topic发布多种类型的消息，消费者可以订阅Topic按需进行消费。
 
 ### 消息查看
