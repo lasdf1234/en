@@ -9,7 +9,7 @@
 
 2. Input "topic ID" or "ConsumerGroup ID" to search.
 
-3. Resend or delete all dead letters.
+3. Resend or delete all the dead letters.
 ![死信队列2](https://github.com/jdcloudcom/cn/blob/edit/image/Internet-Middleware/Message-Queue/死信队列-02.png)  
 
 You can choose to resend all the dead letters or delete all the dead letters.
