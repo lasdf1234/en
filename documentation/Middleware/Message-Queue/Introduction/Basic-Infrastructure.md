@@ -1,8 +1,8 @@
 # Basic Infrastructure
 消息队列 JCQ的集群结构，同步写入三副本备份，保证服务的高可靠性和高可用性，自主研发的的框架保证服务的高性能，来满足不同业务的需求。
 
-## 业务架构
-业务架构如下图：
+## Service Structure
+The service structure is as follows:
 ![](https://github.com/jdcloudcom/cn/blob/edit/image/Internet-Middleware/Message-Queue/basic-infrastructure.jpg)
 
 | Term | Description |
