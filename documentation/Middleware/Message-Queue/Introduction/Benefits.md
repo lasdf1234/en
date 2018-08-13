@@ -3,7 +3,9 @@
 ## High Availability
 
 集群部署与主从自动切换技术，承诺服务可用性高达 99.95%。
-Adopt cluster deployment and primary/secondary automatic switching technology, and the Service Availability Guarantee is up to 99.95%.
+* Adopt cluster deployment 
+* Adopt primary/secondary automatic switching technology
+* The Service Availability Guarantee is up to 99.95%
 
 ## High Reliability
 
