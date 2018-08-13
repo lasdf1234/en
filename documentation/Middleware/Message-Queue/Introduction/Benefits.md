@@ -3,14 +3,18 @@
 ## High Availability
 
 集群部署与主从自动切换技术，承诺服务可用性高达 99.95%。
+Adopt cluster deployment and primary/secondary automatic switching technology, and the Service Availability Guarantee is up to 99.95%.
 
 ## High Reliability
 
-引入Raft 算法实现数据高可靠性，同步写入，三副本数据备份，数据可靠性高达 99.999999%，并且默认消息持久化存储 3 天，支持重置消费位点消费3天之内任何时间点的消息
+引入Raft 算法实现数据高可靠性，同步写入，三副本数据备份，数据可靠性高达 99.999999%，并且默认消息持久化存储 3 天，支持重置消费位点消费3天之内任何时间点的消息。
+Raft algorithm is introduced to achieve high reliability of data, synchronous writing, and three copies of data backup. The data reliability is up to 99.999999%, and the default message persistent storage is 3 days. MQ supports messages of resetting consumer offset at any time within 3 days.
 
 ## High Performance
 
-支持每秒千万级的消息收发和推送，无并发限制，海量消息堆积，容量不设上限，消息写入延迟在 10ms 以内 
+支持每秒千万级的消息收发和推送，无并发限制，海量消息堆积，容量不设上限，消息写入延迟在 10ms 以内。
+
+
 
 ## Multiple Types
 
