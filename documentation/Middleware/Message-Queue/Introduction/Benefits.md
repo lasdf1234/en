@@ -36,7 +36,10 @@ The message types include:
 ## Low Cost
 
 为满足业务之间的消息收发需求，Topic数量可弹性扩展，集群规模可弹性扩缩，对用户完全透明，按需收费，提高资源利用率，降低冗余费用。
-In order to meet the demand of sending and receiving messages among services, the quantity of Topic can be flexibly scaled, the cluster size can be flexibly scaled, which is transparent to users and charged on demand, improves resource utilization and reduces redundancy costs.
+In order to meet the demand of sending and receiving messages among services, including the follows:
+* The quantity of Topic can be flexibly scaled
+* The cluster size can be flexibly scaled
+Which is transparent to users and charged on demand, improves resource utilization and reduces redundancy costs.
 
 ## Convenient Operations
 
