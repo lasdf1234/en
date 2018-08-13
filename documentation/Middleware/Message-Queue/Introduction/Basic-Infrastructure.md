@@ -5,7 +5,7 @@
 业务架构如下图：
 ![](https://github.com/jdcloudcom/cn/blob/edit/image/Internet-Middleware/Message-Queue/basic-infrastructure.jpg)
 
-| 概念 | 解释 |
+| Term | Description |
 | :- | :- |
 | Broker Group | 消息队列 JCQ核心组件，负责消息存储、订阅管理、消费管理和数据统计等功能 |	
 | Meta Manager Cluster | 消息队列 JCQ核心组件，负责消息路由、授权、控制事务等功能 |
