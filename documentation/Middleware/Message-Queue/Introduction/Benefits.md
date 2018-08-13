@@ -39,6 +39,7 @@ The message types include:
 In order to meet the demand of sending and receiving messages among services, including the follows:
 * The quantity of Topic can be flexibly scaled
 * The cluster size can be flexibly scaled
+
 Which is transparent to users and charged on demand, improves resource utilization and reduces redundancy costs.
 
 ## Convenient Operations
