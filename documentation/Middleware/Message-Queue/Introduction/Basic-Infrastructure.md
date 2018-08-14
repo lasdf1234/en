@@ -3,7 +3,7 @@
 
 ## Service Structure
 The service structure is as follows:
-![](https://github.com/jdcloudcom/cn/blob/edit/image/Internet-Middleware/Message-Queue/basic-infrastructure.jpg)
+![业务架构](https://github.com/jdcloudcom/en/blob/ancuihong/image/MQ/%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84-en.png)
 
 | Term | Description |
 | :- | :- |
