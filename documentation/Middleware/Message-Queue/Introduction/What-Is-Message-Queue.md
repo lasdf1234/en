@@ -3,11 +3,11 @@ Message Queue is a distributed message queue service developed by JD Cloud, whic
 ## How Can I Get Started with MQ?
 - Quick Start
 	- [Create Resources](../Getting-Started/Create-Resource.md)
-	- [Production and Consumption Messages](../Getting-Started/Produce-And-Consumer-Message.md)
+	- [Produce and Consumer Message](../Getting-Started/Produce-And-Consumer-Message.md)
 - Topic Management
 	- [Create Topic](../Operation-Guide/Topic-Management/Create-Topic.md)
-	- [Delete Topic](../Operation-Guide/Topic-Management/Subscribe.md)
-	- [Delete Topic](../Operation-Guide/Topic-Management/Delete-And-Manage-Topic.md)
+	- [Subscribe](../Operation-Guide/Topic-Management/Subscribe.md)
+	- [Delete and Manage Topic](../Operation-Guide/Topic-Management/Delete-And-Manage-Topic.md)
 - Message Subscription
 	- [Send Message](../Operation-Guide/Message-Management/Send-Message.md)
 	- [Query Message](../Operation-Guide/Message-Management/Query-Message.md)
