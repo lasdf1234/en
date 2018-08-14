@@ -1,9 +1,10 @@
 # Basic Infrastructure
 消息队列 JCQ的集群结构，同步写入三副本备份，保证服务的高可靠性和高可用性，自主研发的的框架保证服务的高性能，来满足不同业务的需求。
+The cluster structure of MQ synchronizes writing three copies of backup, ensures high reliability and high availability of the service. The framework of independent research ensures the high performance of services to meet the needs of different businesses.
 
 ## Service Structure
 The service structure is as follows:
-![业务架构](https://github.com/jdcloudcom/en/blob/ancuihong/image/MQ/%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84-en.png)
+![Service Structure](https://github.com/jdcloudcom/en/blob/ancuihong/image/MQ/%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84-en.png)
 
 | Term | Description |
 | :- | :- |
