@@ -1,3 +1,0 @@
-Illegal request parameter
-
-Exception on searching bill details
