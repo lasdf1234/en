@@ -1,0 +1,1458 @@
+Msg("Verification code is incorrect");
+Code(10002);
+
+Code(10002);
+Msg("User mobile number is blank");
+
+
+Code(20001);
+Msg("Network exception. Search on user information failed");
+
+
+Code(10002);
+Msg("Source unidentified");
+
+
+
+Code(10001);
+Msg("Mobile number cannot be blank");
+
+Code(10002);
+Msg("Search on duplication of mobile number failed");
+
+Code(10002);
+Msg("The mobile number is registered");
+
+Code(20001);
+Msg("Network exception");
+
+Code(10001);
+Msg("Mobile number format error");
+
+Code(10001);
+Msg("Mobile number format error");
+
+Code(10001);
+Msg("Verification code cannot be blank");
+
+Code(10002);
+Msg("Wrong Verification Code");
+
+Code(10001);
+Msg("Source error");
+
+Code(10002);
+Msg("You have bound the account with a mobile number. Please do not make a duplicate binding");
+
+
+Code(10002);
+Msg("Updating user mobile number as modified status failed");
+
+Code(10002);
+Msg("Binding with mobile number failed");
+
+Code(20001);
+Msg("Binding failed");
+
+Code(10001);
+Msg("Parameter is blank. Verification failed");
+
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Code(10002);
+Msg("Email verification code error");
+
+Code(10002);
+Msg("User has not bind the account with any email or the email is not verified. Verification failed");
+
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Code(10002);
+Msg("mobile number verification code error");
+
+Code(10002);
+Msg("User has not bind the account with any mobile number. Verification failed");
+
+Code(10001);
+Msg("Verification method error. Verification failed");
+
+Code(20001);
+Msg("Network exception. Verification failed");
+
+
+Msg("Identity verification expired. Please go back to the previous step to verify again");
+
+Code(10002);
+Msg("Identity verification failed");
+
+Code(10002);
+Msg("Mobile number cannot be blank");
+
+Code(10001);
+Msg("Mobile number format error");
+
+Code(10001);
+Msg("Mobile number verification code cannot be blank");
+
+Code(10001);
+Code(10002);
+Msg("Search on duplication of mobile number failed");
+
+Code(10002);
+Msg("The mobile number is registered");
+
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Code(10002);
+Msg("mobile number verification code error");
+
+
+Code(10002);
+Msg("Updating user mobile number as modified status failed");
+
+Msg("Modifying mobile number failed");
+
+Code(10002);
+Msg("Email cannot be blank");
+
+Code(10001);
+Code(10002);
+Msg("Search on duplication of email failed");
+
+Code(10002);
+Msg("The email is registered");
+
+Code(20001);
+Msg("Network exception");
+
+Msg("Email format error");
+
+Code(10001);
+Msg("Email verification code cannot be blank");
+
+Code(10001);
+Msg("Source error");
+
+Code(10001);
+Msg("Email verification code error");
+
+Code(10002);
+Msg("User has bound the account with an email. Rebinding is not allowed");
+
+Code(10002);
+
+Msg("Updating user email as modified status failed");
+
+Code(10002);
+Msg("Email binding failed");
+
+Code(20001);
+Code(10001);
+Msg("Parameter is blank. Verification failed");
+
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Code(10002);
+Msg("Email verification code error");
+
+Code(10002);
+Msg("User has not bind the account with any email or the email is not verified. Verification failed");
+
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Code(10002);
+Msg("mobile number verification code error");
+
+Code(10002);
+Msg("User has not bind the account with any mobile number. Verification failed");
+
+Code(10001);
+Msg("Verification method error. Verification failed");
+
+Code(20001);
+Msg("Network exception. Verification failed");
+
+
+Msg("Identity verification expired. Please go back to the previous step to verify again");
+
+Code(10002);
+Msg("Identity verification failed");
+
+Code(10002);
+Msg("Email cannot be blank");
+
+Code(10001);
+Msg("Email format error");
+
+Code(10001);
+Msg("Email verification code cannot be blank");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Too many attempts are made. Please try again five minutes later");
+
+Code(10002);
+Msg("Email verification code error");
+
+Code(10002);
+Code(10002);
+Msg("Search on duplication of email failed");
+
+Code(10002);
+Msg("The email is registered");
+
+
+Msg("Updating user email as modified status failed");
+
+Code(10002);
+Code(10002);
+Msg("Modifying email address failed");
+
+Code(10002);
+Msg("User information is not found");
+
+Code(10002);
+Msg("Search on user information failed");
+
+Code(10002);
+Msg("Search on user information failed");
+
+Code(10002);
+Msg("Search on user information failed");
+
+Code(10002);
+Msg("Search on user information failed");
+
+
+Code(20001);
+Msg("Search on user information failed");
+
+
+IsSuccess(false);
+Message("param is invalidate");
+Message("Requests are made too frequently. Please try again later!");
+ErrorCode(StringUtils.isEmpty(code)?0:Integer.parseInt(String.valueOf(code)));
+Message(String.valueOf(validate
+Message("Where the purchasable quantity is exceeded, if there is any doubt, please contact the customer service at 400-615-1212.");
+IsSuccess(false);
+Message("createFloatingIPRequest is null");
+Message("activityId is null");
+Message("actualFee is null");
+Message("dataCenter is null");
+Message("bandwidthOut is null");
+Message("feeType is null");
+Message("Requests are made too frequently. Please try again later!");
+ErrorCode(StringUtils.isEmpty(code)?0:Integer.parseInt(String.valueOf(code)));
+Message(String.valueOf(validate
+Message("Where the purchasable quantity is exceeded, if there is any doubt, please contact the customer service at 400-615-1212.");
+IsSuccess(false);
+Message("createVolumeRequest is null");
+Message("activityId is null");
+Message("actualFee is null");
+Message("dataCenter is null");
+Message("volumeType is null");
+Message("capacity is null");
+Message("count is null");
+Message("feeType is null");
+Message("Requests are made too frequently. Please try again later!");
+Message(String.valueOf(validate
+ErrorCode(Integer.parseInt(validate
+Message("Where the purchasable quantity is exceeded, if there is any doubt, please contact the customer service at 400-615-1212.");
+Data(activityService.queryActivityInfoByUuid(uuid));
+IsSuccess(true);
+Message(e.getMessage());
+IsSuccess(false);
+Message("dataCenter is null");
+IsSuccess(false);
+Message("dataCenter is null");
+IsSuccess(false);
+Message("dataCenter is null");
+Message("type is null");
+Message("osType is null");
+
+Msg("Search succeeded");
+
+
+
+Msg("Search succeeded");
+
+
+Msg(iae.getMessage());
+
+Code(10001);
+
+Msg("Student verification obtaining exception");
+
+Code(20001);
+
+Code(10001);
+Msg("User has no valid record");
+
+
+Code(10001);
+Msg("Authorized by user. Please do not make a duplicate authorization");
+
+
+Msg("Accessing third party's interface failed");
+
+Code(10002);
+
+Msg("Accessing third party's interface failed");
+
+Code(10002);
+
+Msg("User data update failed");
+
+Code(10002);
+
+
+Msg("Calling succeeded");
+
+
+Msg(iae.getMessage());
+
+Code(10001);
+
+Msg("Authorization exception");
+
+Code(20001);
+
+
+Msg("Synchronization succeeded");
+
+Code(20001);
+Msg("Synchronization exception");
+
+Code(10002);
+Msg("User is not logged in");
+
+Code(10001);
+Msg("Parameter error");
+
+Code(10002);
+Msg("User has performed enterprise real-name verification");
+
+
+
+
+
+
+
+
+
+Code(10002);
+Msg("Wrong request");
+
+
+Msg("Saving succeeded");
+
+Code(fiae.getCode());
+Msg(fiae.getMessage());
+
+Code(20001);
+Msg("Interface calling exception");
+
+
+
+Msg("Search succeeded");
+
+
+
+Code(iae.getCode());
+Msg(iae.getMessage());
+
+Code(20001);
+Msg("Interface calling exception");
+
+Code(10002);
+Msg("Updating next step status failed");
+
+
+Msg("Saving enterprise information succeeded");
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(20001);
+Msg("Saving failed");
+
+
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(20001);
+Msg("Interface calling failed");
+
+
+Msg("Search on picture address succeeded");
+
+
+
+Code(10002);
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(10002);
+Msg("Network exception. Obtaining picture information failed");
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(20001);
+Msg("Updating previous step status failed");
+
+
+
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(20001);
+Msg("Network exception. Operation failed");
+
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(20001);
+Msg("Verification waiver failed");
+
+
+Code(10002);
+Msg("Search on bank information failed");
+
+
+Msg("Search succeeded");
+
+
+Code(20001);
+Msg("Search on bank information failed");
+
+Code(10002);
+Msg("Search on province and city failed");
+
+
+
+Msg("Search on province and city succeeded");
+
+Code(20001);
+Msg("Search exception");
+
+Code(10002);
+Msg("Search on subbranch information of bank of deposit failed");
+
+
+Msg("Search on subbranch information succeeded");
+
+
+Code(10002);
+Msg(iae.getMessage());
+
+Code(20001);
+Msg("Subbranch information search exception");
+
+Code(10002);
+Msg("Verification record is absent");
+
+Code(10002);
+Msg("Remittance amount verification error");
+
+
+Msg("Verifying remittance amount succeeded");
+
+
+Code(10002);
+Msg(iae.getMessage());
+
+Code(20001);
+Msg("Remittance amount verification exception");
+
+
+
+Msg("Search succeeded");
+
+Code(fiae.getCode());
+Msg(fiae.getMessage());
+
+Code(20001);
+Msg("Principal information search exception");
+
+Code(fae.getCode());
+Msg(fae.getMessage());
+
+Code(10001);
+Msg("Parameter error");
+
+Code(10002);
+Msg("Obtaining verification code failed");
+
+Msg(booleanBaseResponseVo.getMessage());
+
+Msg("Obtaining verification code failed");
+
+Code(10002);
+Code(10002);
+Msg("Obtaining verification code failed");
+
+Msg("Obtaining verification code succeeded and the code is sent to the mobile number");
+
+Code(20001);
+Msg("Obtaining verification code failed!");
+
+Code(10001);
+Msg("Parameter error");
+
+Code(10002);
+Msg("User has not bind the account with any mobile number!");
+
+Code(10002);
+Msg("Verification code verification exception. Please try again.");
+
+Code(10002);
+Msg(baseResponseVomsg.getMessage());
+
+Msg("Verification code verification exception. Please try again.");
+
+Code(10003);
+Msg("JD Finance has not found the user's "+checkPin+" personal real-name verification information.");
+
+Code(10002);
+Msg("Bound account search exception");
+
+Code(10004);
+
+Msg("The JD account number real-name information has been bound by another JD Cloud account number ("+baseResponse.getData()+").");
+
+Code(10002);
+Msg("Synchronizing user information failed. Please try again!");
+
+Code(10002);
+Msg("Binding failed, please try again");
+
+Msg("Account: "+pin+" has passed the JD Cloud personal real-name verification");
+
+Code(20001);
+Msg("Binding failed");
+
+Code(10003);
+Msg("The account is absent");
+
+Code(10004);
+Msg("The account number is not bound with any mobile number. Please bind it with a mobile number first.");
+
+Msg("Obtaining mobile number succeeded");
+
+
+
+Code(iae.getCode());
+Msg(iae.getMessage());
+
+Code(20001);
+Msg("User search error");
+
+Code(10002);
+Msg("User is not logged in");
+
+Code(10001);
+Msg("Parameter error");
+
+Code(10002);
+Msg("User has performed personal real-name verification");
+
+Code(10002);
+Msg("Bound account search exception");
+
+Code(10004);
+
+Msg("The account number is bound");
+
+
+
+
+
+
+
+
+
+Code(10002);
+Msg("Wrong request");
+
+
+Code(20001);
+Msg("Detailed invoice information obtaining error");
+
+
+
+Code(20001);
+Msg("Detailed invoice information obtaining error");
+
+Code(20001);
+Msg("Invoice information template search exception");
+
+
+Msg(json.getString("msg"));
+
+Code(20001);
+Msg("VAT invoice qualification error");
+
+Code(20001);
+Code(20001);
+Msg(returnInfo.getReturnMsg());
+
+Code(20001);
+Code(20001);
+Msg("Exception on adding information for the power of attorney");
+
+Code(20001);
+Msg(returnInfo.getReturnMsg());
+
+Code(20001);
+Msg("Exception on adding information for the power of attorney");
+
+Code(20001);
+Msg("Setting special VAT invoice information failed");
+
+Msg("Exception occur upon setting special VAT invoice information");
+
+Msg("Set special VAT invoice information qualification object as blank, tax number and customer account number as blank");
+
+Msg("Qualification passing the audit is obtained. The qualification of newly added customer account number has been bound in the base.");
+
+Code(20001);
+Msg("Enterprise user taxpayer identification number cannot be blank");
+
+Code(20001);
+Msg("Invoice information setting exception");
+
+Code(20001);
+Msg("Setting special VAT invoice information failed");
+
+Msg("Exception occur upon setting special VAT invoice information");
+
+Msg("Set special VAT invoice information qualification object as blank, tax number and customer account number as blank");
+
+Msg("Qualification passing the audit is obtained. The qualification of newly added customer account number has been bound in the base.");
+
+Code(20001);
+Msg("Enterprise user taxpayer identification number cannot be blank");
+
+Code(20001);
+Msg("Invoice information setting exception");
+
+Code(20001);
+Code(20001);
+Msg("Obtaining mailing address list failed");
+
+
+Code(20001);
+Code(20001);
+Msg("Setting default address failed");
+
+
+Code(10001);
+Msg("ID cannot be blank");
+
+Code(20001);
+Msg("Detailed address information obtaining error");
+
+
+Code(10001);
+Msg("Parameter error. Modification failed!");
+
+Code(20001);
+Msg("Modifying address failed!");
+
+
+Code(10001);
+Msg("Parameter error. Deletion failed!");
+
+Code(20001);
+Msg("Deleting address failed!");
+
+
+Code(10001);
+Msg("Parameter error. Addition failed!");
+
+Code(20001);
+Msg("Address addition error!");
+
+Code(10001);
+Msg("Parameter error. Billing failed!");
+
+Code(20001);
+Msg("Mailing address information is not found. Billing failed!");
+
+Code(20001);
+Msg("Invoice template information is not found. Billing failed!");
+
+Code(20001);
+Msg("Enterprise user fails to set a taxpayer identification number");
+
+Code(20001);
+Msg("Creating invoice failed!");
+
+Code(20001);
+Msg("Creating invoice failed!");
+
+Code(10001);
+Msg("Parameter error. Withdrawal failed!");
+
+Code(20001);
+Msg("Only invoices in the applied status can be canceled");
+
+Code(20001);
+Msg("Cancelling invoice failed");
+
+Code(20001);
+Msg("Cancelling invoice failed");
+
+Code(10001);
+Msg("Parameter error. Deletion failed!");
+
+Code(20001);
+Msg("Deleting VAT invoice qualification failed!");
+
+Code(20001);
+Msg("Deleting VAT invoice qualification failed!");
+
+Code(20001);
+Msg("Deleting VAT invoice qualification failed!");
+
+Data(new NeedTotpVerifyVo());
+Data(true);
+Data(true);
+Data(false);
+ErrorCode(10002);
+Message("Wrong Verification Code");
+ErrorCode(10001);
+Success(false);
+Message("User is not logged in");
+ErrorCode(20001);
+Success(false);
+Message("Network exception, please try again later");
+ErrorCode(20001);
+Success(false);
+Message("Network exception, please try again later");
+Data(new NeedTotpVerifyVo());
+ErrorCode(10001);
+Success(false);
+Message("User is not logged in");
+Code(20001);
+Msg("Search on contact group list failed");
+
+
+
+Code(10002);
+Msg("Number of contact groups already reach upper limit!");
+
+
+Code(10002);
+Msg("Addition failed because the network is busy");
+
+Code(10001);
+Msg("Contact group name cannot be blank");
+
+Code(10001);
+Msg("Contact group name cannot exceed 10 characters");
+
+Code(10002);
+Msg("The group name already exists!");
+
+
+Code(10002);
+Msg("Addition failed");
+
+Code(10002);
+Msg("Edition failed because the network is busy");
+
+Code(10001);
+Msg("Contact group id parameter is illegal");
+
+Code(10001);
+Msg("Contact group id parameter cannot be blank");
+
+Code(10001);
+Msg("Contact group name cannot be blank");
+
+Code(10001);
+Msg("Contact group name cannot exceed 10 characters");
+
+Msg("Sorry, the group name already exists!");
+
+Code(10002);
+
+Code(10002);
+Msg("Modification failed");
+
+Code(10001);
+Msg("Contact group id parameter is illegal");
+
+Code(10001);
+Msg("Contact group id parameter cannot be blank");
+
+Code(10002);
+Msg("Deleting failed! The contact group is the only message recipient of [" + messageCategoryInfo.getCategoryName() + "]. Please delete upon changing the recipient");
+
+Code(20001);
+Msg("Exception on judging whether the group is the only recipient for a certain category of message");
+
+
+Code(10002);
+Msg("Deleting the association between contact group and contact failed");
+
+
+Code(10002);
+Msg("Deleting group failed");
+
+
+
+Code(20001);
+Msg("Network exception. Search on contact list failed");
+
+
+
+Code(20001);
+Msg("Network exception. Obtaining data failed");
+
+Code(10002);
+Msg("Number of contacts already reach upper limit!");
+
+Code(20001);
+Msg("Search on number of contacts failed");
+
+
+Code(10002);
+Msg("Addition failed because the network is busy");
+
+Msg("User name cannot be blank");
+
+Code(10001);
+Msg("User name cannot exceed 10 characters");
+
+Code(10001);
+Msg("Mobile number cannot be blank");
+
+Code(10001);
+Msg("Mobile number format is incorrect. Please re-enter!");
+
+Code(10001);
+Msg("Number of mobile number verification code errors exceeds the threshold value! Please try again one minute later");
+
+Code(10002);
+Msg("mobile number verification code error!");
+
+Code(10002);
+Msg("mobile number verification code error!");
+
+Code(10002);
+Msg("Email cannot be blank");
+
+Code(10001);
+Msg("Email cannot exceed 50 characters");
+
+Code(10001);
+Msg("Email format error");
+
+Code(10001);
+
+
+
+
+
+Code(10002);
+Msg("Addition failed");
+
+Code(10002);
+Msg("Addition failed because the network is busy");
+
+Msg("User id parameter is illegal");
+
+Code(10001);
+Msg("User id parameter cannot be blank");
+
+Code(10001);
+Msg("User name cannot be blank");
+
+Code(10001);
+Msg("User name cannot exceed 10 characters");
+
+Code(10001);
+Msg("Mobile number format error");
+
+Code(10001);
+Msg("Number of mobile number verification code errors exceeds the threshold value! Please try again one minute later");
+
+Code(10001);
+Msg("mobile number verification code error!");
+
+Code(10002);
+Msg("mobile number verification code error!");
+
+Code(10002);
+Msg("Email cannot exceed 50 characters");
+
+Code(10001);
+Msg("Email format error");
+
+Code(10001);
+Code(10002);
+Msg("Sending notification message failed, please try again");
+
+Code(20001);
+Msg("Notification message sending exception, please try again");
+
+
+Code(10002);
+Msg("Modification failed");
+
+Code(10001);
+Msg("Parameter error");
+
+
+Code(10002);
+Msg("Obtaining contact information failed");
+
+Code(20001);
+Msg("Network exception. Obtaining data failed");
+
+Msg("User id parameter is illegal");
+
+Code(10001);
+Msg("User id parameter cannot be blank");
+
+Code(10001);
+
+
+Code(10002);
+Msg("Obtaining contact information failed");
+
+Msg("User type parameter is illegal");
+
+Code(10001);
+Msg("User type parameter cannot be blank");
+
+Code(10001);
+Msg("User id parameter is illegal");
+
+Code(10001);
+Msg("User id parameter cannot be blank");
+
+Code(10001);
+Msg("Deleting the primary contact identification of other contact(s) failed");
+
+Code(10002);
+Msg("Obtaining primary contact identification of other contacts failed");
+
+Code(10002);
+Msg("Setting primary contact failed");
+
+Code(10002);
+
+Code(10001);
+Msg("User id parameter is illegal");
+
+Code(10001);
+Msg("User id parameter cannot be blank");
+
+Code(10002);
+Msg("Deleting failed! The contact is the only message recipient of [" + messageCategoryInfo.getCategoryName() + "]. Please delete upon changing the recipient");
+
+Code(20001);
+Msg("Exception on judging whether the contact is the only recipient for a certain category of message");
+
+
+Code(10002);
+Msg("Deleting the association between contact and contact group failed");
+
+
+Code(10002);
+Msg("Deleting contact failed");
+
+Code(10002);
+Msg("The user's email is absent");
+
+Code(10002);
+Msg("Resending verification email to the user is not allowed within one minute");
+
+Code(10002);
+Msg("Each user may send up to 10 verification emails every day");
+
+
+Code(10002);
+Msg("Sending notification message failed, please try again");
+
+Code(20001);
+Msg("Notification message sending exception, please try again");
+
+Code(10001);
+Msg("Contact group id parameter is illegal");
+
+Code(10001);
+Msg("Contact group id parameter cannot be blank");
+
+
+
+Code(10002);
+Msg("Search failed");
+
+Code(10001);
+Msg("Contact group id parameter cannot be blank");
+
+Code(10001);
+Msg("Please select at least one member");
+
+Code(10001);
+Msg("Contact type cannot be blank");
+
+Code(10002);
+Msg("Association failed. Please try again");
+
+
+Code(10001);
+Msg("Contact id parameter is illegal");
+
+Code(10001);
+Msg("Contact id parameter cannot be blank");
+
+Code(10001);
+Msg("Contact type parameter is illegal");
+
+Code(10001);
+Msg("Contact type parameter cannot be blank");
+
+
+
+Code(10002);
+Msg("Search failed");
+
+Code(10002);
+Msg("Invalid parameter");
+
+Code(10002);
+Msg("Invalid parameter");
+
+
+Code(10002);
+Msg("Status update failed");
+
+Code(10004);
+Msg("Verified");
+
+Code(10002);
+Msg("User information is blank");
+
+Code(10002);
+Msg("Search on user information failed");
+
+Code(10002);
+Msg("Wrong email link");
+
+
+
+Code(10002);
+Msg("Search on message category failed");
+
+Code(20001);
+Msg("Search on message category failed");
+
+
+
+Code(10001);
+Msg("Parameter error");
+
+
+
+Code(10002);
+Msg("Message id does not belong to the current user");
+
+Code(10002);
+Msg("Search on message details failed");
+
+
+
+Code(10002);
+Msg("Number of message ids cannot exceed 50");
+
+
+Code(10002);
+Msg(msg);
+
+Code(10001);
+Msg("Parameter error");
+
+Code(10001);
+Msg("Number of message ids cannot exceed 50");
+
+
+Code(10002);
+Msg("Setting failed");
+
+
+
+
+Code(10002);
+Msg(baseResponseVo.getMessage());
+
+Code(10002);
+Msg(messageCategoryBaseResponseVo.getMessage());
+
+Code(10002);
+Msg(deleteBaseResponseVo.getMessage());
+
+
+Code(10002);
+Msg(baseResponseVo.getMessage());
+
+Code(10002);
+Msg(messageSettingResponse.getMessage());
+
+
+
+Code(20001);
+Msg("Searching subaccount accesskey list failed");
+
+
+Code(10001);
+Msg(ile.getMessage());
+
+Code(20001);
+Msg("Enabling accesskey failed");
+
+
+Code(10001);
+Msg(ile.getMessage());
+
+Code(20001);
+Msg("Disabling accesskey failed");
+
+
+Code(10001);
+Msg(ile.getMessage());
+
+Code(20001);
+Msg("Deleting accesskey failed");
+
+
+Code(20001);
+Msg("Creating accesskey failed");
+
+
+Code(20001);
+Msg("Number of accesskeys already reach upper creation limit");
+
+Code(20001);
+Msg("Searching whether any accesskey can be created failed");
+
+Code(10001);
+Msg("Page information expired. Please try again after refreshing the page");
+
+Code(10001);
+Msg("Original password is wrong");
+
+Code(10001);
+Msg("Password format error");
+
+Code(10001);
+Msg("Passwords do not match");
+
+Code(10001);
+Msg("New password cannot be the same as the original password");
+
+Code(10002);
+Msg("Modification failed");
+
+Code(10002);
+Msg("The network is busy, please try again later");
+
+Code(10002);
+Msg(String.valueOf(result.get("message")));
+
+
+
+
+Code(10002);
+Msg("Obtaining data failed. Please refresh the page again");
+
+Code(10002);
+Msg("Please log in again");
+
+Code(10002);
+Msg("Resending remittance identification code to the same number is not allowed within one minute");
+
+
+Code(10002);
+Msg("Remittance identification code obtaining error");
+
+
+Code(10002);
+Msg("Remittance identification code obtaining error");
+
+Code(10002);
+Msg("Remittance identification code obtaining error");
+
+Code(10002);
+Msg("Creating recharge order failed");
+
+Code(10002);
+Msg("Please log in again");
+
+Code(10002);
+Msg("Resending remittance identification code to the same number is not allowed within one minute");
+
+Code(10002);
+Msg("Verification code expired");
+
+Code(10002);
+Msg("Wrong Verification Code");
+
+
+
+Msg("Remittance identification code sending error");
+
+Code(10002);
+
+
+Msg("Remittance identification code sending error");
+
+Code(10002);
+
+Code(20001);
+Msg("Remittance claim check obtaining exception");
+
+
+Msg("Duplicate submission!");
+
+
+Msg("Creating remittance order failed");
+
+
+Msg("Creating remittance order failed");
+
+
+Code(20001);
+Msg("Uploading remittance document scanning copy failed");
+
+Msg("Parameter error");
+
+Code(10001);
+
+Msg("Search exception");
+
+Code(20001);
+
+
+
+
+Code(20001);
+Msg("Network exception. Search on real-name verification status failed");
+
+Code(10002);
+Msg("Please log in again");
+
+Code(10001);
+Msg("Please select a valid payment method");
+
+Code(10002);
+Msg("Please select a valid payment method");
+
+Code(10002);
+Msg("Payment amount type conversion exception");
+
+Code(20001);
+Msg("Creating recharge order failed, " + iae.getMessage());
+
+
+
+Code(20001);
+Msg("Creating recharge order failed");
+
+
+
+
+
+Code(20001);
+Msg("System exception. Search failed");
+
+Msg("Email format error");
+
+Code(10001);
+Code(10001);
+Msg("Source parameter cannot be blank");
+
+Code(10002);
+Msg("Resending verification code to the same email is not allowed within one minute");
+
+
+Code(10002);
+Msg("Sending email verification code failed, please try again");
+
+Code(10002);
+Msg("Email verification code sending exception, please try again");
+
+Code(10002);
+Msg("Activated by user.");
+
+Code(10002);
+Msg("Search on user activation information failed");
+
+Code(10002);
+Msg("User information is not found");
+
+Code(10002);
+Msg("Number of mobile number verification code errors exceeds the threshold value! Please try again one minute later");
+
+Code(10002);
+Msg("Verification code is invalid. Please obtain a new one");
+
+Code(10002);
+Msg("Verification code is incorrect");
+
+Code(10002);
+Msg("Verifying whether the Mobile number is duplicated failed");
+
+Code(10002);
+Msg("Mobile number is registered and cannot be used");
+
+Code(10002);
+Msg(updateRes.getMessage());
+
+Code(10001);
+Msg(ile.getMessage());
+
+Code(20001);
+Msg("Activation failed");
+
+
+
+
+
+
+
+
+Code(20001);
+Msg("Search on user activation status failed");
+
+Code(10002);
+Msg(verify
+
+Code(10002);
+Msg("Activated by user.");
+
+Code(10002);
+Msg("Activation failed. Search on user information failed");
+
+Code(10002);
+Msg(addRes.getMessage());
+
+Code(20001);
+Msg("Adding user failed");
+
+
+
+Code(20001);
+Msg("Search on international area code failed!");
+
+Code(20001);
+Msg("Search on international area code failed!");
+
+
+
+Code(10001);
+Msg("Parameter is blank");
+
+Code(10002);
+Msg("User information search error");
+
+Code(10002);
+Msg("User information search error");
+
+Code(10001);
+Msg("Please select the identity");
+
+Code(10001);
+Msg("Please enter " + (userInfoVo.getUserType() == 1 ? "personal" : "enterprise") + "name");
+
+Code(10001);
+Msg("Name up to 50 characters");
+
+Code(10001);
+Msg("Please select the primary industry");
+
+Code(10001);
+Msg("Please select your region");
+
+Code(10001);
+Msg("Primary business up to 500 characters");
+
+Code(10001);
+Msg("Detailed address up to 500 characters");
+
+Code(10001);
+Msg("Contact phone number up to 50 characters");
+
+Code(10001);
+Msg("URL up to 150 characters");
+
+
+
+
+
+
+Code(20001);
+Msg("System exception. Setting failed");
+
+Code(10002);
+Msg("Warning threshold exceeds the length limit!");
+
+Code(10002);
+Msg("Balance warning function is not enabled");
+
+Code(20001);
+Msg("Network exception");
+
+
+Code(10002);
+Msg("Modification failed");
+
+Code(10002);
+Msg("User is not logged in");
+
+
+Code(10002);
+Msg("User is not logged in");
+
+BUSINESS_EXCEPTION("50000","Verification feedback!"),
+NET_ERROR("50001","Network exception, please try again!"),
+PARAM_EXCEPTION("50002","Parameter exception. Please try again!"),
+PERSON_NOAUTH("50003","The individual is not verified!"),
+COMPANY_NOAUTH("50004","Enterprise is not verified!"),
+INDIVIDUAL_NOAUTH("50005","Individual units of industry and commerce are not verified!"),
+STUDENT_NOAUTH("50006","The student real-name is not verified!"),
+MANY_REQUEST("50007","Requests are made too frequently!"),
+SECCESS("50008","Succeeded!"),
+OVER_CAN_BUY_AMOUNT("50009","The purchasable quantity is exceeded!"),
+NO_SUPPORT_INDIVIDUAL("50010","Verification for individual units of industry and commerce is not supported"),
+NO_SUPPORT_COMPANY("50011","Enterprise verification is not supported")
