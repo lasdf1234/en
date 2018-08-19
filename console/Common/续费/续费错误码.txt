@@ -1,0 +1,11 @@
+ACTIVE_ORDER_HAS_UNHANDLED_ORDER(12004, "There is uncompleted order in this resource"),
+    // ip黑名单校验
+    ACTIVE_USER_NO_POWER(30001, "User IP is in the blacklist, without permission"),
+    // pin黑名单校验
+    ACTIVE_USER_ENAVLED_STATUS(30002, "User pin is in the blacklist, without permission"),
+    // 实名认证
+    ACTIVE_USER_PRIVILEGENEW(30003, "User real-name verification is not done, without permission"),
+    // 欠费
+    ACTIVE_USER_IS_ARREAR(30004, "User arrears, Pay-As-You-Go order creation failed"),
+    // 门槛
+    ACTIVE_USER_IS_THRESHOLD(30005, "Passing the threshold verification failed")
