@@ -12,6 +12,6 @@
 * Search by the Message ID.
  
 1. Choose topic name that you want to search.
-2. Input Message ID.
-3. Choose time duration and click Search.
+2. Input **Message ID**.
+3. Choose time duration and click **Search**.
 4. You can choose one message, and see the details.
