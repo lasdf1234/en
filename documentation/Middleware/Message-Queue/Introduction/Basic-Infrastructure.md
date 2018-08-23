@@ -1,8 +1,8 @@
 # Basic Infrastructure
 The cluster structure of MQ synchronizes writing three copies of backup, ensures high reliability and high availability of the service. The framework of independent research and development ensures the high performance of services to meet the needs of different businesses.
 
-## Service Structure
-The service structure is as follows: 
+## Business Structure
+The business structure is as follows: 
 ![](https://github.com/jdcloudcom/en/blob/translationUse/image/MQ/Basic-Infrastructure-en.png)
 
 | Term | Description |
