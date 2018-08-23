@@ -11,13 +11,13 @@ You have created the topics.
  
 2. When you have entered the subscription information, click **Subscribe** button.
  
-I. The Consumer Group ID must be globally unique, if a name already exists; you are not able to create a Consumer Group ID any more. The Consumer Group ID only contains letters, numbers, hyphens (-), underscores (_), and the length is 7~64 characters.
+  a. The Consumer Group ID must be globally unique, if a name already exists; you are not able to create a Consumer Group ID any more. The Consumer Group ID only contains letters, numbers, hyphens (-), underscores (_), and the length is 7~64 characters.
 
-II. The relationship between Consumer Group ID and topic is N:M; that is the same Consumer Group ID can subscribe multiple topics, and the same topic can be bound with multiple Consumer Group ID.
+  b. The relationship between Consumer Group ID and topic is N:M; that is the same Consumer Group ID can subscribe multiple topics, and the same topic can be bound with multiple Consumer Group ID.
 
-III. Choose the sending message type that includes SDK and HTTP two methods.
+  c. Choose the sending message type that includes SDK and HTTP two methods.
 
-IV. Subscriber tag rules: tag is a message subscriber filters the messages, when the subscriber set the tag, the subscriber can consume the same tag message, if you do not set the tag, the subscriber does not filter the message. A single tag is a string of no more than 64 characters, separated by a ','. 
+  d. Subscriber tag rules: tag is a message subscriber filters the messages, when the subscriber set the tag, the subscriber can consume the same tag message, if you do not set the tag, the subscriber does not filter the message. A single tag is a string of no more than 64 characters, separated by a ','. 
 
 *	For message 1, does not have message tag, the subscriber has tag, then the subscriber does not match and receives no news.
 *	For message 2, the message has a tag, the subscriber does not have a tag, the message does not need to match when delivered, and all the subscribers can receive the message.
