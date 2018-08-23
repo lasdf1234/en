@@ -17,6 +17,6 @@ Resend or delete all the dead letters.
   
 
 You can choose to resend all the dead letters or delete all the dead letters.
-•	Resend All: Dead letters will be reentered the topic and sent to the subscriber related to the subscription.
-•	Delete All: Dead letters will be deleted all, and will not be resent.
+*	Resend All: Dead letters will be reentered the topic and sent to the subscriber related to the subscription.
+*	Delete All: Dead letters will be deleted all, and will not be resent.
 You can also click "Total Dead Letters" to enter the "Dead Letter Details", and delete or resend single dead letter.
