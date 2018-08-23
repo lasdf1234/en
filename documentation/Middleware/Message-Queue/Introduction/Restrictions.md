@@ -1,12 +1,11 @@
-# 限制说明
-
-您可以快速使用消息队列 JCQ，但使用中有部分约束条件需要注意。
-
-| 限制项	| 是否可调整	| 调整方式 |
+# Restrictions
+When you use MQ, there are some restrictions to pay attention.
+| Restriction Items	| Adjust or Not	| Adjust Method |
 | :- | :- | :- |
-|每个Topic的TPS限制是5000	|是	|工单|
-|消息的生命周期（持久化存储时间）为3天	|否	|-|
-|消息大小最大限制为256KB	|否	|-|
-|消息消费失败后重发最大尝试次数为16次	|否	|-|
+| TPS of each Topic is 5000	| Yes |	Ticket |
+| The life cycle ( persistent storage time ) of the message is 3 days |	No	| - |
+| The maximum size of the message is 256KB	| No |	- |
+| After the failure of message consumption, the maximum number of attempts to retry is 16 times.	| No	| - |
+
 
 
