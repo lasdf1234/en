@@ -1,26 +1,26 @@
 # Create Resource
 In MQ, the production and consumption of messages need to be in the form of topic subscription, so the user first needs to create a message topic, sends the message to a specified message topic, and the consumer consumes the message by subscribing to the consumer body. 
 ## Prerequisites
-- 已注册京东云账号，并完成实名认证，且保证账户处于正常状态，没有在黑名单中。如果还没有账号请 [注册](https://accounts.jdcloud.com/p/regPage?source=jdcloud&ReturnUrl=%2f%2fuc.jdcloud.com%2fpassport%2fcomplete%3freturnUrl%3dhttp%3A%2F%2Fuc.jdcloud.com%2Fredirect%2FloginRouter%3FreturnUrl%3Dhttps%253A%252F%252Fwww.jdcloud.com%252Fhelp%252Fdetail%252F734%252FisCatalog%252F1)，并 [实名认证](https://uc.jdcloud.com/account/certify)。
-- 因为产品的计费类型为按用量计费，请确认您的账户不能处于欠费状态。
+- You have created a JD Cloud account and finished real-name verification. Your account is usable and doesn't exist in the black list. 
+If you don't have an account, please [Register](https://accounts.jdcloud.com/p/regPage?source=jdcloud&ReturnUrl=%2f%2fuc.jdcloud.com%2fpassport%2fcomplete%3freturnUrl%3dhttp%3A%2F%2Fuc.jdcloud.com%2Fredirect%2FloginRouter%3FreturnUrl%3Dhttps%253A%252F%252Fwww.jdcloud.com%252Fhelp%252Fdetail%252F734%252FisCatalog%252F1), and [verify real-name](https://uc.jdcloud.com/account/certify)。
+- Because the billing type of the product is charged by amount, please confirm that your account cannot be overdued.
 
-## 注意事项
-- 公测期间用户最多只能创建5个topics。
-- 对于某个topic的订阅Consumer Group数量没有限制。
-
+## Considerations
+- During public beta, the user can create at most 5 topics.
+- There is no limit to the number of Consumer Group subscriptions for a topic.
 
 ## Step 1: Create Consumption Topic
-1.	Sign in to the JD Cloud console, the menu is “Middleware > MQ > Topic Management”.
-2.	Choose the region of creating resources, and then click Create button to create topic. 
-3.	You need to fill in Topic Name, Message Type and Remarks during creating topic. 
+1. Sign in to the JD Cloud console, the menu is “Middleware > MQ > Topic Management”.
+2. Choose the region of creating resources, and then click Create button to create topic. 
+3. You need to fill in Topic Name, Message Type and Remarks during creating topic. 
 ### Note:
-1.	The Topic Name must be globally unique, if a name already exists; you are not able to create a Topic Name any more. The topic only contains letters, numbers, hyphens (-), underscores (_), waveforms (~) or sign (+), and the length is 3~64 characters.
-2.	The message type includes unordered messages and global ordered messages. 
-•	Unordered Message: It does not guarantee the order consumption of first in first out (FIFO), including general and delayed messages. 
-•	Global Ordered Message: The production and consumption of the message is published according to FIFO. 
+1. The Topic Name must be globally unique, if a name already exists; you are not able to create a Topic Name any more. The topic only contains letters, numbers, hyphens (-), underscores (_), waveforms (~) or sign (+), and the length is 3~64 characters.
+2. The message type includes unordered messages and global ordered messages. 
+*	Unordered Message: It does not guarantee the order consumption of first in first out (FIFO), including general and delayed messages. 
+*	Global Ordered Message: The production and consumption of the message is published according to FIFO. 
 ## Step 2: Add Subscription 
-1.	In “Topic Management” page, find the topic you want to subscribe, and you can subscribe in the operations.
-2.	To add a subscriber, you need to create / bind an existing Consumer Group ID, select the transport type, and add a tag. 
+1. In “Topic Management” page, find the topic you want to subscribe, and you can subscribe in the operations.
+2. To add a subscriber, you need to create / bind an existing Consumer Group ID, select the transport type, and add a tag. 
 
 ### Note:
 1. The Consumer Group ID must be globally unique. If a name already exists, you are not able to create a Consumer Group ID with that name any more. The Consumer Group ID only contains letters, numbers, hyphens (-), underscores (_), and the length is 7~64 characters.
