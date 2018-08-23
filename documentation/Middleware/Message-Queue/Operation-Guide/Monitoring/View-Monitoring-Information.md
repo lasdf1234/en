@@ -14,7 +14,7 @@ The MQ console provides rich performance monitoring data; you can always view th
 | Type	| KPI	| Description |
 | --- | --- | --- |
 | Topic	| Produced TPS (/second) |	Number of messages produced per second |
-| Topic	Number of published messages	| The number of messages sent by a producer to a topic |
+| Topic |	Number of published messages	| The number of messages sent by a producer to a topic |
 | Topic	| The number of API requests that have been published (Times)	| Number of requests that producers sending messages to topic |
 | Topic	| The size of the published message (byte)	| The message size of topic that producers send messages to topic. |
 | Consumer Group	| Consumed TPS (/sec) |	Number of messages that consumed per second |
