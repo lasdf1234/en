@@ -1,7 +1,6 @@
-# 创建资源
-在消息队列 JCQ中，消息的生产和消费需要通过主题订阅的形式，故用户首先要创建消息主题（topic），发送消息到某个指定的消息主题，而消费者通过订阅该消费主体进行消息消费。
-
-## 前提条件
+# Create Resource
+In MQ, the production and consumption of messages need to be in the form of topic subscription, so the user first needs to create a message topic, sends the message to a specified message topic, and the consumer consumes the message by subscribing to the consumer body. 
+## Prerequisites
 - 已注册京东云账号，并完成实名认证，且保证账户处于正常状态，没有在黑名单中。如果还没有账号请 [注册](https://accounts.jdcloud.com/p/regPage?source=jdcloud&ReturnUrl=%2f%2fuc.jdcloud.com%2fpassport%2fcomplete%3freturnUrl%3dhttp%3A%2F%2Fuc.jdcloud.com%2Fredirect%2FloginRouter%3FreturnUrl%3Dhttps%253A%252F%252Fwww.jdcloud.com%252Fhelp%252Fdetail%252F734%252FisCatalog%252F1)，并 [实名认证](https://uc.jdcloud.com/account/certify)。
 - 因为产品的计费类型为按用量计费，请确认您的账户不能处于欠费状态。
 
@@ -9,32 +8,36 @@
 - 公测期间用户最多只能创建5个topics。
 - 对于某个topic的订阅Consumer Group数量没有限制。
 
-## 步骤一：创建消费主题
-1. 进入京东云控制台，菜单互联网中间件-消息队列 JCQ-Topic管理。
-2. 首先选择想要创建资源的区域（比如华北），然后点击“新建”按钮，创建topic。
-3. 创建topic中需要填写“topic名称”、选择消息类型和填写备注。
-### 说明：
-1. topic名称为全局唯一，如果有相同名称的topic被创建，则无法创建成功。并且topic只能包含字母、数字、连字符(-)、下划线(_)、波形符 (~)或加号 (+)，长度 为3-64 个字符。
-2. 消息类型非为无序消息和全局顺序消息。
 
-- 无序消息：不保证先入先出（FIFO）的顺序消费，包含普通消息和延时消息。
-- 全局顺序消息：消息的生产和消费按照消息的发布顺序进行（FIFO）。
+## Step 1: Create Consumption Topic
+1.	Sign in to the JD Cloud console, the menu is “Middleware > MQ > Topic Management”.
+2.	Choose the region of creating resources, and then click Create button to create topic. 
+3.	You need to fill in Topic Name, Message Type and Remarks during creating topic. 
+### Note:
+1.	The Topic Name must be globally unique, if a name already exists; you are not able to create a Topic Name any more. The topic only contains letters, numbers, hyphens (-), underscores (_), waveforms (~) or sign (+), and the length is 3~64 characters.
+2.	The message type includes unordered messages and global ordered messages. 
+•	Unordered Message: It does not guarantee the order consumption of first in first out (FIFO), including general and delayed messages. 
+•	Global Ordered Message: The production and consumption of the message is published according to FIFO. 
+## Step 2: Add Subscription 
+1.	In “Topic Management” page, find the topic you want to subscribe, and you can subscribe in the operations.
+2.	To add a subscriber, you need to create / bind an existing Consumer Group ID, select the transport type, and add a tag. 
 
-## 步骤二：添加订阅
-1. 在Topic管理页面中，找到想要订阅的topic，在操作中可以选择订阅。
-2. 在添加订阅者中需要新建/绑定已有Consumer Group ID，选择传送类型。
-### 说明：
-1. Consumer Group ID为全局唯一，如果有相同名称的Consumer Group ID被创建，则无法创建成功。并且Consumer Group ID只能包含字母、数字、连字符(-)和下划线(_)，长度7-64字符。
-2. Consumer Group ID 和topic的关系是多对多关系（N：M），同一个Consumer Group ID可以订阅多个topic，同一个topic可以对应多个Consumer Group ID。
-3. 选择发送消息的类型，包括SDK和 Http两种方式。
-4. 订阅者tag的规则说明：tag是消息订阅者对于消息的筛选，当订阅者设置了tag时，有相同tag的消息才能被订阅者消费，如果没有设置tag，则订阅者对消息不做筛选。单个订阅者可最多可添加5个标签，单个标签为不超过64个字符的字符串，以‘,’号分割。
-- 对于消息1，没有消息tag，订阅者有tag，则该订阅者不匹配，收不消息；
-- 对于消息2， 消息有tag， 订阅者没有tag，投递时消息不用匹配，订阅者都能收到消息；
-- 对于消息3，消息有tag，订阅者也有tag的时候，两者匹配的，才能收到消息；
-- 对于消息4，消息没有tag，订阅者也没有tag，投递后，所有订阅者都能收到消息。
+### Note:
+1. The Consumer Group ID must be globally unique. If a name already exists, you are not able to create a Consumer Group ID with that name any more. The Consumer Group ID only contains letters, numbers, hyphens (-), underscores (_), and the length is 7~64 characters.
+2. The relationship between Consumer Group ID and topic is N:M; that is the same Consumer Group ID can subscribe multiple topics, and the same topic can be bound with multiple Consumer Group ID.
+3. Choose the message type to send, including SDK method and HTTP method.
+4. Subscriber tag rules: tag is a message subscriber for message filtering, when the subscriber sets the tag, the same tag message can be consumed by the subscriber, if not set the tag, the subscriber does not filter the message. A single subscriber can add up to five tags, a single tag is a string of no more than 64 characters, separated by a','sign. 
 
-## 步骤三：创建 AccessKey和 SecretKey
-在调用消息队列 JCQ的SDK或者openAPI进行消息的发送消费和管理操作时候，还需要验证用户的身份信息，即需要在控制台创建AccessKey和 SecretKey。
-### 创建方法：
-在京东云用户中心账户管理下的AccessKey管理页面申请AccessKey和SecretKey密钥对（简称AK/SK）。
-AK/SK信息请妥善保管，如果遗失可能会造成非法用户使用此信息操作您在云上的资源，给你造成数据和财产损失。AK/SK密钥对允许启用、禁用，启用后可用其调用OpenAPI，禁用后不能用其调用OpenAPI。
+*	For message 1, if there is no message tag and the subscriber has a tag, the subscriber does not match and cannot receive the message. 
+*	For message 2, the message has a tag, the subscriber does not have a tag, the message does not need to match when delivered, and the subscriber all can receive the message.
+*	For message 3, the message has a tag, when the subscriber has a tag, the two match to receive the message.
+*	For Message 4, there is no tag for the message, and no tag for the subscriber. After delivery, all subscribers can receive the message. 
+
+## Step 3: Create AccessKey and SecretKey
+When calling the SDK or openAPI of MQ to send, consume, and manage messages, you need to verify the user’s identity information, that is, you need to create AccessKey and SecretKey in the console. 
+
+### Create method:
+Apply for AccessKey and SecretKey key pairs (AK / SK for short) on AccessKey management pages under account management of JD Cloud User Center. AK / SK information should be kept properly, if lost, it may lead illegal users to use this information to manipulate your resources in the cloud, cause your data and property losses. AK / SK key pairs are allowed to be enabled, disabled, and can be used to call the OpenAPI when enabled, but cannot be used to call the OpenAPI when disabled. 
+
+
+
