@@ -18,5 +18,5 @@ MQ(Message Queue) is a distributed message queue service developed by JD Cloud, 
   
 ## Billing
 
-MQ supports Pay-As-You-Go billing method, for details to see [Billing-Rules](https://github.com/jdcloudcom/en/blob/edit/documentation/Middleware/Message%20Queue/Pricing/Billing-Rules.md).
+MQ supports Pay-As-You-Go billing method, for details to see [Billing-Rules](https://github.com/jdcloudcom/en/blob/edit/documentation/Middleware/Message-Queue/Pricing/Billing-Rules.md).
 
