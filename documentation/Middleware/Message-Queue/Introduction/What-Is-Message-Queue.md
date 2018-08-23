@@ -1,23 +1,22 @@
-# 产品概述
+# What is MQ?
+MQ(Message Queue) is a distributed message queue service developed by JD Cloud, which realizes asynchronous decoupling among services in the distributed architecture. The product can provide asynchronous communication mechanism for different applications of distributed deployment or the different components of the same application. JD Cloud Message Queue realizes the functions of publishing and subscription, message query, dead letter queue, reset consumer offset, sequence message and delay message, has the characteristics of high availability, high reliability, high performance, smooth expansion and dynamic monitoring. Message Queue is an indispensable core product in the cloud architecture.
+## How Can I Get Started with MQ?
+- Quick Start
+	- [Create Resources](../Getting-Started/Create-Resource.md)
+	- [Produce and Consumer Message](../Getting-Started/Produce-And-Consumer-Message.md)
+- Topic Management
+	- [Create Topic](../Operation-Guide/Topic-Management/Create-Topic.md)
+	- [Subscribe](../Operation-Guide/Topic-Management/Subscribe.md)
+	- [Delete and Manage Topic](../Operation-Guide/Topic-Management/Delete-And-Manage-Topic.md)
+- Message Subscription
+	- [Send Message](../Operation-Guide/Message-Management/Send-Message.md)
+	- [Query Message](../Operation-Guide/Message-Management/Query-Message.md)
+	- [Redrive Message](../Operation-Guide/Backup/Message-Management/Dead-Letter-Queue.md)
+- Operation and Maintenance Management
+	- [View Monitoring Information](../Operation-Guide/Monitoring/Monitoring.md)
+	- [Set Alarm Rules](../Operation-Guide/Monitoring/Alarm-Rules.md)
+  
+## Billing
 
-京东云消息队列（JD Cloud Message Queue，简称JCQ）是京东云自主研发的分布式消息队列服务，实现分布式架构中服务间的异步解耦，产品能够为分布式部署的不同应用之间或者同一个应用的不同组件之间，提供可靠异步通信机制，并且实现了消息的发布订阅、消息查询、死信队列、重置消费点位、顺序消息和延时消息等功能，具有高可用、高可靠、高性能、平滑扩容和动态监控等特性，是云架构中不可或缺的核心产品。
+MQ supports Pay-As-You-Go billing method, for details to see [Billing-Rules](https://github.com/jdcloudcom/en/blob/edit/documentation/Middleware/Message%20Queue/Pricing/Billing-Rules.md).
 
-## 常用操作
-
-- 快速上手
-	- [创建资源](../Getting-Started/Create-Resource.md)
-	- [生产和消费消息](../Getting-Started/Produce-And-Consumer-Message.md)
-- 主题管理
-	- [创建Topic](../Operation-Guide/Topic-Management/Create-Topic.md)
-	- [删除Topic](../Operation-Guide/Topic-Management/Subscribe.md)
-	- [删除Topic](../Operation-Guide/Topic-Management/Delete-And-Manage-Topic.md)
-- 消息订阅
-	- [发送消息](../Operation-Guide/Message-Management/Send-Message.md)
-	- [查询消息](../Operation-Guide/Message-Management/Query-Message.md)
-	- [重试消息](../Operation-Guide/Message-Management/Redrive-Message.md)
-- 运维管理
-	- [查看监控信息](../Operation-Guide/Monitoring/Monitoring.md)
-	- [设置报警规则](../Operation-Guide/Monitoring/Alarm-Rules.md)
-
-## 计费
-消息队列 JCQ支持按流量计费后付费的计费类型。详细说明请参见：[计费说明](https://github.com/jdcloudcom/cn/blob/edit/documentation/Internet-Middleware/Message%20Queue/Pricing/Billing-Rules.md)。
