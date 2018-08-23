@@ -11,7 +11,7 @@ MQ(Message Queue) is a distributed message queue service developed by JD Cloud, 
 - Message Subscription
 	- [Send Message](../Operation-Guide/Message-Management/Send-Message.md)
 	- [Query Message](../Operation-Guide/Message-Management/Query-Message.md)
-	- [Redrive Message](../Operation-Guide/Backup/Message-Management/Dead-Letter-Queue.md)
+	- [Redrive Message](../Operation-Guide/Backup/Message-Management/Redrive-Message.md)
 - Operation and Maintenance Management
 	- [View Monitoring Information](../Operation-Guide/Monitoring/Monitoring.md)
 	- [Set Alarm Rules](../Operation-Guide/Monitoring/Alarm-Rules.md)
