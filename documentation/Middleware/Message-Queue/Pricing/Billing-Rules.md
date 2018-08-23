@@ -1,10 +1,8 @@
-# 计费规则
+# Billing Rules
+MQ supports Pay-As-You-Go billing method: Pay By Consumption.
+## Pay By Consumption
+### Introduction
+Pay By Consumption is Pay-As-You-Go billing method, the billing unit is day, the billing period is natural day (outputs the bill on the next day). 
+### Sample
+You start to use the MQ of Pay By Consumption, balance the last natural day at 00:00:00 July 17, 2018, and will balance the last day’s fee at 00:00:00 of everyday. After you delete the MQ topic for one day, and balance the cycle’s fee.
 
-消息队列 JCQ支持后付费计费模式：
- * 按用量计费类型
-
-## 按用量计费
-### 介绍
-   按用量计费为后付费方式，计费单位为天，计费周期为自然日（次日出账单）。
-### 示例
-您在2018-7-16 10:00:00开始使用按用量计费的消息队列 JCQ，则在2018-7-17 00:00:00结算上一个自然日的费用，在后续的每天0点结算前一天的费用，在您删除消息队列 JCQ topic之后一天结算该周期的尾款。
