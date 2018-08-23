@@ -1,0 +1,73 @@
+1. a is not b's subaccount
+2. User name is illegal
+3. Subaccount user name cannot be consistent with the primary account user name
+4. User name is duplicated
+5. User name contains sensitive word(s)
+6. Subaccounts are too many. Please do not continue creating
+7. The network is busy, please try again later
+8. Subaccount user name is duplicated
+9. Subaccount user name and primary account user name cannot be the same
+10. Virtual pin creation by calling store interface failed, error:
+11. User pin generation failed
+12. The generated subaccount pin is duplicated
+13. Subaccount user name and primary account user name cannot be the same
+14. The group already exists
+15. Group update failed
+16. It already exists
+17. Permission name contains sensitive word(s)
+18. Number of policies created exceeds the limit
+19. Policy creation failed
+20. Illegal policy version
+21. Resource error
+22. System's built-in authorization policy cannot be deleted
+23. System's built-in authorization policy cannot be updated
+24. No access right
+25. Invalid permission
+26. Subaccount user name cannot be consistent with the primary account user name
+27. The old password is not correct
+28. Mobile number format error
+29. The verification code can only be sent once within one minute
+30. SMS sending failed
+31. The primary account has not been bound with mobile number
+32 The name contains sensitive word(s)
+33. Group information is not found
+34. Permission information is not found
+35. Number of accesskeys created already reach upper limit
+36. Parameter input format error
+37. It cannot be blank
+38. Product line is absent
+39. Please enable mfa first
+40. Invalid policy format
+41. Invalid policy
+42. Format is illegal
+43. Policy creation for a is not supported
+44. Specified b permission is not supported by a
+45. The same permission is specified more than once in the policy
+46. System permission cannot be deleted
+47. Authorization policy has been used
+48. Invalid verification code
+49. Subaccount cannot be blank
+50. Invalid grouping
+51. Invalid mobile number
+52. Verification code cannot be blank
+53. Invalid content
+54. Invalid group name
+55. Invalid description
+56. Invalid name
+57. Invalid user name
+58. Invalid mobile number
+59. Invalid email
+60. Invalid password
+61. Passwords do not match
+62. Access source cannot be blank
+63. Invalid group id
+64. Password format error
+65. New password format error
+66. Name cannot be blank
+67. Wrong collation
+68. Subaccount format is illegal
+69. Name format error
+70. Description format error
+71. Permission id error
+72. Content format error
+73. Operation protection enable status error
