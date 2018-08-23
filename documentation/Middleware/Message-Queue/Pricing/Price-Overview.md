@@ -1,37 +1,27 @@
-# 价格总览
-消息队列 JCQ按照API调用费和Topic资源占用费组合收费。</br>
-消息队列JCQ费用 = API调用费 + Topic资源占用费
-
-## API调用费：
-请求次数：发送消息 API 调用次数 + 订阅消息 API 调用次数，以百万次为单位，精确到小数点后三位。
-
-|按阶梯计费	| 调用次数/月累计	| 百万次费用|
+# Price Overview
+MQ charges the fee according to combination of the API Call Fee and Topic Resource Occupancy Fee.
+MQ Cost = API Call Fee + Topic Resource Occupancy Fee
+## API Call Fee
+Number of requests: Calling number of sending messages + API calling number of subscription messages, the unit is in millions, accurate to three decimal places.
+| Billing by Ladder	| Total Amount of Calling/Month	| Cost of Million Times |
 |:--|:-- |--: |
-| 第一阶梯 | 0-10 亿次 | 2 元 |
-| 第二阶梯 | 10-50 亿次	| 1.8 元 |
-| 第三阶梯 | 50-100 亿次 | 1.5 元 |
-| 第四阶梯 | 100-500 亿次	| 1.3 元 |
-| 第五阶梯 | 500 亿次以上	| 1.2 元 |
-
-
-## Topic资源占用费：
-
-|按阶梯计费 | 调用次数/日/Topic	| 每个Topic每日费用|
+| First Ladder	| 0-1 billion times	| 2 RMB |
+| Second Ladder	| 1-5 billion times	| 1.8 RMB |
+| Third Ladder	| 5-10 billion times	| 1.5 RMB |
+| Forth Ladder	| 10-50 billion times	| 1.3 RMB |
+| Fifth Ladder	| 50 billion above	| 1.2 RMB |
+## Topic Resource Occupancy Fee
+| Billing by Ladder |	Number of Calling/Day/Topic	| Cost/Day/Topic |
 |:--|:-- |--: |
-| 第一阶梯 | 0-100 万次	| 2 元 |
-| 第二阶梯 | 100-500 万次	| 1.5 元 |
-| 第三阶梯 | 500-1000 万次 | 0.5 元 |
-| 第四阶梯 | 1000万次以上 |  0 元 |
+| First Ladder	| 0-1 million times	| 2 RMB |
+| Second Ladder |	1-5 million times	| 1.5 RMB |
+| Third Ladder |	5-10 million times	| 0.5 RMB |
+| Forth Ladder	| 10 million times above	| 0 RMB |
 
+### Billing Notes
+*	The maximum size of the message body is 256KB and is charged by one request per 4 KB publish or subscribe data (less than 4 KB is charged by 4 KB). For example, the one load (publish or subscribe) API call of 64 KB will be charged at 64/4 request. 
+*	Ordered Message: The publish request is charged 25 times at a time, and the subscription request is charged 25 times at a time. For example, publish the order message once, subscribe to the message once, and charge according to 25+25=50 API call. 
+*	Delayed Message: The publish request is charged 25 times at a time, and the subscription is charged according to the general message. For example, publish a delay message once, subscribe to the message once, and charge according to 25+1=26 API call. 
+*	Payment method: MQ is Pay-As-You-Go product, pay by consumption; Pay the bill according to the day (output the bill on the next day). 
+*	The call sending and receiving API is billing, the measurement unit is millions of times.
 
-### 计费说明：
-
-- 消息体大小最大限制为256KB，每 4 KB 发布或订阅数据以 1 次请求计费（不足4KB以4KB计费）。例如，1 次负载（发布或订阅）为 64 KB 的 API 调用将以 64/4 次请求计费；
-
-- 顺序消息：发布请求一次按照 25 次计费，订阅请求一次按照 25 次计费。例如，发布顺序消息一次，订阅该消息一次，按照 25+25=50 次 API 调用计费；
-
-- 延时消息：发布请求一次按照 25 次计费，订阅按照普通消息计费。例如，发布延时消息一次，订阅该消息一次，按照 25+1=26 次 API 调用计费；
-
-- 付费方式：JCQ为后付费产品，按量付费；按天出一次账单（次日出账单）；
-
-- 调用发送接收 API 均计费，计量单位为百万次。
