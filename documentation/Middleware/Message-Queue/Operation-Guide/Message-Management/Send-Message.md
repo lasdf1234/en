@@ -12,9 +12,11 @@ Topic and subscription relationships have been created, and the state is in serv
 2. Complete filling in the content of sending message, and click **Send** button. 
  
 
-a. Enter Message Body and tag, and if you want to send the delay message, you can set the message delay time.
-b. When the message is sent successfully, it returns the Message Sending Success Notice and Message ID, which can be viewed by clicking on the message details.
-c. Note:
+    a. Enter Message Body and tag, and if you want to send the delay message, you can set the message delay time.
+
+    b. When the message is sent successfully, it returns the Message Sending Success Notice and Message ID, which can be viewed by clicking on the message details.
+
+    c. Note:
 *	Message life cycle is 3 days, message deletion beyond life cycle cannot be restored, and Message Body supports is up to 256 Kb.
 *	The delay time of messages is 0~3600 seconds. 
 *	Subscriber tag rules specify that a tag is a message subscriber's filter for a message. When a subscriber sets a tag, the subscriber consumes messages with the same tag. If no tag is set, the subscriber does not filter the message. 
