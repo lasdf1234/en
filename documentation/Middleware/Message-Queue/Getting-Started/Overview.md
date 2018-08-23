@@ -1,13 +1,12 @@
-# 使用须知
-消息队列 JCQ的快速使用步骤：
+# Overview
+## Quickly Start Procedure
+The procedure of quickly using the MQ:
+1.	Apply for open beta: Click Apply for Open Beta on MQ “Products” page, and then after the operator approval to join the open beta list, the user receives the notification that has been opened (e-mail or SMS), the user enters the console to start using, the service is in the menu “Middleware > Message Queue”. (Applicable during the open beta period)
+2.	Create resources.
+3.	Send the consumer messages. 
+Note: 
+For security reasons, MQ currently only supports intranet connections, not support public network direct connections.
+If you need a local MQ, use proxy forwarding to implement. 
+## The access protocol and development language supported by MQ
+At present, we only support TCP (SDK) and HTTP protocol under Java.
 
-1. 申请公测：在消息队列产品页面点击申请公测，之后经过运营人员审批加入公测名单，用户收到已开通的通知（邮件或短信），用户进入控制台开始使用，服务在菜单互联网中间件-消息队列 JCQ。【公测期适用】
-2. 创建资源
-3. 发送消费消息
- 注: 出于安全考虑，消息队列 JCQ目前仅支持内网连接，不支持公网直接连接。</br>
-如果您需要本地直接消息队列 JCQ，可以通过代理转发的方式实现，操作方式请参考公网访问方法。
-
-
-
-### 消息队列 JCQ支持的接入协议和开发语言：
-目前仅支持Java下的TCP（SDK）和HTTP协议。
