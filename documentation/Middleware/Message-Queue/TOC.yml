@@ -4,7 +4,7 @@
   - name: Introduction
     items:
       - name: What Is MQ?
-        href: Introduction/What-Is-Message-Queue.md
+        href: Introduction/What-Is-MQ.md
       - name: Core Concepts
         href: Introduction/Core-Concepts.md
       - name: Basic Infrastructure
