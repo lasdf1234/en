@@ -1,5 +1,6 @@
 # Price Overview
 MQ charges the fee according to combination of the API Call Fee and Topic Resource Occupancy Fee.
+
 MQ Cost = API Call Fee + Topic Resource Occupancy Fee
 ## API Call Fee
 Number of requests: Calling number of sending messages + API calling number of subscription messages, the unit is in millions, accurate to three decimal places.
