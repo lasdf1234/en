@@ -21,7 +21,7 @@ The following are the terminologies and their definitions of MQ.
 
 ## Topic Subscription Related Terminologies 
 | Term | Definition |
-| :- | :- | :- |
+| :- | :- |
 | Topic | To category the messages through creating topics. |
 | Subscriber | The role of subscribing messages in the topic. |
 | Producer | The role of sending messages in the topic. |
