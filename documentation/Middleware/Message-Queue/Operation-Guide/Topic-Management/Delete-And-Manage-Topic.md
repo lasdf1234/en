@@ -7,6 +7,7 @@
 1. In topic list of the Topic Management page, choose **More** button in the topic located row that ready to delete and choose **Delete**.
  
 Pop up prompt box, click **Delete**, when the topic is deleted, the MQ will no longer push messages, immediately stop the service, and data cannot be restored. 
+
 2. In the topic list of “Topic Management” page, choose **More** button in the topic located row that need to operate, you can choose **Send Pause**, **Receive Pause** and **All Pause**.
  
 3. Pop up the prompt box to confirm the required operation. 
