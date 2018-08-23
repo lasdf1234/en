@@ -10,16 +10,18 @@ The MQ console provides rich performance monitoring data; you can always view th
 
   
 
-## Monitoring Item Description
-Type | KPI | Description
---- | --- | ---
-Topic | Production of TPS (bar / sec) | Number of messages produced per second |
-Topic| Number of published messages | The number of messages sent by a producer to a topic |
-Topic| The number of requests that have been published (times) | The number of API requests sent by the producer to the subject |
-Topic| The size of the published message (byte) | The message size that producers send messages to topic.|
-Consumer Group| Consumption of TPS (bar / sec) | Number of messages consumed per second |
-Consumer Group| Number of accumulated messages | The number of messages piled up in subscription relationships
-Consumer Group| Receiving message request quantity (Times) | Number of requests pulled by consumers in subscription relationship
-Consumer Group| Number of messages received | Total number of messages pulled by consumers in subscription relationship |
-Consumer Group| Number of messages received successfully | The number of successful messages pulled by consumers in subscription relationships |
-Consumer Group| Receiving message size (byte) | Message size of consumer consumption in subscription relationship |
+## Description of Monitoring Items 
+| Type	| KPI	| Description |
+| --- | --- | --- |
+| Topic	| Produced TPS (/second) |	Number of messages produced per second |
+| Topic	Number of published messages	| The number of messages sent by a producer to a topic |
+| Topic	| The number of API requests that have been published (Times)	| Number of requests that producers sending messages to topic |
+| Topic	| The size of the published message (byte)	| The message size of topic that producers send messages to topic. |
+| Consumer Group	| Consumed TPS (/sec) |	Number of messages that consumed per second |
+| Consumer Group	| Number of accumulated messages	| The number of messages that are not consumed in the relationship of subscription. |
+| Consumer Group	| The request quantity of receiving message (times)	| The number of requests that received by consumers in the relationship of subscription. |
+| Consumer Group	| The number of messages received	| The number of messages that received by consumers in the relationship of subscription. |
+| Consumer Group	| The number of messages that received successfully |	The number of messages that consumers successfully received messages in the relationship of subscription. |
+| Consumer Group	| The size of received messages (byte)	| Message size of consumers’ receiving messages in the relationship of subscription. |
+
+
