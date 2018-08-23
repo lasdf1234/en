@@ -4,6 +4,7 @@ MQ charges the fee according to combination of the API Call Fee and Topic Resour
 MQ Cost = API Call Fee + Topic Resource Occupancy Fee
 ## API Call Fee
 Number of requests: Calling number of sending messages + API calling number of subscription messages, the unit is in millions, accurate to three decimal places.
+
 | Billing by Ladder	| Total Amount of Calling/Month	| Cost of Million Times |
 |:--|:-- |--: |
 | First Ladder	| 0-1 billion times	| 2 RMB |
@@ -11,6 +12,7 @@ Number of requests: Calling number of sending messages + API calling number of s
 | Third Ladder	| 5-10 billion times	| 1.5 RMB |
 | Forth Ladder	| 10-50 billion times	| 1.3 RMB |
 | Fifth Ladder	| 50 billion above	| 1.2 RMB |
+
 ## Topic Resource Occupancy Fee
 | Billing by Ladder |	Number of Calling/Day/Topic	| Cost/Day/Topic |
 |:--|:-- |--: |
