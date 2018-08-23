@@ -1,5 +1,6 @@
 # Restrictions
 When you use MQ, there are some restrictions to pay attention.
+
 | Restriction Items	| Adjust or Not	| Adjust Method |
 | :- | :- | :- |
 | TPS of each Topic is 5000	| Yes |	Ticket |
