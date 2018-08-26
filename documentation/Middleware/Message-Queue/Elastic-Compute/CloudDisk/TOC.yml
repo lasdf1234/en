@@ -7,7 +7,7 @@
       - name: Product Overview
         href: Introduction/What-Is-CloudDisk.md
       - name: Region and Availability Zone
-        href: Introduction/region-zone.md       
+        href: Introduction/Region-Zone.md       
       - name: Product Function
         href: Introduction/Functions.md
       - name: Product Advantage
@@ -26,66 +26,66 @@
     - name: Description of Billing Method
       items:
           - name: Billing Rule
-            href: Pricing/description of billing method/Billing-Rules.md
+            href: Pricing/Description-Of-Billing-Method/Billing-Rules.md
           - name: Renewal Rules
-            href: Pricing/description of billing method/Renew-Rules.md
+            href: Pricing/Description-Of-Billing-Method/Renew-Rules.md
           - name: Expiration & Overdue Rules
-            href: Pricing/description of billing method/owe-rules.md
+            href: Pricing/Description-Of-Billing-Method/Owe-Rules.md
           - name: Expiration & Overdue Remind
-            href: Pricing/description of billing method/owe-remind.md
+            href: Pricing/Description-Of-Billing-Method/Owe-Remind.md
     - name: Price Overview
-      href: Pricing/price overview.md
+      href: Pricing/Price-Overview.md
     - name:  Purchase Channel
       items:
           - name: Purchase from Official Website
-            href: Pricing/purchase channel/buy-on-website.md      
+            href: Pricing/Purchase-Channel/Buy-On-Website.md      
         
   - name: Cloud Disk
     items:
        - name: create cloud disk
-         href: Getting-Started/cloud disk/create cloud disk.md
+         href: Getting-Started/Cloud-Disk/Create-Cloud-Disk.md
        - name: create disk from snapshot
-         href: Getting-Started/cloud disk/create disk from snapshot.md
+         href: Getting-Started/Cloud-Disk/Create-Disk-From-Snapshot.md
        - name: attach cloud disk
-         href: Getting-Started/cloud disk/attach cloud disk.md
+         href: Getting-Started/Cloud-Disk/Attach-Cloud-Disk.md
        - name: cloud disk partitioning, formatting, online and creating file system
          items:
             - name: Linux partitioning, formatting and creating file system
-              href: Getting-Started/cloud disk/parted-format/Linux partitioning.md
+              href: Getting-Started/Cloud-Disk/Parted-Format/Linux-Partitioning.md
             - name: Windows partitioning, formatting and creating file system
-              href: Getting-Started/cloud disk/parted-format/windows partitioning.md
+              href: Getting-Started/Cloud-Disk/Parted-Format/Windows-Partitioning.md
          
        - name: cloud disk capacity upgrading
-         href: Getting-Started/cloud disk/cloud disk capacity upgrading.md
+         href: Getting-Started/Cloud-Disk/Cloud-Disk-Capacity-Upgrading.md
        - name: file system expansion
          items:
             - name: cloud disk expansion overview
-              href: Getting-Started/cloud disk/expand-filesystem/cloud disk expansion overview.md
+              href: Getting-Started/Cloud-Disk/Expand-Filesystem/Cloud-Disk-Expansion-Overview.md
 
             - name: file system expansion (Windows)
-              href: Getting-Started/cloud disk/expand-filesystem/file system expansion windows.md
+              href: Getting-Started/Cloud-Disk/Expand-Filesystem/File-System-Expansion-Windows.md
             - name: file system expansion (Linux)
-              href: Getting-Started/cloud disk/expand-filesystem/file system expansion linux.md
+              href: Getting-Started/Cloud-Disk/Expand-Filesystem/File-System-Expansion-Linux.md
             - name: raw disk file system expansion (Linux)
-              href: Getting-Started/cloud disk/expand-filesystem/raw disk file system expansion.md
+              href: Getting-Started/Cloud-Disk/Expand-Filesystem/Raw-Disk-File-System-Expansion.md
             - name: file system expansion (multi partition)
-              href: Getting-Started/cloud disk/expand-filesystem/file system expansion-multi partition.md
+              href: Getting-Started/Cloud-Disk/Expand-Filesystem/File-System-Expansion-Multi-Partition.md
 
        - name: detach cloud disk
-         href: Getting-Started/cloud disk/detach cloud disk.md
+         href: Getting-Started/Cloud-Disk/Detach-Cloud-Disk.md
        - name: delete cloud disk
-         href: Getting-Started/cloud disk/delete cloud disk.md
+         href: Getting-Started/Cloud-Disk/Delete-Cloud-Disk.md
        - name: cloud disk monitoring
-         href: Getting-Started/cloud disk/cloud disk monitoring.md
+         href: Getting-Started/Cloud-Disk/Cloud-Disk-Monitoring.md
           
   - name: cloud disk snapshot
     items:
        - name: create cloud disk snapshot
-         href: Operation-Guide/cloud disk snapshot/Create-CloudDisk-SnapShot.md
+         href: Operation-Guide/Cloud-Disk-Snapshot/Create-CloudDisk-SnapShot.md
        - name: recover cloud disk
-         href: Operation-Guide/cloud disk snapshot/recover-CloudDisk.md
+         href: Operation-Guide/Cloud-Disk-Snapshot/Recover-CloudDisk.md
        - name: delete snapshot
-         href: Operation-Guide/cloud disk snapshot/Deletion-Snapshot.md
+         href: Operation-Guide/Cloud-Disk-Snapshot/Deletion-Snapshot.md
 
 
   - name: Best Practice
