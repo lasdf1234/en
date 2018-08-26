@@ -1,0 +1,17 @@
+name: CLI reference
+href: 
+items:
+- name: CLI profile
+  herf: Introduction.md
+- name: installation
+  herf: Installation.md
+- name: configuration
+  herf: Config.md
+- name: Instruction for Use
+  herf: Usage.md
+- name: example for use
+  herf: Examples.md
+- name: Frequently Questions
+  herf: TroubleShooting.md
+          
+          
