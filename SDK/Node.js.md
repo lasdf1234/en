@@ -20,11 +20,11 @@ npm install jdcloud-sdk-js
 
  
 
-You can also download the sdk source code yourself. The source code address is:[Node.js SDK] (https://github.com/jdcloud-api/jdcloud-sdk-nodejs).
+You can also download the sdk source code yourself. The source code address is:[Node.js SDK](https://github.com/jdcloud-api/jdcloud-sdk-nodejs).
 
  
 
-With any of the problems in the SDK use, you welcome you to communicate with the Github project[SDK Use Problem Feedback page] (https://github.com/jdcloud-api/jdcloud-sdk-nodejs/issues).
+With any of the problems in the SDK use, you welcome you to communicate with the Github project[SDK Use Problem Feedback page](https://github.com/jdcloud-api/jdcloud-sdk-nodejs/issues).
 
 
 

@@ -29,7 +29,7 @@ If you use Apache Maven to manage a Java project, you only need to add a corresp
     <artifactId>vm</artifactId>
     <version>0.6.1</version>
 </dependency>
-You can also download the SDK source code yourself. The source code address is:[Java SDK] (https://github.com/jdcloud-api/jdcloud-sdk-java).
+You can also download the SDK source code yourself. The source code address is:[Java SDK](https://github.com/jdcloud-api/jdcloud-sdk-java).
 
 With any of the problems in the SDK use, you are welcomed to communicate with the Github project[SDK Use Problem Feedback page](https://github.com/jdcloud-api/jdcloud-sdk-java/issues).
 

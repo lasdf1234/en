@@ -11,7 +11,7 @@ To conveniently understand the meaning of some of the concepts and parameters in
 2. Before apply for JD Cloud open API, [AccessKey management page](https://uc.jdcloud.com/accesskey/index) shall be called out for application of accesskey and secretKey Key Pair (AK/SK). AK/ SK information shall be kept properly and if lost, it is likely to cause illegal users to use this information to operate your resources on the cloud, resulting data or property losses.
 
 ## Download and install
-1. Download address of JD Cloud Go SDK:[Go SDK] (https://github.com/jdcloud-api/jdcloud-sdk-go).
+1. Download address of JD Cloud Go SDK:[Go SDK](https://github.com/jdcloud-api/jdcloud-sdk-go).
 2. You can also obtain the installation package using the following command, which is downloaded to the first path or directory in the GOPATH environment variable.
 
     `go get github.com/jdcloud-api/jdcloud-sdk-go/core github.com/satori/go.uuid`

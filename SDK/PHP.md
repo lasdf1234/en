@@ -37,7 +37,7 @@ You can also download the SDK source code yourself. The source code address is:[
 
  
 
-With any of the problems in the SDK use, you are welcomed to communicate with the Github project[SDK Use Problem Feedback page] (https://github.com/jdcloud-api/jdcloud-sdk-php/issues).
+With any of the problems in the SDK use, you are welcomed to communicate with the Github project[SDK Use Problem Feedback page](https://github.com/jdcloud-api/jdcloud-sdk-php/issues).
 
 
 Note: JD Cloud does not provide other downloading ways, please be sure to use the above-mentioned official download method!
