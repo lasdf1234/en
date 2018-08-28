@@ -3,7 +3,7 @@
 This tutorial will guide you to deploy multiple public network services on the same Virtual Machine and associate an IP address for each business. So that a single Virtual Machine hosts multiple businesses can be realized to reduce the cost. This Tutorial is applicable primarily to scenarios where a single Virtual Machine provides multiple HTTPS businesses and different public IP are required to be used to associate different certificates.
 
 ## Business scenarios architecture
-![多业务承载场景](../../../../image/Networking/Elastic-Network-Interface/eni-001.png)
+![Multi-service bearer scenario](../../../../image/Networking/Elastic-Network-Interface/eni-001.png)
 
 ## Before creation
 - Apply for a Virtual Machine with appropriate specifications and configure appropriate Security Group policy.
