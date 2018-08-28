@@ -44,7 +44,7 @@ items:
             name: Renewal Procedure
             herf: Pricing/Renew-Process.md
 -
-    name: Start Guide 
+    name: Getting-Started Guide 
     items:
         -
             name: Create Instance 
