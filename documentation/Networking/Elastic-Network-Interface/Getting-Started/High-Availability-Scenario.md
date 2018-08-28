@@ -3,7 +3,7 @@
 This Tutorial will guide you in building a high availability application solution across Availability Zone by using keepalived tool. In the event of a failure, the failure can be blocked by migrating the Elastic Network Interface from the primary server to the standby server. This Tutorial is applicable primarily to scenarios where the business needs to be deployed with high reliability, especially scenarios where the security policy is strongly associated with the MAC address of the network interface.
 
 ## Business scenarios architecture
-![高可靠应用解决方案场景](../../../../image/Networking/Elastic-Network-Interface/eni-003.png)
+![High reliability application solution](../../../../image/Networking/Elastic-Network-Interface/eni-003.png)
 
 ## Before creation
 - Within the same Virtual Private Cloud, create one Virtual Machine in Availability Zone A and Availability Zone B respectively, and set up appropriate Security Group policies.
