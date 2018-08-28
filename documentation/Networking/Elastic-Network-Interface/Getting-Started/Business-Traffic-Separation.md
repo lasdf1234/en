@@ -3,7 +3,7 @@
 This Tutorial is designed to guide you on how to associate multiple Elastic Network Interfaces on the same Virtual Machine. Each Elastic Network Interface hosts the business traffic of the intranet, public network and management network respectively, thus realizing the separation of the business traffic of a single Virtual Machine. This Tutorial is applicable to scenarios where the different security policies are applied to different business needs of the Virtual Machines and network isolation.
 
 ## Business scenarios architecture
-![业务流量分离场景](../../../../image/Networking/Elastic-Network-Interface/eni-002.png)
+![Traffic flow separation scenario](../../../../image/Networking/Elastic-Network-Interface/eni-002.png)
 
 ## Before creation
 - Make a reasonable network plan and create internal subnets, external subnets and management subnets in the same Virtual Private Cloud according to the network plan.
