@@ -38,7 +38,7 @@
       - name: Renewal Procedure
         herf: Pricing/Renewal-Procedure.md
         
-  - name: Start Guide
+  - name: Getting-Started Guide
     items:
       - name: Create Instance
         herf: Getting-Started/Create-RDS-Instance.md
