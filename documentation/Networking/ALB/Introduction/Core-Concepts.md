@@ -21,7 +21,7 @@ The following concepts and interpretations used in the **Load Balancer** help do
 
 ## Relevant references
 
-- [Product overview] (../Introduction/Overview.md)
-- [Product specification] (../Introduction/Specification.md)
-- [Price overview] (../Pricing/Price-Overview.md)
-- [Create instance] (../Getting-Started/Create-Instance.md)
+- [Product overview](../Introduction/Overview.md)
+- [Product specification](../Introduction/Specification.md)
+- [Price overview](../Pricing/Price-Overview.md)
+- [Create instance](../Getting-Started/Create-Instance.md)

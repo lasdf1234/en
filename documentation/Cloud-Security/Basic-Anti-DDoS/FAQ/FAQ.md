@@ -23,16 +23,16 @@ A: The residence time of the public network IP triggering a black hole state in 
   
 * * 6, Q: How does the attack flow exceed 2g?**
 
-A: The black hole is triggered when the attack exceeds 2G, and the access to the IP is shielded for a period of time. It is recommended that you purchase JD Cloud [Advanced Anti-DDoS] (https://www.jdcloud.com/products/ipanti) services from JD Cloud for greater defense.
+A: The black hole is triggered when the attack exceeds 2G, and the access to the IP is shielded for a period of time. It is recommended that you purchase JD Cloud [Advanced Anti-DDoS](https://www.jdcloud.com/products/ipanti) services from JD Cloud for greater defense.
 
 ** 7, Q: What attack types are supported for underlying protection **
 
 A: Include and are not limited to SYN Flood, ACK Floods, TCP Floods, UDP Flood, DNS reflection attacks, NTP reflection attacks, SSDP reflection attacks, and other common attacks.
 
-If the above cannot solve your problem, consult the after-sales of the product:[after-sales consultation] (https://ticket.jdcloud.com/myorder/form?cateId=2&questionId=13)
+If the above cannot solve your problem, consult the after-sales of the product:[after-sales consultation](https://ticket.jdcloud.com/myorder/form?cateId=2&questionId=13)
 
 # Related Documents
 
 - [What is the foundation protection? ](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/Overview.md)
-- [Basic Protection Structure] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/Basic-Infrastructure.md)
-- [Quick Start] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Getting-Started/Basic-Anti-DDos-Started.md)
+- [Basic Protection Structure](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/Basic-Infrastructure.md)
+- [Quick Start](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Getting-Started/Basic-Anti-DDos-Started.md)

@@ -4,7 +4,7 @@ You can log in to the JD MapReduce console by clicking on the "Job Management" m
 This article describes how to deploy job.
 
 ## Operation Steps
-1. Log in to the [JD MapReduce Console] (https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html#/) and select which cluster to view.
+1. Log in to the [JD MapReduce Console](https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html#/) and select which cluster to view.
 
 2. Create
  -  Select execution strategy: single execution and periodic execution.

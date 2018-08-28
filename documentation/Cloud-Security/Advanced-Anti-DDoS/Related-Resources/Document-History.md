@@ -13,5 +13,5 @@ This document introduces the important updating history of the advanced anti-DDo
 
 ## Related Reference
 
-- [Product Overview] (../Introduction/What-Is-Advanced-Anti-DDoS.md)
+- [Product Overview](../Introduction/What-Is-Advanced-Anti-DDoS.md)
 

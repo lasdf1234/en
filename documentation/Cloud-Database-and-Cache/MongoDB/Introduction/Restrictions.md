@@ -23,7 +23,7 @@ The number of connections is related to the specifications of your purchase inst
 
 ## Related Reference
 
-- [Product Overview] (../Introduction/What-Is-MongoDB.md)
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
-- [Alter Configuration] (../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
+- [Product Overview](../Introduction/What-Is-MongoDB.md)
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)
+- [Alter Configuration](../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)

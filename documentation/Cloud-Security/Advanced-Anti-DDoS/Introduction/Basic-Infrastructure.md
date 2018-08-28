@@ -7,9 +7,9 @@ The user opens the service of advanced anti-DDoS, and the configurations lead th
 ## Advanced Anti-DDoS Unaccessed
 When the advanced anti-DDoS is unaccessed, all the normal and abnormal visits will arrive directly to the source station. In case of DDoS attacks, the source station can be easily broken down.
 
-![Advanced Anti-DDoS Architecture Diagram] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/ipant%20002.png)
+![Advanced Anti-DDoS Architecture Diagram](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/ipant%20002.png)
 
 ## After Advanced Anti-DDoS Access
 After access to advanced anti-DDoS business, all access traffics to the source station will be detected in real time through Advanced Anti-DDoS. The advanced anti-DDoS has strong protection mechanism, and can only re-inject the cleaned traffic to the source station after going through the traffic cleaning at advanced protection machine room and the four-layer and seven-layer attacks are filtered off.
-![Advanced Anti-DDoS Architecture Diagram] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/ipant%20001.png)
+![Advanced Anti-DDoS Architecture Diagram](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/ipant%20001.png)
 

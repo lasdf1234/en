@@ -17,7 +17,7 @@ The load balancer has the following features:
 ## Common operation
 
 - Easy operation
-	- [Create instance] (../Getting-Started/Create-Instance.md)
+	- [Create instance](../Getting-Started/Create-Instance.md)
 	- [Set white list](../Getting-Started/Set-Whitelist.md)
 	- [Connect instance](../Getting-Started/Connect-Instance.md)
 - Data migration

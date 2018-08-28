@@ -18,7 +18,7 @@ MongoDB instances support configuration items for changes, including:
 	
 ## Operation Steps
 
-1. Log into [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Log into [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 1. On the "Instance List" page, select the target instance, click "Alter Configuration" in the operation items to open the alter configuration popup.
    
    ![](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-011.png)
@@ -49,8 +49,8 @@ MongoDB instances support configuration items for changes, including:
 
 ## Related Reference
 
-- [Create Instance] (../../Getting-Started/Create-Instance.md)
+- [Create Instance](../../Getting-Started/Create-Instance.md)
 - [Connect Instance](../../Getting-Started/Connect-Instance.md)
-- [Renew Instance] (Renewal-Instructions.md)
+- [Renew Instance](Renewal-Instructions.md)
 - [Reboot Instance](Restart-Instance.md)
-- [Delete Instance] (Delete-Instance.md)
+- [Delete Instance](Delete-Instance.md)

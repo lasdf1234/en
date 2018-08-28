@@ -15,7 +15,7 @@ The MongoDB supports one-click recovery of backup data to the original instance,
 
 ## Operation Steps
 
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 1. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the "Instance Details" page.
 1. On the Instance Details page, click **Backup and Recovery** to view the backup data.
 1. Select the backup you want to use and click **Data Recovery** in the operation items to open the "Confirm Popup".
@@ -28,8 +28,8 @@ The MongoDB supports one-click recovery of backup data to the original instance,
 
 ## Related Reference
 
-- [Create Backup Manually] (Create-Backup.md)
-- [Download Backup File] (Download-Bckup.md)
-- [Create Instance based on Backup] (Create-Instance-by-Backup.md)
-- [Create Instance based on Time Point] (Create-Instance-by-Point-in-Time.md)
-- [Set Auto Backup] (Modify-Backup-Policy.md)
+- [Create Backup Manually](Create-Backup.md)
+- [Download Backup File](Download-Bckup.md)
+- [Create Instance based on Backup](Create-Instance-by-Backup.md)
+- [Create Instance based on Time Point](Create-Instance-by-Point-in-Time.md)
+- [Set Auto Backup](Modify-Backup-Policy.md)

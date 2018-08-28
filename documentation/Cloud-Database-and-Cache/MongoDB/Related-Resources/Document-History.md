@@ -16,8 +16,8 @@ This document introduces the important updating history of the MongoDB product d
 
 ## Related Reference
 
-- [Product Overview] (../Introduction/What-Is-MongoDB.md)
-- [Core Concept] (../Introduction/Core-Concepts.md)
-- [Product Function] (./ Introduction/ Functions.md
-- [Create Instance] (../Getting-Started/Create-Instance.md)
-- [Set Whitelist] (..//Getting-Started/Set-Whitelist.md)
+- [Product Overview](../Introduction/What-Is-MongoDB.md)
+- [Core Concept](../Introduction/Core-Concepts.md)
+- [Product Function](./ Introduction/ Functions.md
+- [Create Instance](../Getting-Started/Create-Instance.md)
+- [Set Whitelist](..//Getting-Started/Set-Whitelist.md)

@@ -41,9 +41,9 @@ Load balancer supports HTTP Protocol Session Persistence Service based on cookie
 
 ## Relevant references
 
-- [Product advantage] (../Introduction/Benefits.md)
-- [Product function] (../Introduction/Functions.md)
-- [Price overview] (../Pricing/Price-Overview.md)
-- [Billing rules] (../Pricing/Billing-Rules.md)
-- [Create instance] (../Getting-Started/Create-Instance.md)
+- [Product advantage](../Introduction/Benefits.md)
+- [Product function](../Introduction/Functions.md)
+- [Price overview](../Pricing/Price-Overview.md)
+- [Billing rules](../Pricing/Billing-Rules.md)
+- [Create instance](../Getting-Started/Create-Instance.md)
 

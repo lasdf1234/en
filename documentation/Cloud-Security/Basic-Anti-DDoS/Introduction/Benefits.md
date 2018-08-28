@@ -25,8 +25,8 @@ Maintenance-free installation of # #
 
 ## Related Reference
 
-- [Product Function] (./ Introduction/ Functions.md
-- [Price Summary] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Pricing/Billing-Overview.md)
-- [charge rule] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Pricing/Billing-Overview.md)
-- [Create instance] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Getting-Started/Basic-Anti-DDos-Started.md)
-- [Application scenario] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/Application-Scenarios.md)
+- [Product Function](./ Introduction/ Functions.md
+- [Price Summary](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Pricing/Billing-Overview.md)
+- [charge rule](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Pricing/Billing-Overview.md)
+- [Create instance](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Getting-Started/Basic-Anti-DDos-Started.md)
+- [Application scenario](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/Application-Scenarios.md)

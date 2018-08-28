@@ -3,7 +3,7 @@
 The MongoDB console provides a wealth of performance monitoring data so you can see the operation status of your instances at any time.
 
 ## Operation Steps
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 1. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the "Instance Details" page.
 1. On the "Instance Details" page, click **Monitor** to view the monitoring information.
 
@@ -33,7 +33,7 @@ wiredTiger	| Index of Layer cache with wiredTiger engine of instance, including:
 	
 ## Related Reference
 
-- [Set Alarm Rules] (Alarm-Rules.md)
+- [Set Alarm Rules](Alarm-Rules.md)
 	
 
 

@@ -1,18 +1,18 @@
 # Service Terms of Load Balancer #
 
-These Service Terms are the effective Contract concluded by and between the owners of the JD Cloud website (referred to as “JD Cloud” website in the Agreement: [JD Cloud] (http://www.jdcloud.com/)) and you on the matters related to load balancing service. You select to accept these Service Terms by sealing, confirm on the web page or other means, including but not limited to actually using JD Cloud load balancing service without confirm on the page, indicating that you have reached an agreement with JD Cloud and agree to accept all agreed contents of these Service Terms. If the text sealed by the Parties is inconsistent with the Service Terms text confirmed on the web page or selected to be accepted otherwise, the text sealed by the Parties shall prevail.
+These Service Terms are the effective Contract concluded by and between the owners of the JD Cloud website (referred to as “JD Cloud” website in the Agreement: [JD Cloud](http://www.jdcloud.com/)) and you on the matters related to load balancing service. You select to accept these Service Terms by sealing, confirm on the web page or other means, including but not limited to actually using JD Cloud load balancing service without confirm on the page, indicating that you have reached an agreement with JD Cloud and agree to accept all agreed contents of these Service Terms. If the text sealed by the Parties is inconsistent with the Service Terms text confirmed on the web page or selected to be accepted otherwise, the text sealed by the Parties shall prevail.
 
     With regards to these Service Terms, you are reminded to pay extra attention on the terms of restriction and exemption, terms of JD Cloud judging and handling your violation and breach of Terms, and the optional terms of the competent court. Restriction and exemption terms may be bold or underlined to raise your attention. Please read the entire contents of these Service Terms carefully before accepting these Service Terms. If you have any questions about the terms of these Service Terms, please contact the relevant business department of JD Cloud to state the inquiry, and JD Cloud will explain the term contents to you. If you do not agree to any of the terms of these Service Terms, or cannot accurately understand JD Cloud's interpretation of the Terms, please do not conduct follow-up actions.
 
 ## 1. Service Content ##
 
-1.1. “Services” in these Terms mean: JD Cloud provides you with the load balancing service and relevant technical and network support services displayed on the website [JD Cloud] (http://www.jdcloud.com/)
+1.1. “Services” in these Terms mean: JD Cloud provides you with the load balancing service and relevant technical and network support services displayed on the website [JD Cloud](http://www.jdcloud.com/)
 
 1.2. The services provided by JD Cloud must comply with the agreement in these Service Terms.
 
 ## 2. Service Charge ##
 
-2.1. The service charge will be listed and shown on your order page; you shall pay the corresponding service charge according to the current effective price system on the website of [JD Cloud] (http://www.jdcloud.com/).
+2.1. The service charge will be listed and shown on your order page; you shall pay the corresponding service charge according to the current effective price system on the website of [JD Cloud](http://www.jdcloud.com/).
 
 2.2. You may select Pay-In-Advance or Pay-As-You-Go:
 
@@ -24,7 +24,7 @@ These Service Terms are the effective Contract concluded by and between the owne
 
 2.2.2. Pay-As-You-Go
 
-You pay after use. Please refer to the page announcement on [JD Cloud] (http://www.jdcloud.com/) for the specific deduction rules and the billing mode and standard of the Pay-As-You-Go service published on the page that are effective at that time shall prevail.
+You pay after use. Please refer to the page announcement on [JD Cloud](http://www.jdcloud.com/) for the specific deduction rules and the billing mode and standard of the Pay-As-You-Go service published on the page that are effective at that time shall prevail.
 
 2.3. You shall keep your account balance sufficient to ensure continuous use of the services; JD Cloud reserves the right not to provide you with services and/or technical supports or to terminate the services and/or technical supports until you have paid off all the charges as agreed.
 
@@ -173,7 +173,7 @@ You understand and acknowledge that the above list does not exhaust all types of
 
 7.3.4. You understand and fully recognize that although JD Cloud has established (and will continue to improve according to the development of technology) necessary technical measures to protect against the matters or acts harmful to cyber security (hereinafter referred to as such acts) including computer viruses, network intrusions, attack damages (including but not limited to DDOS), etc., Security matters or actions (collectively referred to as such behaviors), however given the limitations and relativity of cyber security technology and the unpredictability of such acts, JD Cloud may decide to suspend or terminate the services if your website encounter such acts and bring harms to JD Cloud or JD Cloud’s other networks or servers (including but not limited to local and foreign and international networks, servers, etc.), or affect the smooth communications between JD Cloud and the Internet or between JD Cloud specific and networks and servers and internal smooth communication within JD Cloud. If the services are terminated, the service charge will be calculated based on the actual services provided, and you still shall pay the service charge you have not paid (if any).
 
-7.3.5. JD Cloud may notify you in advance of terminating these Service Terms by announcing on [JD Cloud] (http://www.jdcloud.com/), sending you intra-website notices or notices in written form. At that time, JD Cloud shall refund the amount you have paid but not consumed to your JD Cloud account.
+7.3.5. JD Cloud may notify you in advance of terminating these Service Terms by announcing on [JD Cloud](http://www.jdcloud.com/), sending you intra-website notices or notices in written form. At that time, JD Cloud shall refund the amount you have paid but not consumed to your JD Cloud account.
 
 ## 8. Liability for Breach of Terms ##
 8.1. Any Party to these Service Terms shall be liable for breach of Terms in accordance with the law.
@@ -199,8 +199,8 @@ You understand and acknowledge that the above list does not exhaust all types of
 10.2. In the event of disputes arising from the performance of these Service Terms, the Parties shall promptly resolve the disputes. When the negotiation fails, either Party may file a lawsuit directly with the People’s Court of Daxing District of Beijing.
 
 ## 11. Supplementary Articles ##
-11.1. JD Cloud's service description and price description on the relevant pages of [JD Cloud] (http://www.jdcloud.com/) and the order pages you make confirmation on are an integral part of these Service Terms. If the service description and price description on the relevant pages of [JD Cloud](http://www.jdcloud.com/) and the order pages you make confirmation on are inconsistent with these Terms of Service, these Service Terms shall prevail.
+11.1. JD Cloud's service description and price description on the relevant pages of [JD Cloud](http://www.jdcloud.com/) and the order pages you make confirmation on are an integral part of these Service Terms. If the service description and price description on the relevant pages of [JD Cloud](http://www.jdcloud.com/) and the order pages you make confirmation on are inconsistent with these Terms of Service, these Service Terms shall prevail.
 
-11.2. JD Cloud has the right to transfer the rights and obligations in these Service Terms in part or in whole to an affiliated company of JD Cloud by the means of notifying you in advance by announcing on [JD Cloud] (http://www.jdcloud.com/), sending you intra-website notices or notices in written form.
+11.2. JD Cloud has the right to transfer the rights and obligations in these Service Terms in part or in whole to an affiliated company of JD Cloud by the means of notifying you in advance by announcing on [JD Cloud](http://www.jdcloud.com/), sending you intra-website notices or notices in written form.
 
 11.3. If any terms, in nature or otherwise, shall continue to exist at the termination of the Agreement, they shall be deemed to be continuing terms, including but not limited to warranty terms, confidentiality terms, intellectual property right terms, and law application and dispute resolution terms.

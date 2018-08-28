@@ -2,7 +2,7 @@
 
 **Q: How many cloud disk quota a single user?**
 
-A: A single user can create 40 cloud disks and a single virtual machine can attach 8 cloud disks at most. If you need to increase the cloud disk quota, please log in the console [Open Ticket] (https://ticket.jdcloud.com/myorder/form?cateId=1&questionId=162).
+A: A single user can create 40 cloud disks and a single virtual machine can attach 8 cloud disks at most. If you need to increase the cloud disk quota, please log in the console [Open Ticket](https://ticket.jdcloud.com/myorder/form?cateId=1&questionId=162).
 
 **Q: How much is the capacity of a single cloud disk?**
 
@@ -15,7 +15,7 @@ A: A single user can create 15 manual backups and the quantity of single hard di
 
 **Q: What is the recovery operation rules of cloud disk?**
 
-A: The recovery operation can be performed only when the cloud disk is in available status. Refer to Help Center for details [Recovery of Cloud Disk] (https://www.jdcloud.com/help/detail/512/isCatalog/1) for details.
+A: The recovery operation can be performed only when the cloud disk is in available status. Refer to Help Center for details [Recovery of Cloud Disk](https://www.jdcloud.com/help/detail/512/isCatalog/1) for details.
 
    
 **Q: What is the deletion operation rules of cloud disk?**

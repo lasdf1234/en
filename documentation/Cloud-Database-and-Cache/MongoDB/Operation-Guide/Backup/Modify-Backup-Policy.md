@@ -8,7 +8,7 @@ The MongoDB supports automatic backup. After the instance is created, a full bac
 - If automatic backup has been performed that day and the time to modify the automatic backup is post to the current time, the backup will still be created.
 
 ## Operation Steps
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 1. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the "Instance Details" page.
 1. On the  "Instance Details" page, click **Backup and Recovery** > **Backup Strategy** to go to the “Backup Strategies” page.
    
@@ -25,10 +25,10 @@ The MongoDB supports automatic backup. After the instance is created, a full bac
 
 ## Related Reference
 
-- [Create Backup Manually] (Create-Backup.md)
-- [Download Backup File] (Download-Bckup.md)
-- [Create Instance based on Backup] (Create-Instance-by-Backup.md)
-- [Create Instance based on Time Point] (Create-Instance-by-Point-in-Time.md)
-- [Data Recovery] (Restore-Instance.md)
+- [Create Backup Manually](Create-Backup.md)
+- [Download Backup File](Download-Bckup.md)
+- [Create Instance based on Backup](Create-Instance-by-Backup.md)
+- [Create Instance based on Time Point](Create-Instance-by-Point-in-Time.md)
+- [Data Recovery](Restore-Instance.md)
 
 

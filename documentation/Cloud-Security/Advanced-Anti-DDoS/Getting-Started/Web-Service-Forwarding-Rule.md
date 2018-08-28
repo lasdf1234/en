@@ -7,13 +7,13 @@ The web-based is the protection designed to protect the business of website doma
 
 ## Operation Steps
 1. Select a purchased instance. Click the "Instance Name" or "Forwarding Configuration" of operation bar to enter the forwarding configuration page.
-![Website Forwarding Rules] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/non-web%2001.png)
+![Website Forwarding Rules](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/non-web%2001.png)
 
 2. On the Instance Details page, switch to the “Website Forwarding Configuration”.
-![Website Forwarding Rules] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/web-rule%2002.png)
+![Website Forwarding Rules](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/web-rule%2002.png)
 
 3. Click the "Add Rules" button to configure the forwarding rules according to the pop-window prompts as follows.
-![Website Forwarding Rules] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/web-rule%2003.png)
+![Website Forwarding Rules](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/web-rule%2003.png)
 
 The field of rule configuration section is explained as follows:
 - Domain: Supports configuration of multi-level domain, including support for extensive domain name.
@@ -25,7 +25,7 @@ If the HTTP back-to-source is turned on, all protocols returning to the source s
 
 ## Related Reference
 
-- [Create Instance] (Create-Instance.md)
-- [Billing Rules] (../../Pricing/Billing-Rules.md)
-- [Frequently Asked Questions] (../FAQ/FAQ.md)
+- [Create Instance](Create-Instance.md)
+- [Billing Rules](../../Pricing/Billing-Rules.md)
+- [Frequently Asked Questions](../FAQ/FAQ.md)
 

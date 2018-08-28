@@ -6,10 +6,10 @@ JD MapReduce products adopt a pay-by-configuration mode for different user needs
 
 The following is the example specification type information of the current JD Cloud. The types and specifications of the saleable instances in different regions are not identical. Please refer to the example creation page. The specific Instance Type specifications can be classified according to different application scenarios:
 
-* Universal: [General Shared Type] (#g.s), [General Standard Type] (#g.n)
-* Compute-Optimized Standard type: [Compute Optimized Standard Type] (#c.n)
-* Memory-Optimized type: [Memory Optimized Standard Type] (#m.n)
-* High-frequency calculation type: [High-frequency calculation optimization type] (#h.g)
+* Universal: [General Shared Type](#g.s), [General Standard Type](#g.n)
+* Compute-Optimized Standard type: [Compute Optimized Standard Type](#c.n)
+* Memory-Optimized type: [Memory Optimized Standard Type](#m.n)
+* High-frequency calculation type: [High-frequency calculation optimization type](#h.g)
 
 ## Universal type
 The universal model currently provides General Shared Type and General Standard types, providing you with balanced computing and memory resources to meet the needs of most business scenarios. Each of the vCPUs in the common standard type corresponds to an Intel Xeon processor hyper-threaded core with a vCPU to memory ratio of 1:4.
@@ -215,7 +215,7 @@ Please note:
 
 * The second-generation Virtual Machine (except for high-frequency computing) is temporarily open only in cn-north-1, cn-east-2 and cn-south-1, and the high-frequency computing type is only available in cn-south-1;
 * The first generation of general-purpose, compute-optimized, and memory-optimized Virtual Machine in cn-north-1 and cn-east-2 regions may also run on 2.3 GHz Intel Xeon E5-2698 v3 (Haswell) processors
-* After purchasing an instance, you can modify the configuration of the instance according to the change of business scale. For details, please refer to ["Resize"] ().
+* After purchasing an instance, you can modify the configuration of the instance according to the change of business scale. For details, please refer to ["Resize"]().
 
 
 ## Cloud Disk Service fee

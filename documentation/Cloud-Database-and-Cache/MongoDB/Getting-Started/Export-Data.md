@@ -3,15 +3,15 @@
 MongoDB provides automatic backup and manual backup. To export the data, you can download the backup file and export it to your local database.
 
 ## Operation Steps
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 2. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the "Instance Details" page.
 3. On the "Instance Details" page, click **Backup & Restore** to view the backup data.
 
-   ![View Backup] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-010.png)
+   ![View Backup](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-010.png)
    
 4. Select the backup you want to download. In the operation items, click **Download** to open the download popup.
 
-   ![View Backup] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-009.png)
+   ![View Backup](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-009.png)
 	
 5. Download the backup file to local.
 	
@@ -26,4 +26,4 @@ MongoDB provides automatic backup and manual backup. To export the data, you can
 
 ## Related Reference
 
-- [Import Data] (Import-Data.md)
+- [Import Data](Import-Data.md)

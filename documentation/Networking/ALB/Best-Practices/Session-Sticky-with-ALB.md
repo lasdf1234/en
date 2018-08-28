@@ -32,7 +32,7 @@
 
   ![ALB后端转发设置](../../../../image/Networking/ALB/ALB-102.png)
 
-- Configure health check: set related parameters of health check, wherein the HTTP method is used here.![NLB health check setting] (../../../../image/Networking/ALB/ALB-103.png)
+- Configure health check: set related parameters of health check, wherein the HTTP method is used here.![NLB health check setting](../../../../image/Networking/ALB/ALB-103.png)
 
 - Add server group: Select virtual server group, availability group according to business needs.
 

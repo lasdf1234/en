@@ -39,5 +39,5 @@ Your advanced anti-DDoS status will be changed to "arrear" when the balance in y
 
 ## Related Reference
 
-- [Billing Rules] (Billing-Rules.md)
-- [Price Overview] (Price-Overview.md)
+- [Billing Rules](Billing-Rules.md)
+- [Price Overview](Price-Overview.md)

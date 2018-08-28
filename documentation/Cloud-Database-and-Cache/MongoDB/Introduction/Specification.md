@@ -17,6 +17,6 @@ The MongoDB currently supports the following instance specifications.
 ## Related Reference
 
 
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Billing Rules] (../Pricing/Billing-Rules.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Billing Rules](../Pricing/Billing-Rules.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)

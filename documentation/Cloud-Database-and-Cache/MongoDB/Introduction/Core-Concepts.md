@@ -18,7 +18,7 @@ Availability Zone | An Availability Zone is a physical zone in which the infrast
 
 ## Related Reference
 
-- [Product Overview] (../Introduction/What-Is-MongoDB.md)
-- [Product Specification] (../Product-Introduction/Specification.md)
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
+- [Product Overview](../Introduction/What-Is-MongoDB.md)
+- [Product Specification](../Product-Introduction/Specification.md)
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)

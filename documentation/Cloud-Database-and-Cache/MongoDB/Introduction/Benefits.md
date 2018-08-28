@@ -25,10 +25,10 @@ The console provides a wealth of visual monitoring data indicators, and the data
 
 ## Related Reference
 
-- [Product Overview] (../Introduction/What-Is-MongoDB.md)
-- [Product Specification] (../Product-Introduction/Specification.md)
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
-- [Alter Configuration] (../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
-- [Data Recovery] (../Operation-Guide/Backup/Restore-Instance.md)
-- [Set Alarm Rules] (../Operation-Guide/Monitoring/Alarm-Rules.md)
+- [Product Overview](../Introduction/What-Is-MongoDB.md)
+- [Product Specification](../Product-Introduction/Specification.md)
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)
+- [Alter Configuration](../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
+- [Data Recovery](../Operation-Guide/Backup/Restore-Instance.md)
+- [Set Alarm Rules](../Operation-Guide/Monitoring/Alarm-Rules.md)

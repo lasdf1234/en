@@ -11,13 +11,13 @@ This step ** is not mandatory **
 2. Enter the following contents at the command line:
 curl -x cname:port DomainName
 <Br/>E.g.: <Br/>
-![Verify Configuration] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/Verify-Local-Settings.png)
+![Verify Configuration](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/Verify-Local-Settings.png)
 <Br/>If you return to the page contents of access domain, it indicates that the configuration is successfully made.
 
 ## Related Reference
-- [Start Overview] (Overview.md)
-- [Create Instance] (Create-Instance.md)
-- [Non-web-based Rule] (Non-Web-Service-Forwarding-Rule.md)
-- [Web-based Rule] (Web-Service-Forwarding-Rule.md)
-- [Release Back-to-source IP] (Whitelist-local-IP-subnet.md)
-- [Billing Rules] (../../Pricing/Billing-Rules.md)
+- [Start Overview](Overview.md)
+- [Create Instance](Create-Instance.md)
+- [Non-web-based Rule](Non-Web-Service-Forwarding-Rule.md)
+- [Web-based Rule](Web-Service-Forwarding-Rule.md)
+- [Release Back-to-source IP](Whitelist-local-IP-subnet.md)
+- [Billing Rules](../../Pricing/Billing-Rules.md)

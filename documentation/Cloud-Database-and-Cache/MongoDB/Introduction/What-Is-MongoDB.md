@@ -13,21 +13,21 @@ The MongoDB has the following features:
 ## Common Operations
 
 - Get Started
-	- [Create Instance] (../Getting-Started/Create-Instance.md)
-	- [Set Whitelist] (../Getting-Started/Set-Whitelist.md)
+	- [Create Instance](../Getting-Started/Create-Instance.md)
+	- [Set Whitelist](../Getting-Started/Set-Whitelist.md)
 	- [Connection Instance](../Getting-Started/Connect-Instance.md)
 - Migrate Data
-	- [Import Data] (../Getting-Started/Import-Data.md)
-	- [Export Data] (../Getting-Started/Export-Data.md)
+	- [Import Data](../Getting-Started/Import-Data.md)
+	- [Export Data](../Getting-Started/Export-Data.md)
 - Extension and Upgrading
-	- [Modify Instance] (../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
+	- [Modify Instance](../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
 - Backup and Recovery
-	- [Modify Automatic Backup Strategy] (../Operation-Guide/Backup/Modify-Backup-Policy.md)
-	- [Create Backup Manually] (../Operation-Guide/Backup/Create-Backup.md)
-	- [Data Recovery] (../Operation-Guide/Backup/Restore-Instance.md)
+	- [Modify Automatic Backup Strategy](../Operation-Guide/Backup/Modify-Backup-Policy.md)
+	- [Create Backup Manually](../Operation-Guide/Backup/Create-Backup.md)
+	- [Data Recovery](../Operation-Guide/Backup/Restore-Instance.md)
 - Operation and Maintenance Management
-	- [View Monitoring Information] (../Operation-Guide/Monitoring/Monitoring.md)
-	- [Set Alarm Rules] (../Operation-Guide/Monitoring/Alarm-Rules.md)
+	- [View Monitoring Information](../Operation-Guide/Monitoring/Monitoring.md)
+	- [Set Alarm Rules](../Operation-Guide/Monitoring/Alarm-Rules.md)
 
 ## Billing
-The MongoDB supports two billing types including monthly package and pay by configuration. For more information, please see "[Billing Rules] (./ Pricing/ Billing-Rules.md) ".
+The MongoDB supports two billing types including monthly package and pay by configuration. For more information, please see "[Billing Rules](./ Pricing/ Billing-Rules.md) ".

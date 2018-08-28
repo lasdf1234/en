@@ -11,18 +11,18 @@ After the MongoDB instance is created, 0.0.0.0/0 will be added to the white list
 - The MongoDB instance status is up and the billing status is normal.
 
 ## Operation Steps
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 2. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the  instance details page.
 3. On the "Instance Details" page, click **Data Security** to enter the White list settings page.
 
-   ![White List] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-008.png)
+   ![White List](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-008.png)
 4. Click **Set White List** to open the settings popup.	
 
    You can manually fill in the IP or IP segment, or you can directly load the vitual machine intranet IP.
    
    - Fill in Manually
       
-     ![Fill in Manually] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-004.png)
+     ![Fill in Manually](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-004.png)
 
      Enter the IP or IP segment that you want to access in the text box. Multiple IPs (or IP segments) are separated by commas or newlines. E.g.:
      - Assigned IP address: 192.168.0.1 access of IP address 192.168.0.1 is allowed.
@@ -32,7 +32,7 @@ After the MongoDB instance is created, 0.0.0.0/0 will be added to the white list
    
    - Upload private IP of virtual machine
    
-     ![Upload Private IP] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-005.png)
+     ![Upload Private IP](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-005.png)
   
      1. Click on the bottom left corner of the pop-up window ** Upload Private IP of Virtual Machine** to enter "IP Select Popup".
      2. The left side of the pop-up window shows the virtual machine IP that is currently in the same VPC as the MongoDB instance. You can use the Select All button and the Search Box to make a quick selection. The selected IP will be displayed in the preview area on the right.
@@ -44,7 +44,7 @@ After the MongoDB instance is created, 0.0.0.0/0 will be added to the white list
 		
 		
 ## Related Reference
-- [Connection Instance] (Connect-Instance.md)
-- [Change Password] (../Operation-Guide/Account-Management/Reset-Password.md)
-- [Import Data] (Import-Data.md)
-- [Alter Configuration] (../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)
+- [Connection Instance](Connect-Instance.md)
+- [Change Password](../Operation-Guide/Account-Management/Reset-Password.md)
+- [Import Data](Import-Data.md)
+- [Alter Configuration](../Operation-Guide/Instance-Management/Modify-Instance-Spec.md)

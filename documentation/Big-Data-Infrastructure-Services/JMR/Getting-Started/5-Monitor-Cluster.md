@@ -3,7 +3,7 @@
 This article describes how to configure cluster monitoring.
 
 ## Operation Steps
-1. Log in to the [JD MapReduce Console] (https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html#/) and select which cluster to view.
+1. Log in to the [JD MapReduce Console](https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html#/) and select which cluster to view.
 
 2. Select the cluster you want to view and the corresponding monitoring in the operation.
 

@@ -2,7 +2,7 @@
 
 For security reasons, the MongoDB currently only provides intranet connections and does not provide public network connections.
 
-If you need to directly connect to the MongoDB instance, you can use the virtual machine proxy forwarding method. For the operation mode, please refer to [Public Network Connection MongoDB Instance] (../Best-Practices/Public-Network-Connect-to-MongoDB- Instance.md).
+If you need to directly connect to the MongoDB instance, you can use the virtual machine proxy forwarding method. For the operation mode, please refer to [Public Network Connection MongoDB Instance](../Best-Practices/Public-Network-Connect-to-MongoDB- Instance.md).
 
 
 
@@ -12,11 +12,11 @@ If you need to directly connect to the MongoDB instance, you can use the virtual
 
 ## Operation Steps
 1. Get the connection information for the MongoDB instance.
-   1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+   1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
    1. On the "Instance List" page, select the target instance, and click the **Instance Name** to enter the "Instance Details" page.
    1. On the "Instance Details" page, view the resource information and get the connection information for the MongoDB instance.
    
-		![View Connection] (https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-016.png)
+		![View Connection](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-016.png)
 
 		- Database name, default is admin.
 		- User name, default is root.
@@ -33,7 +33,7 @@ If you need to directly connect to the MongoDB instance, you can use the virtual
 		
 		The mongo shell is part of the MongoDB distribution. You need to install MongoDB first and then connect to your MongoDB instance using the mongo shell.
 		
-		For the MongoDB distribution download address, please refer to: [MongoDB Download Center] (https://www.mongodb.com/download-center#community).
+		For the MongoDB distribution download address, please refer to: [MongoDB Download Center](https://www.mongodb.com/download-center#community).
 		
 		Please use the client of mongo shell 3.2 or above to connect to the MongoDB instance, otherwise the authentication may not be successful
 		
@@ -62,7 +62,7 @@ If you need to directly connect to the MongoDB instance, you can use the virtual
 		
 ## Related Reference
 
-- Public Network Connection MongoDB Instance] (../Best-Practices/Public-Network-Connect-to-MongoDB-Instance.md)
-- [Problem Processing: Virtual Machine Unable to Connect MongoDB Instance] (../Troubleshooting/Connect-Failed.md)
-- [Problem Processing: Login Database Prompt No Permission] (../Troubleshooting/Authentication.md)
+- Public Network Connection MongoDB Instance](../Best-Practices/Public-Network-Connect-to-MongoDB-Instance.md)
+- [Problem Processing: Virtual Machine Unable to Connect MongoDB Instance](../Troubleshooting/Connect-Failed.md)
+- [Problem Processing: Login Database Prompt No Permission](../Troubleshooting/Authentication.md)
 		

@@ -8,4 +8,4 @@ This document introduces the important updating history of Basic Anti-DDoS docum
 
 ## Related Reference
 
-- [Product Overview] (https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/What-Is-Basic-Anti-DDoS.md)
+- [Product Overview](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/What-Is-Basic-Anti-DDoS.md)

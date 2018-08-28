@@ -89,10 +89,10 @@ User document format is as follows
 - Super Administrator Roles: root 
 
 
-For detailed information on MongoDB creation of users, please refer to "[MongoDB Official Document] (https://docs.mongodb.com/v3.2/reference/method/db.createUser/#local-database) ".
+For detailed information on MongoDB creation of users, please refer to "[MongoDB Official Document](https://docs.mongodb.com/v3.2/reference/method/db.createUser/#local-database) ".
 
 
 
 ## Related Reference
 
-- [Reset Password] (Reset-Password.md)
+- [Reset Password](Reset-Password.md)

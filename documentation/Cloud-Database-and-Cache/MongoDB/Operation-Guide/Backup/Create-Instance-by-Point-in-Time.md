@@ -9,21 +9,21 @@ The MongoDB console provides the function to create instance based on time point
 
 ## Operation Steps
 
-1. Login [MongoDB Console] (https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
+1. Login [MongoDB Console](https://mongodb-console.jdcloud.com/mongodb?dataCenter=bj_02).
 2. On the "Instance List" page, select the target instance, then click ** Instance Name ** to enter the "Instance Details" page.
 3. On the "Instance Details" page, click **Create based on Time Point** of operation items on the right side to open the "Create Instance" page.
 
    ![](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-036.png)
 
-5. On the "Create Instance" page, select the billing type and instance type configuration to complete the instance creation. The creation process is the same as [Create Instance] (https://github.com/jdcloudcom/cn/blob/master/documentation/Cloud-Database-and-Cache/MongoDB/Getting-Started/CreateInstance.md).
+5. On the "Create Instance" page, select the billing type and instance type configuration to complete the instance creation. The creation process is the same as [Create Instance](https://github.com/jdcloudcom/cn/blob/master/documentation/Cloud-Database-and-Cache/MongoDB/Getting-Started/CreateInstance.md).
 
    ![](https://github.com/jdcloudcom/cn/blob/master/image/mongodb/mongo-036.png)
 
 ## Related Reference
 
-- [Create Backup Manually] (Create-Backup.md)
-- [Download Backup File] (Download-Bckup.md)
-- [Create Instance based on Backup] (Create-Instance-by-Backup.md)
-- [Set Auto Backup] (Modify-Backup-Policy.md)
-- [Data Recovery] (Restore-Instance.md)
+- [Create Backup Manually](Create-Backup.md)
+- [Download Backup File](Download-Bckup.md)
+- [Create Instance based on Backup](Create-Instance-by-Backup.md)
+- [Set Auto Backup](Modify-Backup-Policy.md)
+- [Data Recovery](Restore-Instance.md)
 

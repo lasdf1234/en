@@ -22,8 +22,8 @@ Supports the configuration of web-based and non-web-based business, is suitable 
 
 ## Related Reference
 
-- [Product Benefit] (../Product-Introduction/Benefits.md)
-- [Product Function] (../Product-Introduction/Functions.md)
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Billing Rules] (../Pricing/Billing-Rules.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
+- [Product Benefit](../Product-Introduction/Benefits.md)
+- [Product Function](../Product-Introduction/Functions.md)
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Billing Rules](../Pricing/Billing-Rules.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)

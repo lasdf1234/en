@@ -46,13 +46,13 @@ The load balancer does not have the availability group function, but the availab
 
 ## Relevant references
 
-- [Product overview] (../Introduction/Overview.md)
-- [Product specification] (../Introduction/Specification.md)
-- [Price overview] (../Pricing/Price-Overview.md)
-- [Create instance] (../Getting-Started/Create-Instance.md)
-- [Create virtual server group] (../Operation-Guide/TargetGroup-Management.md)
-- [Configure listening policy] (../Operation-Guide/Listener-Management.md)
-- [Manage rear end service and view health status of service instance] (../Operation-Guide/Backend-Management.md)
-- [View monitoring information] (../Operation-Guide/Monitoring.md)
+- [Product overview](../Introduction/Overview.md)
+- [Product specification](../Introduction/Specification.md)
+- [Price overview](../Pricing/Price-Overview.md)
+- [Create instance](../Getting-Started/Create-Instance.md)
+- [Create virtual server group](../Operation-Guide/TargetGroup-Management.md)
+- [Configure listening policy](../Operation-Guide/Listener-Management.md)
+- [Manage rear end service and view health status of service instance](../Operation-Guide/Backend-Management.md)
+- [View monitoring information](../Operation-Guide/Monitoring.md)
 
 

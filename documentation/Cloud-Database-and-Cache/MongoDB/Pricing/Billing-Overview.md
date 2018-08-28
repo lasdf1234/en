@@ -20,5 +20,5 @@ After the instance arrears, the billing status will be marked as arrears and the
 
 ## Related Reference
 
-- [Billing Rules] (Billing-Rules.md)
-- [Price Overview] (Price-Overview.md)
+- [Billing Rules](Billing-Rules.md)
+- [Price Overview](Price-Overview.md)

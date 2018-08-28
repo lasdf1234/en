@@ -3,7 +3,7 @@
 The advanced anti-DDoS + Web application firewall provide three-layer to seven-layer security protection systems, and the application scenarios include games, finance, e-commerce, Internet, government and enterprise, and other types of users outside and within JD Cloud.
 
 # Deployment Architecture
-![Deployment Architecture] (https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/Best-Practice02.png)<Br/>
+![Deployment Architecture](https://github.com/jdcloudcom/cn/blob/edit/image/Advanced%20Anti-DDoS/Best-Practice02.png)<Br/>
 The excellent deployment architecture for advanced anti-DDoS + Web application firewall is as follows:
 - Security Dispatching Center of JD Cloud resolves the domain name of the user to advanced anti-DDoS CNAME through DNS resolution.
 - User's normal access traffic and DDoS attack traffic through advanced anti-DDoS cleaning, and the back-to-source is returned to Web application firewall.

@@ -18,8 +18,8 @@ The business structure is as follows:
 
 ## Related Reference
 
-- [Product Benefit] (../Product-Introduction/Benefits.md)
-- [Product Function] (./ Introduction/ Functions.md
-- [Price Overview] (../Pricing/Price-Overview.md)
-- [Billing Rules] (../Pricing/Billing-Rules.md)
-- [Create Instance] (../Getting-Started/Create-Instance.md)
+- [Product Benefit](../Product-Introduction/Benefits.md)
+- [Product Function](./ Introduction/ Functions.md
+- [Price Overview](../Pricing/Price-Overview.md)
+- [Billing Rules](../Pricing/Billing-Rules.md)
+- [Create Instance](../Getting-Started/Create-Instance.md)
