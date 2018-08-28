@@ -7,7 +7,7 @@
         href: Introduction/Overview.md
       - name: Function Overview
         href: Introduction/Functions.md  
- - name: Quickstart
+ - name: Quick Start
    items:
       - name: Use Limitations
         href: Getting-Started/Restrictions.md
@@ -51,7 +51,7 @@
    href: 
     status: 0
     items:
-       - name: Document History
+       - name: Document Historical Records
          href:
          status: 0	
  - name: Glossary

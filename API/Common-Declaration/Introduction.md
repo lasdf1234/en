@@ -17,11 +17,11 @@ Before calling the JD Cloud OpenAPI, you need to apply for the AccessKey and Sec
 
  
 
-## Billing Mode ##
+## Billing Method ##
 
-The billing mode of resources created by using OpenAPI is exactly the same as the billing mode of resources created by using the console. When creating resources that require to be billed, the billing method must be specified. Please refer to the details in the ChargeSpec field in each API request parameter. At present, three kinds of billing mode are supported:
+The Billing Method of resources created by using OpenAPI is exactly the same as the Billing Method of resources created by using the console. When creating resources that require to be billed, the billing method must be specified. Please refer to the details in the ChargeSpec field in each API request parameter. At present, three kinds of Billing Method are supported:
 
-Billing mode|Meaning|Instruction
+Billing Method|Meaning|Instruction
 :---|:---|:---
 prepaid_by_duration | Pay-In-Advance | Default value. You need to specify the billing unit chargeUnit and the billing time duration chargeDuration
 postpaid_by_usage | Pay-As-You-Go by consumption | 
