@@ -45,7 +45,7 @@ Method one: quick import, select the product line to be imported in the service 
 
 Method two: batch import, select the product line to be imported in the service tree, enter the machine information correctly according to the provided import template and click OK.
 
-![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide4.png)
+  ![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide4.png)
 
 5. Maintain Group and Instances
 
@@ -53,11 +53,11 @@ When adding applications, complete [basic settings] and [role settings] then sav
 
 Select the corresponding applications to edit the group and instances on the right side, and when deleting the group, the instances under the group should be deleted first.
 
-![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide5.png)
+  ![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide5.png)
 
 Specifically, when add groups: 
 
-![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide6.png)
+  ![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Operation-Guide6.png)
 
 the following information should be entered:
 
@@ -161,4 +161,4 @@ The scaling templates are as follows:
   Scaling rules: expansion/contraction, designated scaling number (set) virtual machines or designated proportion (%) virtual machines
 
 - Send notifications to: when the scaling operation occurs, notification mails are sent to the designated mailbox; multiple mailboxes are separated by semicolons.
-- . Notifications will be sent when the auto scaling group has the following events: expansion, contraction, unable to expand, unable to contract.
+- Notifications will be sent when the auto scaling group has the following events: expansion, contraction, unable to expand, unable to contract.
