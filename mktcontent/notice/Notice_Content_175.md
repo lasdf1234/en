@@ -1,0 +1,1 @@
+您好：对象存储服务控制台域名将于2018年5月30日 将由jfs-console.jdcloud.com 更换为 oss-console.jdcloud.com，以免给您造成不便，请及时更换域名，感谢您对京东云对象存储服务的支持。
