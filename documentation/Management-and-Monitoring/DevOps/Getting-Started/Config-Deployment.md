@@ -20,6 +20,7 @@ Click “Configuration” on the “Group Settings” page to set configuration 
 3.Online
 
 Select the group(s) to be online on the “online” page and set online concurrence and time-out period. Select package revision to be online for online release. On the “Online Dynamic” page, you can view online details and perform rollback operation.
+
 ![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Getting-Started4.png)
 
 Then, the basic online release is completed.
