@@ -1,1 +1,0 @@
-&amp;lt;div&amp;gt;现接到.com/.net注册管理机构系统维护通知，如下：&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;2017年11月12日(周日)09:00-10:00，持续1小时进行系统维护。届时将暂停.com/.net域名产品注册、续费、信息修改等在线服务，但不影响域名的正常解析和whois查询服务。&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;如果您需要使用、管理以上业务，敬请您提早办理，谢谢!&amp;lt;/div&amp;gt;

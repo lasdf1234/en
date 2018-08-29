@@ -1,2 +1,0 @@
-2017年4月14日，国外黑客组织Shadow Brokers发出了NSA方程式组织的机密文档，包含了多个Windows远程漏洞利用工具，该工具包可以可以覆盖全球70%的Windows服务器，可以导致服务器被入侵。服务器被入侵后，黑客可完全获取云主机的控制权，导致内网渗透、数据泄露、发起DDoS攻击等危险行为，并进一步利用泄露的数据向用户发起电信诈骗等严重后果。&lt;br&gt;
-&amp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于此安全事件的影响范围、排查方式、缓解措施，请您查看 <a href='http://www.jcloud.com/help/gwldyj804.html' target='_blank' style='color:#3baaf1'>京东云安全说明</a>。

@@ -1,1 +1,0 @@
-&amp;lt;div&amp;gt;您好，现收到.link注册局紧急通知，为了保障十九大的通信安全，按照相关规定，注册局决定于北京时间10月16日起，对未实名制的.link域名域名实施设置“ServerHold”状态。由此引起不便，敬请谅解！为保证您客户的域名正常使用，请及时进行实名制审核。&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;

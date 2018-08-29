@@ -1,1 +1,0 @@
-&amp;lt;div&amp;gt;您好：&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;京东云华北-北京机房将于北京时间2018年2月7日23:00~2月8日03:00进行网络设备升级维护，届时会出现网络秒级中断、丢包等网络质量下降现象，请您提前知晓，无需进行其他操作。升级结束后，如有问题您可以通过工单或服务电话400-615-1212与我们联系，感谢您的支持。&amp;lt;/div&amp;gt;

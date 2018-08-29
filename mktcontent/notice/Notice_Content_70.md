@@ -1,1 +1,0 @@
-&amp;lt;p class=&amp;quot;MsoNormal&amp;quot;&amp;gt;您好：&amp;lt;br&amp;gt;京东云华东-宿迁机房将于北京时间2018.02.01&amp;nbsp;23点&amp;nbsp;~&amp;nbsp;2018.02.02&amp;nbsp;03点进行网络设备升级维护，届时会出现瞬时网络抖动、丢包等网络质量下降现象，请您提前知晓，无需进行其他操作。升级结束后，如有问题您可以通过工单或服务电话400-615-1212与我们联系，感谢您的支持。&amp;nbsp;&amp;lt;/p&amp;gt;

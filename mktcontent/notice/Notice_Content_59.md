@@ -1,1 +1,0 @@
-&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;color: rgb(102, 102, 102);&amp;quot;&amp;gt;您好，京东云将于2017年10月23日23：00 – 10月24日05：00进行华北网络底层功能上线，在此期间将暂停部分产品控制台界面的操作，但不会影响用户的固有业务运行。上线完成后控制台将恢复正常使用。上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。&amp;nbsp;&amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;

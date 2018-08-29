@@ -1,1 +1,0 @@
-云数据库MongoDB是京东云基于全球广受欢迎的MongoDB打造的高性能NoSQL数据库，100%兼容MongoDB协议，提供三节点副本集的高可用架构，容灾切换，故障迁移完全透明化。现公测期内免费试用，每个用户可创建 1 个实例，公测结束后不清数据，您可以继续续费使用。详情请见： http://www.jcloud.com/products/mongodb.html。立即申请免费试用：http://www.jcloud.com/testApply/pubTest.html#mongodb

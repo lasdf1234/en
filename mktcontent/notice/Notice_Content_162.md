@@ -1,1 +1,0 @@
-&amp;nbsp;北京时间2017年6月19日10：00左右，京东云监控平台发现华北公有云移动出口丢包率100%，已向运营商报障排查原因。后续相关进展我们会及时通告。如需帮助，请您与我们工单和电话联系。&amp;nbsp;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;[进展更新]&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;截止11：30，华北移动出口丢包问题已恢复，运营商初步结论为移动大网内部问题。&amp;lt;/div&amp;gt;

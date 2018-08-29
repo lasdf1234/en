@@ -1,1 +1,0 @@
-&amp;lt;span style=&amp;quot;color: rgb(102, 102, 102); text-indent: 28px;&amp;quot;&amp;gt;您好，京东云将于2017年10月13日凌晨0点——3点进行各地域Region&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;color: rgb(102, 102, 102); text-indent: 28px;&amp;quot;&amp;gt;上线，在此期间将暂停部分产品控制台界面的操作，但不会影响用户的固有业务运行。上线完成后控制台将恢复正常使用。上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。&amp;lt;/span&amp;gt;

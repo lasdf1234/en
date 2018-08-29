@@ -1,1 +1,0 @@
-&amp;lt;div&amp;gt;自2018年1月1日起，您通过京东云提交备案的域名需要符合工信部域名自动验证规则。不符规则的域名将会被系统拦截以致无法提交管局，详情请点击（https://www.jcloud.com/help/detail/2006/isCatalog/1）了解&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;
