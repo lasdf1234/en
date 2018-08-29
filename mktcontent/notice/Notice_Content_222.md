@@ -1,0 +1,1 @@
+&amp;lt;span style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;您好！&amp;lt;/span&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;现接到.com/.net注册管理机构系统维护通知，如下：2017年9月25日（周一）9:00——10:00，持续1小时进行系统维护，届时将暂停.com/.net域名产品注册、续费、信息修改等在线服务，但不影响域名的正常解析和whios查询服务。如果您需要使用、管理以上业务，敬请您提早办理，谢谢！&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
