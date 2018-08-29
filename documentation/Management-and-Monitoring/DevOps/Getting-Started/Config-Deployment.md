@@ -13,7 +13,8 @@ Compilation construction relates to online release via module group. Only by ass
 Select one application in the Service Tree at the left side, select “Continuous Delivery-Online Release” from the menu to enter “Online” page. Click “Basic Settings” subpage to set executive account and associate the application with belonged module(s)
 
 2.Group Settings
-Click “Configuration” on the “Group Settings” page to set configuration files and environmental variables for each group. 
+Click “Configuration” on the “Group Settings” page to set configuration files and environmental
+variables for each group. 
 ![image](https://github.com/jdcloudcom/cn/blob/DevOps/image/DevOps/Getting-Started3.png) 
 
 3.Online
