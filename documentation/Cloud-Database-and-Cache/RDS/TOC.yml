@@ -255,7 +255,7 @@
         herf: Best-Practices/Restore-Backup-Files-to-the-Self-built-Database/Restore-Backup-Files-to-the-Self-built-Percona.md
     - name: Connect to Database Instance
       items:
-      - name: Connect to MySQL
+      - name: Connect Instance
         herf: Best-Practices/Connect-to-Database-Instance/Connect-to-Instance.md     
       - name: Connect SQL Server from Client
         herf: Best-Practices/Connect-to-Database-Instance/Client-Connect-SQLServer.md

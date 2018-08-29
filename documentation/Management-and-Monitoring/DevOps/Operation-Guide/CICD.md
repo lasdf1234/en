@@ -126,7 +126,7 @@ main $@
 - Construction parameters: parameters required during the process of entering construction
 - Trigger conditions: construct manually or trigger compilation construction automatically when submitting codes to branch(es)
 - Construction type: construct output and support code package
-- . Revision rules: provide revision naming rules and archive them to the revision library
+- Revision rules: provide revision naming rules and archive them to the revision library
 - Cache compilation workspace: for multiple complication construction, cache workspace can accelerate the process of compilation
 - Construct upload location (multiple choices): in order to accelerate the online release to obtain the compilation results, you can select the location of the construction package upload location according to the region of the virtual machines
 Advanced options:

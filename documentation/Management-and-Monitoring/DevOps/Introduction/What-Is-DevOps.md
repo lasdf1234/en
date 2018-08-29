@@ -16,4 +16,4 @@ See [Operation Guide](https://github.com/jdcloudcom/cn/tree/edit/documentation/M
 
 JD Cloud DevOps supports enterprise version (SaaS version) billing type. See product pricing for detailed description
 
-See [product pricing](https://github.com/jdcloudcom/cn/tree/edit/documentation/Management-and-Monitoring/DevOps/Pricing)
+See [Product Pricing](https://github.com/jdcloudcom/cn/tree/edit/documentation/Management-and-Monitoring/DevOps/Pricing)
