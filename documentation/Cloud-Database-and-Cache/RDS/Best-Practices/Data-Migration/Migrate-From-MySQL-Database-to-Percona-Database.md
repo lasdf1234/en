@@ -13,12 +13,12 @@ It mainly explains how to transfer data from JD Cloud MySQL service to JD Cloud 
 2. Start exporting the data from the MySQL service to the VM and execute the command after VM instance creation in completed.
 
     ```
-    mysqldump -u用户名 -p密码 --single-transaction  --set-gtid-purged=OFF -B 数据库名称 > /路径/导出文件名.sql
+    mysqldump -u User name -p Password --single-transaction  --set-gtid-purged=OFF -B Database name > /Path/Outputted file name.sql
 
-    参数描述
-        用户名：云数据库 MySQL 的用户名。
-        密码：云数据库 MySQL 的密码。
-        数据库名称：填写您需要导出的库名，多个库名通过空格来分隔。
+    Parameter description
+        User name: User name in MySQL service.
+        Password: Password in MySQL Service
+        Database name: Fill in database names to be outputted and separate several database names with spaces
     ```
 
 3. Create the Percona service after exporting data from the MySQL service to the VM.
@@ -28,12 +28,12 @@ It mainly explains how to transfer data from JD Cloud MySQL service to JD Cloud 
 7. Start importing the data from the VM to the Percona service and execute the command after completing the creation and initialization of the Percona service.
 
     ```
-    mysql -u用户名 -p密码 -h 云数据库域名 < /云主机路径/导出文件名.sql
+    mysql -u User name -p Password -h Cloud database domain < /Virtual machine path/Outputted file name.sql
 
-    参数描述
-        用户名：第 6 步操作中的用户名。
-        密码：第 6 步操作中的用户对应的密码。
-        数据库域名：云数据库 Percona 的域名可以在实例的详情页查看。
+    Parameter description
+        User name: User name in actions of step 6.
+        Password: Corresponding password of the user in actions of step 6
+        Database domain: Please view domain of Percona Service in the Details page of instance.
     ```
 
 8. Zero error prompt indicates successful import. You can log in the Percona service to see if the data has been imported.

@@ -12,27 +12,27 @@ You can restore the backup data of the Percona service to the self-built databas
 2. Download the backup unzipping tool, [Click to Download](https://jddb-common-public.oss.cn-north-1.jcloudcs.com/percona_backup_extract_tool.tar.gz) and unzip. The tool name is `percona_backup_exztract.py`, and the using instances are as follows.
     
     ```
-    # 查看帮助手册
+    # View Help Manual
     ./percona_backup_extract.py -h
      
-     # 解压云数据库 Percona 实例的备份数据
+     # Unzipping backup data of Percona service instance
      ./percona_backup_extract.py  -v 5.7 -f ./backup.xbstream.gz.enc
     ```
 3. Download backup files.
 
     ```
-    wget -c '<数据备份下载地址>' -O <自定义备份文件名>.xbstream.gz.enc
+    wget -c ‘<Data backup download link>' -O <Customized backup file name>.xbstream.gz.enc
 
-    -c：启动断点续传
-    -O：将下载的结果保存为指定的文件，注意文件的后者必须是 .xbstream.gz.enc
+    -c: Start breakpoint upload
+    -O: Save downloaded results as the assigned files and note that the suffix of files must be .xbstream.gz.enc
     ```
 
 4. Unzip the backup data, and the unzipped files will be saved in tmp_snapshot, a sub-directory of the current directory, assuming that the current directory is $HOME.
 
     ```
-    ./percona_backup_extract.py -v 5.7 -f <自定义备份文件名>.xbstream.gz.enc
+    ./percona_backup_extract.py -v 5.7 -f <Customized backup file name>.xbstream.gz.enc
     
-    -v 参数可以不指定，默认：5.7，具体 -v 后面可以跟什么变量可以通过 -h 查看帮助手册得知。
+    -v Parameters may not be assigned, the default value is 5.7, and view the -h Help Manual for details of variables following -v.
     ```
 
 5. Restore the unzipped backup files.

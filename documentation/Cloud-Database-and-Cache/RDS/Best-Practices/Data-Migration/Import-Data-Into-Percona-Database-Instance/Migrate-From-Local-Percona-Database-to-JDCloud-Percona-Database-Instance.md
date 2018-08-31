@@ -13,12 +13,12 @@ It mainly explains how to transfer data from the local self-built Percona to JD 
 4. Start exporting the data from the local self-built Percona to the local and execute the command after completing the creation and initialization of the Percona service.
 
     ```
-    mysqldump -u用户名 -p密码 --single-transaction --set-gtid-purged=OFF -B 数据库名称 > /路径/导出文件名.sql
+    mysqldump -u User name -p Password --single-transaction --set-gtid-purged=OFF -B Database name > /Path/Outputted file name.sql
 
-    参数描述
-        用户名：自建数据库的用户名。
-        密码：自建数据库的密码。
-        数据库名称：填写您需要导出的库名，多个库名通过空格来分隔。
+    Parameter description
+        User name: User name of self-built database.
+        Password: Password of self-built database.
+        Database name: Fill in database names to be outputted and separate several database names with spaces
     ```
     
 5. Start creating VM after exporting the local self-built Percona data to the local.
@@ -30,22 +30,22 @@ It mainly explains how to transfer data from the local self-built Percona to JD 
 7. Upload the local data to the VM and execute the command after VM instance creation.
 
     ```
-    scp /路径/导出文件名.sql 云主机用户名@云主机公网IP: /云主机路径
+    scp /Path/Outputted file name.sql User name of virtual machine@Virtual Machine EIP: /Virtual Machine Path
 
-    参数描述
-        云主机用户名：创建云主机实例时候的用户名。
-        云主机公网 IP：云主机绑定的公网 IP 地址。
-        云主机路径：本地上传的文件在云主机中存放的路径。
+    Parameter description
+        User name of virtual machine: User name at the time of creating a virtual machine instance.
+        Virtual Machine EIP: EIP address associated with virtual machine.
+        Virtual Machine path: Storage path in virtual machine of files uploaded locally.
     ```
 
 8. Zero error prompt indicates that local files are successfully uploaded to the VM, and then users can import the data into the Percona service and execute the command.
 
     ```
-    mysql -u用户名 -p密码 -h 云数据库域名 < /云主机路径/导出文件名.sql
+    mysql -u User name -p Password -h Cloud database domain < /Virtual machine path/Outputted file name.sql
 
-    参数描述
-        用户名：第 3 步操作中的用户名。
-        密码：第 3 步操作中的用户对应的密码。
-        数据库域名：云数据库 Percona 的域名可以在实例的详情页查看。
+    Parameter description
+        User name: User name in actions of step 3
+        Password: Corresponding password of the user in actions of step 3
+        Database domain: Please view domain of Percona Service in the Details page of instance.
     ```
 9. Zero error prompt indicates successful import. You can log in the Percona service to see if the data has been imported.

@@ -12,23 +12,23 @@ It mainly explains how to transfer data from the self-built VM MySQL to JD Cloud
 4. Export the data from the self-built VM MySQL to the VM local and execute the command after completing the creation and initialization of the MySQL service.
 
     ```
-    mysqldump -u用户名 -p密码 --single-transaction --set-gtid-purged=OFF -B 数据库名称 > /路径/导出文件名.sql
+    mysqldump -u User name -p Password --single-transaction --set-gtid-purged=OFF -B Database name > /Path/Outputted file name.sql
 
-    参数描述
-        用户名：自建数据库的用户名。
-        密码：自建数据库的密码。
-        数据库名称：填写您需要导出的库名，多个库名通过空格来分隔。
+    Parameter description
+        User name: User name of self-built database.
+        Password: Password of self-built database.
+        Database name: Fill in database names to be outputted and separate several database names with spaces
     ```
 
 5. Import the data into the MySQL service and execute the command after exporting self-built MySQL data from the VM to the local.
 
     ```
-    mysql -u用户名 -p密码 -h 云数据库域名 < /路径/导出文件名.sql
+    mysql -u User name -p Password -h Cloud database domain < /Path/Outputted file name.sql
 
-    参数描述
-        用户名：第 3 步操作中的用户名。
-        密码：第 3 步操作中的用户对应的密码。
-        数据库域名：云数据库 MySQL 的域名可以在实例的详情页查看。
+    Parameter description
+        User name: User name in actions of step 3
+        Password: Corresponding password of the user in actions of step 3
+        Database domain: Please view domain of MySQL service in the Details page of instance.
     ```
     
 6. Zero error prompt indicates successful import. You can log in the MySQL service to see if the data have been imported.
