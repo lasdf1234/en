@@ -2,7 +2,7 @@
 
 **Cross-platform multicloud management**
 
-采用网络负载接口的抽象和多平台适配技术手段实现私有云、公有云和各种虚拟化平台。如VMware、OpenStack、物理机资源的统一接入管理。帮助用户实现统一的运维管理体验。
+It adopts the network load interface abstraction and multi-platform adaptation technology to implement private cloud, public cloud and various virtual platforms. Such as the unified access management of Virtual Machineware, OpenStack and physical machine resources. It helps users realize unified operation and maintenance management.
 
 **One-key scaling addresses business soar**
 

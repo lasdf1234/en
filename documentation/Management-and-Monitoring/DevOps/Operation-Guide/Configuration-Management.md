@@ -131,7 +131,7 @@ The Instance Templates are as follows:
 - Configure specification: select machine type configuration
 - Virtual private cloud: select the existing virtual private cloud in JD Cloud console and assign the IP addresses in the range of virtual private cloud for virtual machines;
 - Subnet: select the existing subnet in JD Cloud console and assign the IP addresses in the range of subnet for virtual machines;
-- 安全组：选择京东云控制台中已经存在的安全组，安全组具有防火墙的功能，用于设置虚机 CVM 的网络访问控制。
+- Security Group: select the existing security group in JD Cloud console, which has the function of firewall and is used to set the network Identity and Access Management of virtual machine CVirtual Machine.
 - Billing by Bandwidth: fixed bandwidth/by traffic
 - Name: the name of the template to be created.
 - Password: set the login password of the virtual machine. If the password is not set, the system will automatically send the initial password to the mailbox associated with the console.
