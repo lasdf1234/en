@@ -10,9 +10,9 @@ public class JedisTester {
 public static void main(String[] args) {
     Jedis jedis = null;
     try {
-        String host = "${your redis domain}”;// Access address displayed on the console
+        String host = "${your redis domain}";// Access address displayed on the console
         int port = 6379;
-        String token = "${redis-id}:{your password}”;// token displayed on the console
+        String token = "${redis-id}:{your password}";// token displayed on the console
         jedis = new Jedis(host, port);
         //鉴权信息
         jedis.auth(token);

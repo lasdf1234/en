@@ -18,4 +18,4 @@
 ## My Favorite Dashboard
 Click on "My Favorite" in the operation bar of the dashboard list to follow the currently selected dashboard.  
 Note: The current version only supports setting one My Favorite Dashboard. If other dashboards have been set to "My Favorite", they will be automatically unfollowed.
-! [](https://github.com/jdcloudcom/cn/blob/edit/image/Cloud-Monitor/dashboard/My Favorite Dashboards 2.png)
+![](https://github.com/jdcloudcom/cn/blob/edit/image/Cloud-Monitor/dashboard/My Favorite Dashboards 2.png)
