@@ -153,7 +153,7 @@ The scaling templates are as follows:
   - Memory idle rate
   - Network in rate
   - Network out rate
-  - hawkeye monitoring
+  - Hawkeye monitoring
   Each indicator can support the following dimensions:
   - Maximum
   - Minimum
