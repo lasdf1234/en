@@ -35,7 +35,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Sequential message",
-				"funcP":"Sequential consumption (FIFO) shall be performed in the order of messages' release."
+				"funcP":"Sequential consumption (FIFO) shall be performed in the order of messages’ release."
 			},
 			{
 				"funcName":"",

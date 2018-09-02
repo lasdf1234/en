@@ -35,7 +35,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Provide visual burying points and tools like SDK, Agent and Client for easy access to batch, streaming data",
-				"funcP":"Digivoice provides users with multiple choices, a variety of tools such as java sdk, js sdk, agent and client, and supports the access of different data sources such as structured data, unstructured data and so on; at the same time, it can meet the user's need of bulk uploading and streaming access. For users who are not familiar with the code, visual burying point access to streaming data is also supported."
+				"funcP":"Digivoice provides users with multiple choices, a variety of tools such as java sdk, js sdk, agent and client, and supports the access of different data sources such as structured data, unstructured data and so on; at the same time, it can meet the user’s need of bulk uploading and streaming access. For users who are not familiar with the code, visual burying point access to streaming data is also supported."
 			}
 		]
 	},

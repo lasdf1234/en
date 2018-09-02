@@ -5,12 +5,12 @@
 			{
 				"funcName":"",
 				"funcTitle":"Cross-availability Zone",
-				"funcP":"When creating a high availability group, you need to support the assignment of multi-availability zone. The high availability group will ensure that the VMs in the group are evenly distributed in the allocated zone. When a VM is created, the number of VMs will be automatically selected in the configured zone. It needn't you to assign availability zone."
+				"funcP":"When creating a high availability group, you need to support the assignment of multi-availability zone. The high availability group will ensure that the VMs in the group are evenly distributed in the allocated zone. When a VM is created, the number of VMs will be automatically selected in the configured zone. It needn’t you to assign availability zone."
 			},
 			{
 				"funcName":"",
 				"funcTitle":"Single High Availability Group Multiple Fault Domain",
-				"funcP":"The fault domain is a physical resource pool that is isolated from each other. The same high availability group allocates at least five fault domains in a single available zone. Hardware faults or scheduled maintenance in one fault domain do not affect other fault domains, so as to reduce the risk that all VMs in your service are not available at the same time. When you deploy your business, it is recommended that you choose a high availability group for each type of service for deployment, and the number of VMs in the high availability group shouldn't less than two sets."
+				"funcP":"The fault domain is a physical resource pool that is isolated from each other. The same high availability group allocates at least five fault domains in a single available zone. Hardware faults or scheduled maintenance in one fault domain do not affect other fault domains, so as to reduce the risk that all VMs in your service are not available at the same time. When you deploy your business, it is recommended that you choose a high availability group for each type of service for deployment, and the number of VMs in the high availability group shouldn’t less than two sets."
 			}
 		]
 	},
@@ -50,7 +50,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Configure Instance Template",
-				"funcP":"It should configure instance templates when creating high availability group, and startup templates to record VM required configuration, such as mirror image, VM specification and network information, and it will be based on startup template configuration to create VM and needn't to assign again by you, and could guarantee VM consistency of your same service with fast deployment. \n"
+				"funcP":"It should configure instance templates when creating high availability group, and startup templates to record VM required configuration, such as mirror image, VM specification and network information, and it will be based on startup template configuration to create VM and needn’t to assign again by you, and could guarantee VM consistency of your same service with fast deployment. \n"
 			}
 		]
 	}

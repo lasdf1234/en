@@ -5,7 +5,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Rich log collection capability",
-				"funcP":"1. Provide abundant methods of data collection - API, SDK and Agent \n2. It is possible to obtain JD Cloud's VM log conveniently and transfer it to the log's service platform \n"
+				"funcP":"1. Provide abundant methods of data collection - API, SDK and Agent \n2. It is possible to obtain JD Cloud’s VM log conveniently and transfer it to the log’s service platform \n"
 			}
 		]
 	},
@@ -15,7 +15,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Convenient log consumption",
-				"funcP":"1. Cover 100% function and configuration of elastic scalability resource of Kafka \n2. Stable and reliable; It is possible to have consumption after the log's data is written-in. \n"
+				"funcP":"1. Cover 100% function and configuration of elastic scalability resource of Kafka \n2. Stable and reliable; It is possible to have consumption after the log’s data is written-in. \n"
 			}
 		]
 	},

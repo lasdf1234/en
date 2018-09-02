@@ -1,4 +1,4 @@
-# Query Domain Information
+# Domain Information Query
 
 Domain Name: Registration information for xxx.com 
 

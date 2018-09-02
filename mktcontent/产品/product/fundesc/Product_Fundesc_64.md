@@ -15,7 +15,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Best access",
-				"funcP":"Analysis of lines by province of the three major operators, i.e. China Mobile, China Unicom and China Telecom. The IP providers are divided by the dimensions of the seven major regions of China: North China, East China, Central China, South China, Northeast China, Northwest China and Southwest China. Intelligent analysis of the country's 31 provinces and cities, Hong Kong, Macao and Taiwan region. IP providers of small operators such as Wasu, China Tietong Telecom, Founder, overseas IP provider, search engine IP provider. \n\n"
+				"funcP":"Analysis of lines by province of the three major operators, i.e. China Mobile, China Unicom and China Telecom. The IP providers are divided by the dimensions of the seven major regions of China: North China, East China, Central China, South China, Northeast China, Northwest China and Southwest China. Intelligent analysis of the country’s 31 provinces and cities, Hong Kong, Macao and Taiwan region. IP providers of small operators such as Wasu, China Tietong Telecom, Founder, overseas IP provider, search engine IP provider. \n\n"
 			}
 		]
 	},

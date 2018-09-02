@@ -10,7 +10,7 @@
 	{
 		"proGood":"High availability",
 		"proName":"The pair hot standby mode realizes automatic switch. When a fault occurs on the host node, the standby node is upgraded to become the new host node to provide services continuously; the persistent service data and instance allocation across availability zones ensure data security and continuous operation of services.",
-		"proDiff":"Install and configure the master-slave node, guarantee the operation of redis service, and depend on the technician's database management level"
+		"proDiff":"Install and configure the master-slave node, guarantee the operation of redis service, and depend on the technician’s database management level"
 	},
 	{
 		"proGood":"Smooth dilatation",

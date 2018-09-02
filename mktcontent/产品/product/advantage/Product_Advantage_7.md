@@ -15,7 +15,7 @@
 	{
 		"proGood":"High reliability",
 		"proName":"The perfect automatic data backup mechanism is provided; by default, each instance is automatically backed up once per day and meanwhile, manual backup may be created according to the workload conditions, so that there is no risk of data loss.",
-		"proDiff":"Self-maintenance, depend on the fault occurrence rate of hardware and the technician's database management level."
+		"proDiff":"Self-maintenance, depend on the fault occurrence rate of hardware and the technician’s database management level."
 	},
 	{
 		"proGood":"High availability",

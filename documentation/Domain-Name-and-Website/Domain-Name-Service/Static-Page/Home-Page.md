@@ -3,20 +3,20 @@
 ## banner
 
 Find Your Perfect Domain Name
-Simple Domain Name Setting - No Need Professional Setting
+Simple Domain Name Setting - Professional Setting Not Required
 Related tools can be used to quickly and easily bind domain names to your existing website
 
-## Query Domain Name
+## Domain Name Query
 
-Query Domain Name
+Domain Name Query
 
-Easy to rush register, query at any time
+Simple rush registration, query at any time
 
 Please enter the domain name you want to rush to register by alphanumeric combination
 
 Explore Domain Name
 
-## Service Advantages Purchase Skills Purchase Process FAQ
+## Service Advantages Purchase Skills Purchase Procedure FAQ
 
 ## Safe Choice Professional Service
 
@@ -48,15 +48,15 @@ Although the .com domain name resources are almost exhausted, as the most common
 
 3. If the template information is modified, the domain name information of the template will be modified in batches. This function is a batch operation. If the information is modified for a single domain name, it will only take effect for the domain name information;
 
-4. After the domain name payment is completed, we will submit your registration information to the registration management organization for approval, during which the domain name is under pre-registered status. If the registration information passes the registration management organization, the domain name will be under normal status, if your registration information includes unconventional information and may be rejected after review, we will return your payment back to your balance. The moderate domain name pre-registration status is instantaneous and will not be greater than 5 minutes. If the domain name is still pre-registered after successful payment, please contact our customer service;
+4. After the domain name payment is completed, we will submit your registration information to the registration management organization for approval, during which the domain name is under pre-registered status. If the registration information passes the registration management organization, the domain name will be under normal status, if your registration information includes unconventional information and may be rejected after review, we will return your payment back to your balance. The general domain name pre-registration status is instantaneous and will not be greater than 5 minutes. If the domain name is still pre-registered after successful payment, please contact our customer service;
 
 5. The registration of the domain name follows the principle of first applying for registration first, and the management certification organization does not conduct any substantive examination on whether the domain name filed by the applicant company violates the rights of the third party. The registration of each domain name in ICANN is unique and non-repeatable;
 
 View More
 
-## Purchase Process
+## Purchase Procedure
 
-Query domain name Add to shopping list Fill in information Confirm the order Payment completion
+Query domain name Add to shopping list Fill in information Confirm the order Payment completed
 
 View Detailed Process
 
@@ -78,7 +78,7 @@ Warm prompt:
 
 The domain name cannot be deleted after successful registration, and you can refuse renewing at the expiration date if you do not need the domain name anymore;
 
-If you don't want to open a website with this domain name, you can pause or delete a resolution record in the domain name console.
+If you don't want to open a website with this domain name, you can pause or delete an resolution record in the domain name console.
 
 ### How to fill in the contact phone when registering the domain name?
 

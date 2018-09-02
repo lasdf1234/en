@@ -14,7 +14,7 @@
 		"funcContent":[
 			{
 				"funcName":"",
-				"funcTitle":"Multi-chart format, flexible arrangement of multiple combinations of plug-ins to meet users' needs",
+				"funcTitle":"Multi-chart format, flexible arrangement of multiple combinations of plug-ins to meet users’ needs",
 				"funcP":"JD data large screen provides line chart, column chart, scatter chart, pie chart, water level map, radar chart, K-line chart, box line chart, calendar heat map, relationship chart, funnel chart, Sankey diagram, instrument panel, etc. It satisfies users for multidimensional data analysis and presentation."
 			}
 		]

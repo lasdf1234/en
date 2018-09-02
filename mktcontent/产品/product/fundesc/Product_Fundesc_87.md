@@ -35,7 +35,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Support session maintenance based on TCP connection",
-				"funcP":"The default timeout period for the session is 1,440s, which is the minimum guaranteed time for the session. During this period, regardless of how the NLB and the backend services are elastically extended, all packets with the same source and destination IP addresses are forwarded to the same back-end server. When the session hold time expires, it can't guarantee the message would be forwarded to the same back-end server."
+				"funcP":"The default timeout period for the session is 1,440s, which is the minimum guaranteed time for the session. During this period, regardless of how the NLB and the backend services are elastically extended, all packets with the same source and destination IP addresses are forwarded to the same back-end server. When the session hold time expires, it can’t guarantee the message would be forwarded to the same back-end server."
 			}
 		]
 	},

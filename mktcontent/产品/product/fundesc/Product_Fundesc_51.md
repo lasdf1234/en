@@ -24,7 +24,7 @@
 		"funcContent":[
 			{
 				"funcName":"",
-				"funcTitle":"Free query the required user's behavior details",
+				"funcTitle":"Free query the required user’s behavior details",
 				"funcP":"Support query to browse each user's attribute information, behavior track and specific operations."
 			}
 		]

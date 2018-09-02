@@ -105,7 +105,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"",
-				"funcP":"SQL Server's instance runs in the logically-isolated Virtual Private Cloud (VPC), hence it can avoid the direct exposure of database on EIP and can avoid most attacks;"
+				"funcP":"SQL Server’s instance runs in the logically-isolated Virtual Private Cloud (VPC), hence it can avoid the direct exposure of database on EIP and can avoid most attacks;"
 			},
 			{
 				"funcName":"",

@@ -30,7 +30,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Network isolation",
-				"funcP":"VPC divides a separate and secure private space for users. VPCs are isolated independently. Containers can be deployed under different VPCs to achieve network isolation. Users can fully control network management, support independent sub-netting, EIP configuration, etc. In addition, the user's local server can be connected to the JD Cloud container through a service such as a VPN or a dedicated line to expand the existing network deployment."
+				"funcP":"VPC divides a separate and secure private space for users. VPCs are isolated independently. Containers can be deployed under different VPCs to achieve network isolation. Users can fully control network management, support independent sub-netting, EIP configuration, etc. In addition, the user’s local server can be connected to the JD Cloud container through a service such as a VPN or a dedicated line to expand the existing network deployment."
 			},
 			{
 				"funcName":"",
@@ -45,7 +45,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Security Group",
-				"funcP":"Security group is a distributed and stateful virtual firewall with the function of detecting and filtering the data packets coming in and out of the container. Network groups can be used to control network access for single or multiple container(s), including east-west traffic between containers and north-south traffic between containers and EIP's communication. Network security isolation between containers can be realized by using the function of security group."
+				"funcP":"Security group is a distributed and stateful virtual firewall with the function of detecting and filtering the data packets coming in and out of the container. Network groups can be used to control network access for single or multiple container(s), including east-west traffic between containers and north-south traffic between containers and EIP’s communication. Network security isolation between containers can be realized by using the function of security group."
 			},
 			{
 				"funcName":"",

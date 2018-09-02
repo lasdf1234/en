@@ -25,12 +25,12 @@
 			{
 				"funcName":"",
 				"funcTitle":"Attack trend graph",
-				"funcP":"By viewing the attacking trend graph, it is possible to know hack's concern extent to business."
+				"funcP":"By viewing the attacking trend graph, it is possible to know hack’s concern extent to business."
 			},
 			{
 				"funcName":"",
 				"funcTitle":"CC Attack Protection Trend",
-				"funcP":"Statistics of CC attack's trend. Defending effect and statistics can be checked in real-time."
+				"funcP":"Statistics of CC attack’s trend. Defending effect and statistics can be checked in real-time."
 			},
 			{
 				"funcName":"",
@@ -85,7 +85,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"No DNS modification",
-				"funcP":"It doesn't need to modify the DNS to achieve service protection and monitoring. Work jointly with load balancer to realize certificate autonomy management and SSL uninstall function."
+				"funcP":"It doesn’t need to modify the DNS to achieve service protection and monitoring. Work jointly with load balancer to realize certificate autonomy management and SSL uninstall function."
 			}
 		]
 	}

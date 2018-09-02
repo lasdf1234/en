@@ -14,7 +14,7 @@
 		"funcContent":[
 			{
 				"funcName":"",
-				"funcTitle":"Multi-chart format, flexible arrangement of multiple combinations of plug-ins to meet users' needs",
+				"funcTitle":"Multi-chart format, flexible arrangement of multiple combinations of plug-ins to meet users’ needs",
 				"funcP":"Support line graphs, column maps, scatter plots, pie charts, radar charts, heat maps, dashboards, funnels, Wayne charts, and other visual chart formats, to meet the needs of different customer scenarios."
 			}
 		]

@@ -10,7 +10,7 @@
 		]
 	},
 	{
-		"funcName":"Interface's Invocation and Monitoring",
+		"funcName":"Interface’s Invocation and Monitoring",
 		"funcContent":[
 			{
 				"funcName":"",

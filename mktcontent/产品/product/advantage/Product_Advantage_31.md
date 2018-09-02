@@ -25,7 +25,7 @@
 	{
 		"proGood":"Security and reliability",
 		"proName":"It is deployed in the VPC to ensure connection security. It has a perfect data backup mechanism and supports automatic and manual backup. It is defaulted to automatically back up each instance once every day; backups can also be created instantly according to the business situation, without need to worry about data loss.",
-		"proDiff":"Self-maintenance, depend on the fault occurrence rate of hardware and the technician's database management level."
+		"proDiff":"Self-maintenance, depend on the fault occurrence rate of hardware and the technician’s database management level."
 	},
 	{
 		"proGood":"Convenient operation and maintenance",

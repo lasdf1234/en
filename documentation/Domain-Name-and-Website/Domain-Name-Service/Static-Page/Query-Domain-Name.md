@@ -1,7 +1,7 @@
 
-# Query Domain Name
+# Domain Name Query
 
-Easy to rush register, query at any time
+Simple rush registration, query at any time
 
 Explore Domain Name
 
@@ -9,7 +9,7 @@ Explore Domain Name
 
 Search Result (5/7 Articles)
 
-Screen Domain name suffix All suffixes Not registered Registered Query domain name information Join list Immediate payment "0" domain name is added Amount of payment All All deleted 
+Screen   Domain Name Suffix   All Suffixes   Not Registered   Registered   Domain Name Information Query   Join List   Pay Immediately    "0" Domain Name Added   Amount Payable   Select All     Remove All 
 
 
 

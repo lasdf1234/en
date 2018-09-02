@@ -1,16 +1,16 @@
 [
 	{
-		"funcName":"Cluster Architecture's High Availability",
+		"funcName":"Cluster Architecture’s High Availability",
 		"funcContent":[
 			{
 				"funcName":"",
 				"funcTitle":"Support HA mode",
-				"funcP":"Master has two nodes and they are in active-backup mode mutually, besides HA can perform real-time detection in order to ensure business's high reliability; When the core node has fault, region can perform switch in second-level."
+				"funcP":"Master has two nodes and they are in active-backup mode mutually, besides HA can perform real-time detection in order to ensure business’s high reliability; When the core node has fault, region can perform switch in second-level."
 			}
 		]
 	},
 	{
-		"funcName":"Cluster's Elastic Extension",
+		"funcName":"Cluster’s Elastic Extension",
 		"funcContent":[
 			{
 				"funcName":"",
@@ -20,7 +20,7 @@
 		]
 	},
 	{
-		"funcName":"Guarantee of Cluster's Defense",
+		"funcName":"Guarantee of Cluster’s Defense",
 		"funcContent":[
 			{
 				"funcName":"",
