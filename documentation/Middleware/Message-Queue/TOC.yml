@@ -38,7 +38,7 @@
         href: Getting-Started/Create-Resource.md
       - name: Produce And Consumer Message
         href: Getting-Started/Produce-And-Consumer-Message.md
-  - name: Operation-Guide
+  - name: Operation Guide
     items:
       - name: Topic Management
         items:
