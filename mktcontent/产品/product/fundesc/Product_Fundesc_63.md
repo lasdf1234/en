@@ -5,7 +5,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Quantitative threat indicator",
-				"funcP":"Provide a quantitative indicator of the security status of the tenant's service, provide a single attack event and a targeted attack event from the perspective of the attacker, as well as the coverage rate of security engine when it is started, and the indicator and change of vulnerability from the perspective of the defender. It also provides Top10 attacked assets and Top10 threat taxonomy. \n"
+				"funcP":"Provide a quantitative indicator of the security status of the tenant’s service, provide a single attack event and a targeted attack event from the perspective of the attacker, as well as the coverage rate of security engine when it is started, and the indicator and change of vulnerability from the perspective of the defender. It also provides Top10 attacked assets and Top10 threat taxonomy. \n"
 			}
 		]
 	},

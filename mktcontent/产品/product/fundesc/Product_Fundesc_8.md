@@ -5,7 +5,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Master-slave version",
-				"funcP":"Redis master-slave version which is highly compatible with the open source Redis protocol, adops the master-slave hot standby architecture. The machine data is automatically synchronized to the standby machine, and the data should be remained consistent. When the machine fails, the system automatically detects the fault and the service switches to the standby. The entire process is completed automatically, ensuring no data loss and service interruption, and it doesn't require user to carry out any treatment"
+				"funcP":"Redis master-slave version which is highly compatible with the open source Redis protocol, adops the master-slave hot standby architecture. The machine data is automatically synchronized to the standby machine, and the data should be remained consistent. When the machine fails, the system automatically detects the fault and the service switches to the standby. The entire process is completed automatically, ensuring no data loss and service interruption, and it doesn’t require user to carry out any treatment"
 			},
 			{
 				"funcName":"",

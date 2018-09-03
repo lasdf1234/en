@@ -9,7 +9,7 @@
 	},
 	{
 		"proGood":"Rich functions",
-		"proName":"Rich search configurations can satisfy users' multi-scenario service demands on a series of search operations such as search for hot words, highlighting, related searches.",
+		"proName":"Rich search configurations can satisfy users’ multi-scenario service demands on a series of search operations such as search for hot words, highlighting, related searches.",
 		"proDiff":""
 	},
 	{

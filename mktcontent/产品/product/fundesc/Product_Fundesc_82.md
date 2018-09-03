@@ -20,7 +20,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"",
-				"funcP":"DRDS node can dynamically expand the processing capability and user's business will not be affected during the time of expansion"
+				"funcP":"DRDS node can dynamically expand the processing capability and user’s business will not be affected during the time of expansion"
 			},
 			{
 				"funcName":"",

@@ -35,7 +35,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"10-Gigabit network environment to ensure high speed of business access",
-				"funcP":"The GPU Service can provide you with 10 Gigabit network environment and can make seamless connection to JD Cloud's product line. High-speed access to the inner network and extremely low latency can ensure application's response speed and make full use of GPU's performance of computing architecture in order to satisfy different application scenarios."
+				"funcP":"The GPU Service can provide you with 10 Gigabit network environment and can make seamless connection to JD Cloud’s product line. High-speed access to the inner network and extremely low latency can ensure application’s response speed and make full use of GPU’s performance of computing architecture in order to satisfy different application scenarios."
 			}
 		]
 	},

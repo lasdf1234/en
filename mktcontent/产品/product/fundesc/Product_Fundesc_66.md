@@ -4,7 +4,7 @@
 		"funcContent":[
 			{
 				"funcName":"",
-				"funcTitle":"Track or record online user's behavior or business processes",
+				"funcTitle":"Track or record online user’s behavior or business processes",
 				"funcP":"For example: Which channel has the highest number of user registrations in the latest three months? What is the trend of changing?"
 			}
 		]

@@ -5,7 +5,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Data source connection",
-				"funcP":"Data integration natively supports a variety of common data sources, which can connect and collect data from different data sources in cloud service and user's local environment, and accelerate the data integration process. Currently, it supports cloud storage, Cloud Database, data computing service, SQL Server, Oracle, MySQL, DB2, FTP and other services"
+				"funcP":"Data integration natively supports a variety of common data sources, which can connect and collect data from different data sources in cloud service and user’s local environment, and accelerate the data integration process. Currently, it supports cloud storage, Cloud Database, data computing service, SQL Server, Oracle, MySQL, DB2, FTP and other services"
 			}
 		]
 	},

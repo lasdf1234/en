@@ -25,7 +25,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Provide picture processing, audio & video trans-coding, porn identification and other value-added services, which is constantly enriched.",
-				"funcP":"The data processing service provided by JD Cloud can realize image cutting, format conversion and watermarking, rich data processing functions such as audio and video transcoding, porn identification and face recognition, and supports mainstream pictures and video formats. Currently, it has supported JD's hundreds of millions of picture services."
+				"funcP":"The data processing service provided by JD Cloud can realize image cutting, format conversion and watermarking, rich data processing functions such as audio and video transcoding, porn identification and face recognition, and supports mainstream pictures and video formats. Currently, it has supported JD’s hundreds of millions of picture services."
 			}
 		]
 	},

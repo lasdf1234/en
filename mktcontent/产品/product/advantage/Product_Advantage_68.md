@@ -9,7 +9,7 @@
 	},
 	{
 		"proGood":"Business protection",
-		"proName":"The WAF and CC protection are provided and all services are secure and visual. Security functions are provided for example, user's access to log and audit.",
+		"proName":"The WAF and CC protection are provided and all services are secure and visual. Security functions are provided for example, user’s access to log and audit.",
 		"proDiff":"OWASP TOP 10 security threat protection, CC protection"
 	},
 	{

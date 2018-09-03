@@ -25,7 +25,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Effectively block violent cracking behavior",
-				"funcP":"It includes brute force attack of remote login, database's anti-brute force attack, FTP's anti-brute force attack. Obtain the IP that attempts to perform brute force attack through the methods of system log, analysis of network packet's protocol and port AND judge that whether it meets the protection rules or not. If the rules are met, interception shall be performed and it shall be reported to the cloud platform."
+				"funcP":"It includes brute force attack of remote login, database’s anti-brute force attack, FTP’s anti-brute force attack. Obtain the IP that attempts to perform brute force attack through the methods of system log, analysis of network packet’s protocol and port AND judge that whether it meets the protection rules or not. If the rules are met, interception shall be performed and it shall be reported to the cloud platform."
 			}
 		]
 	},

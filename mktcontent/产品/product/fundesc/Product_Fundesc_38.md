@@ -25,7 +25,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Main indicators of cluster",
-				"funcP":"Provide monitoring for the availability and performance of cluster, to help users discover problems and solve such problems. It also meets user's management requirements such as adjustment and release of cluster resources."
+				"funcP":"Provide monitoring for the availability and performance of cluster, to help users discover problems and solve such problems. It also meets user’s management requirements such as adjustment and release of cluster resources."
 			},
 			{
 				"funcName":"",

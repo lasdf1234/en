@@ -1,0 +1,54 @@
+  name: Endpoint Security
+  href: 
+  items:
+  - name: Product Introduction
+    items:
+      - name: Product Overview
+        href: Introduction/Overview.md
+        name: Product Function
+        href: Introduction/Functions.md  
+  - name: Product Pricing
+    items:
+      - name: Billing Overview
+        href: Pricing/Billing-Overview.md
+  - name: Getting Started Guide
+    items:
+      - name: Quick Guidance
+        href: Getting-Started/Getting-Started.md
+  - name: Operation Guide
+    items:
+        - name: Security Status
+          href: Operation-Guide/Instance-Management/Security-Status.md
+        - name: Security Configuration
+          href: Operation-Guide/Instance-Management/Security-Configuration.md
+        - name: Security Vulnerability
+          href: Operation-Guide/Instance-Management/Security-Vulnerability.md    
+        - name: Security Incidents
+          href: Operation-Guide/Instance-Management/Security-Incidents.md       
+  - name: Best Practice
+    items:
+    - name: Latest Practice of Endpoint Security
+      href: Best-Practices/Endpoint Security.md
+  - name: Course
+    items:
+    status: 0
+  - name: Troubleshooting
+    items:
+    - name: Virtual Machine fails to connect MongoDB Instance?
+      href: Troubleshooting/Connect-Failed.md
+    - name: Which commands are not supported by Cloud Database MongoDB?
+      href: Troubleshooting/Command.md
+    - name: Account and Password are correct, but it notifies no permission?
+      href: Troubleshooting/Authentication.md        
+  - name: FAQ
+    href: FAQ/FAQ.md
+  - name: Troubleshooting
+    href: Troubleshooting/Uninstall-Endpoint-Security .md
+  - name: API Reference
+    href: 
+  - name: SDK Reference
+    href:
+  - name: Relevant Resources
+    items:
+    - name: Document Historical Records
+      href: Related-Resources/Document-History.md     

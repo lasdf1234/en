@@ -4,7 +4,7 @@
 		"proNameTitle":"Description",
 		"proDiffTitle":"",
 		"proGood":"Multi-service integration",
-		"proName":"It can optimize products and integrate other products of JD Cloud according to users' requirements, including face recognition, porn identification, BI statement, user image etc.",
+		"proName":"It can optimize products and integrate other products of JD Cloud according to users’ requirements, including face recognition, porn identification, BI statement, user image etc.",
 		"proDiff":""
 	},
 	{
@@ -24,7 +24,7 @@
 	},
 	{
 		"proGood":"Multi-service integration",
-		"proName":"It can optimize products and integrate other products of JD Cloud according to users' requirements, including face recognition, porn identification, BI statement, user image etc.",
+		"proName":"It can optimize products and integrate other products of JD Cloud according to users’ requirements, including face recognition, porn identification, BI statement, user image etc.",
 		"proDiff":""
 	}
 ]

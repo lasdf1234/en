@@ -5,7 +5,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"GTC global traffic scheduling is delivered as a cloud service",
-				"funcP":"GTC global traffic's scheduling is delivered in the mode of cloud service, which realizes the scheduling of whole-network's business traffic. GTC can intelligently schedule user's traffic to the nearest POP node in order to improve business experience. Combined with the detection service of cloud's business quality and based on massive & multi-dimensional probe's data sources, it can discover business' availability problem in real-time, realize the real-time scheduling and switching regarding the traffic and automatic operation & maintenance management AND can solve the timeliness problem of manual operation & maintenance."
+				"funcP":"GTC global traffic’s scheduling is delivered in the mode of cloud service, which realizes the scheduling of whole-network’s business traffic. GTC can intelligently schedule user’s traffic to the nearest POP node in order to improve business experience. Combined with the detection service of cloud’s business quality and based on massive & multi-dimensional probe’s data sources, it can discover business’ availability problem in real-time, realize the real-time scheduling and switching regarding the traffic and automatic operation & maintenance management AND can solve the timeliness problem of manual operation & maintenance."
 			}
 		]
 	},
@@ -35,7 +35,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Provide a unified control platform for the entire network SLB",
-				"funcP":"Operation and maintenance management and data monitoring provide a unified control platform for SLB of the entire network, enabling functions such as domain name management, load balancer management and open ticket management of the entire network. Centralized management, service based on open tickets, and service autonomy. Many years' accumulated experience of JD.com operation and maintenance management will be suitable for a variety of user scenarios and needs. The service access is completed in three steps. The simple, flexible traffic switching can provide comprehensive and abundant analysis reports, such as service traffic report, cluster capacity report, connection status report and so on. The service status is absolutely clear. Various problems in the traditional operation and maintenance are solved."
+				"funcP":"Operation and maintenance management and data monitoring provide a unified control platform for SLB of the entire network, enabling functions such as domain name management, load balancer management and open ticket management of the entire network. Centralized management, service based on open tickets, and service autonomy. Many years’ accumulated experience of JD.com operation and maintenance management will be suitable for a variety of user scenarios and needs. The service access is completed in three steps. The simple, flexible traffic switching can provide comprehensive and abundant analysis reports, such as service traffic report, cluster capacity report, connection status report and so on. The service status is absolutely clear. Various problems in the traditional operation and maintenance are solved."
 			}
 		]
 	},

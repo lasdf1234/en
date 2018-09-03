@@ -25,7 +25,7 @@
 			{
 				"funcName":"",
 				"funcTitle":"Tunnel connectivity detection to ensure tunnel availability",
-				"funcP":"VPN provides automatic detection of tunnel's connectivity by default, periodically detects the connectivity state of the tunnel and updates the available state of the current tunnel in real time."
+				"funcP":"VPN provides automatic detection of tunnel’s connectivity by default, periodically detects the connectivity state of the tunnel and updates the available state of the current tunnel in real time."
 			}
 		]
 	}
