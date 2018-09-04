@@ -1,14 +1,14 @@
-# Anti-theft chain best practice
+# Anti-Leech
 
-To prevent the data stored in object storage service from hotlinking by others, JD Cloud Object Storage Service supports anti-theft chain method based on HTTP Header Referer field. You can set the white list of Referer field through the console. After setting the white list, only users of Referer field within the white list can access the data stored in Bucket and those requests out of the white list will be denied. However, if the Referer white list is not configured, data can be accessed by default without being limited by the white list.
+To prevent the data stored in object storage service from hotlinking by others, JD Cloud Object Storage Service supports Anti-Leech method based on HTTP Header Referer field. You can set the white list of Referer field through the console. After setting the white list, only users of Referer field within the white list can access the data stored in Bucket and those requests out of the white list will be denied. However, if the Referer white list is not configured, data can be accessed by default without being limited by the white list.
 
-## Anti-theft chain
+## Anti-Leech
 
 Website A stores its static resources such as images or videos on the OSS of JD Cloud storage. But website B uses these images or videos resources of website A to put on its own website without permit of website A. In this way, website B steals the space and traffic of website A while A did not receive any benefit but bear fees for using these resources. The behavior that B steals A's resources to put on its own website is called hotlinking.
 
-The primary method for anti-theft chain is to limit referrers by setting Referer anti-theft chain:
+The primary method for Anti-Leech is to limit referrers by setting Referer:
 
-The principle for setting Referer anti-theft chain is to compare the Referer attribute of HTTP request header (has saved which URL sends this request to the server) with the white list permitted by the server, if consistency, it indicates it is an intra-request or a site request that you can trust; if inconsistency, it is considered to be hotlinking and the request of this site will be denied.
+The principle for setting Referer is to compare the Referer attribute of HTTP request header (has saved which URL sends this request to the server) with the white list permitted by the server, if consistency, it indicates it is an intra-request or a site request that you can trust; if inconsistency, it is considered to be hotlinking and the request of this site will be denied.
 
 ## Referer
 
@@ -18,7 +18,7 @@ Directly access server resources: namely the browser directly request for OSS re
 
 Quote OSS resources in a network A: The browser visits the page of the network http://jd.com/ and the page quotes the resources of OSS. When the browser requests resources from OSS, the request header of HTTP contains the Referer attribute and the attribute indicates that the http://jd.com/ page quotes the resource.
 
-## Configuring anti-theft chain
+## Configuring Anti-Leech
 
 Log in the JD Cloud object storage page and enter the Setting-Permission Setting page under one Bucket, as shown in the figure below:
 
@@ -37,7 +37,7 @@ Results of different settings are listed as below:
 
 If the origin server is http://jd.com/, the hotlinking is http://jd-steal.com/
 
-1. Set Referer white list and allow referer to be blank to realize the anti-theft chain function
+1. Set Referer white list and allow referer to be blank to realize the Anti-leech function
 
 ![白名单](https://github.com/jdcloudcom/cn/blob/edit/image/Object-Storage-Service/OSS-077.jpg)
 
@@ -49,7 +49,7 @@ The access results are as follows:
 |http://jd.com/|Request from origin server|Successful access|
 |http://jd-steal.com/ |Request from hotlinking|Return 403|
 
-2. Set Referer white list and allow referer to be blank to realize the anti-theft chain function
+2. Set Referer white list and allow referer to be blank to realize the Anti-Leech function
 
 ![白名单](https://github.com/jdcloudcom/cn/blob/edit/image/Object-Storage-Service/OSS-078.jpg)
 
@@ -61,4 +61,4 @@ The access results are as follows:
 |http://jd.com/ |Request from origin server|Successful access|
 |http://jd-steal.com/ |Request from hotlinking|Return 403|
 
-3. Set the Referer white list to be blank. If the HTTP request contains the Referer, OSS will refuse requests from all website, including the trusted website. Thus, the configuration is not recommended for use. If you want to realize the anti-theft chain, please adopt the first two configuration schemes.
+3. Set the Referer white list to be blank. If the HTTP request contains the Referer, OSS will refuse requests from all website, including the trusted website. Thus, the configuration is not recommended for use. If you want to realize the Anti-Leech, please adopt the first two configuration schemes.
