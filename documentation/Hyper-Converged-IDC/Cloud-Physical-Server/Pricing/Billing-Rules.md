@@ -12,10 +12,8 @@ For example: The start time of the order is January 1, 2016 at 15:00:00, the pur
 
 ## Description of Amount Overdue at Expiration
 
-### Monthly Package
 
-- When the expiration time of your monthly package Cloud Physical Server is earlier than or the same as the current time, the status of your Cloud Physical Server will become shutdown. Upon expiration, the service of the virtual machine will be stopped and unavailable for use.
-Before expiration of your monthly package Cloud Physical Server, JD Cloud will send you email and SMS to remind you that your resources are close to expire, please pay attention to view and renew in time; JD Cloud will provide expiration early warning before your monthly package instance expires, and push expiration early warning notification to you 30 days, 15 days, 7 days, 3 days and 1 day before expiration.
+- Before expiration of your monthly package Cloud Physical Server, JD Cloud will send you email and SMS to remind you that your resources are close to expire, please pay attention to view and renew in time; JD Cloud will provide expiration early warning before your monthly package instance expires, and push expiration early warning notification to you 30 days, 15 days, 7 days, 3 days and 1 day before expiration.;
 
 - Upon expiration of your Cloud Physical Server, you will be sent email and SMS to notify you that your resources are expired, please be sure to view notices and recharge in time to prevent unnecessary losses;
 

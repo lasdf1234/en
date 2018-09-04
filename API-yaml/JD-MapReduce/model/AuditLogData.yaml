@@ -1,0 +1,14 @@
+swagger: "2.0"
+definitions:
+  auditLogData:
+    x-jdcloud-module: jmr
+    title: auditLogData
+    type: object
+    properties:
+      totalNum:
+        type: integer
+        description: Number of audit log lists returned
+      auditLogList:
+        type: array
+        items:
+          $ref: "../model/AuditLog.yaml#/definitions/auditLog"

@@ -9,7 +9,8 @@ The details on registration process and purchase process are as follows:
 
 ### Register Cloud Physical Server Product
 
-- Login to JD Cloud official website www.jdcloud.com
+- Login to JD Cloud official website
+www.jdcloud.com
 - It is allowed to directly login to JD Cloud with JD account; if you do not have a JD account, please click “Register for Free” to register JD Cloud and JD account.
 - After registration, the page will automatically jump to the page for completing information, please click Submit after filling in the account information according to facts.
 
@@ -25,4 +26,4 @@ Select the data center closest to your user, to obtain the less access delay and
 For server configuration introduction, please refer to the Instance Type Family section.
 
 **Billing** 
-The monthly package billing method is adopted. For detailed information related to billing, please refer to the Billing Rules section.
+The monthly package billing method is adopted. For detailed information related to billing, please refer to the [Billing Rules](../Pricing/Billing-Rules.md) section.
