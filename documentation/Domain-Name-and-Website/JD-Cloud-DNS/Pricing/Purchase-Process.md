@@ -2,7 +2,7 @@
 
 This article describes the purchase entrance for cloud resolution.
 
-1. Log in to JD Cloud official website [https://www.jdcloud.com/] (https://www.jdcloud.com/).
+1. Log in to JD Cloud official website [https://www.jdcloud.com/](https://www.jdcloud.com/).
 
 2. Log in to the console.
 

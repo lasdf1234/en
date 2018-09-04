@@ -12,4 +12,4 @@
 
   1. After the record is modified, the specific effective time depends on the local DNS (local dns) TTL cache time.
 
-  2. When modifying the record, it prompts record conflict, please refer to [Record Conflict Rule] (https://www.jcloud.com/help/detail/2184/isCatalog/1).
+  2. When modifying the record, it prompts record conflict, please refer to [Record Conflict Rule](https://www.jcloud.com/help/detail/2184/isCatalog/1).

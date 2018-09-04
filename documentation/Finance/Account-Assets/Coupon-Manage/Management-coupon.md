@@ -8,7 +8,7 @@
 
 3. Use the coupon on the Payment Confirmation page, after selecting the corresponding coupon, the amount will be deducted automatically.
 
-! [TimLine snapshot 20170818155053.png](http://img1.jcloudcs.com/cms/f02d6e03-6ef1-4f74-bed0-89e421d7b9fe20170818161128.png)
+![TimLine snapshot 20170818155053.png](http://img1.jcloudcs.com/cms/f02d6e03-6ef1-4f74-bed0-89e421d7b9fe20170818161128.png)
 
 ### **The Use of Pay-As-You-Go**
 
