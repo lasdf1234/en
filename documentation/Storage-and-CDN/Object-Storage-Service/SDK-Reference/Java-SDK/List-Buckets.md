@@ -2,9 +2,9 @@
 
 You can use JingdongStorageService.listBuckets to list all Buckets under designated users, the following codes show how to list designated users’ Bucket lists by simple methods:
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<yourAccessKey>";  
 String SecretKey = "<yourSecretKey>";  
   
