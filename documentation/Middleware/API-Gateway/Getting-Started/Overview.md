@@ -33,7 +33,7 @@ You can create API after completion of API group. Creation of API is a process o
 - API Advanced Configuration: Backend route, backend parameters, backend constant parameters.
 
 
-### STEP3: Publish the AIP group to environment
+### STEP3: Publish the API group to environment
 
 Publish the API group to the environment through **Publish** operation in the page of **API grouping management**
 
