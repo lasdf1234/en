@@ -93,7 +93,7 @@ When logging in the Header page to check request again, the Request with Origin,
 
 4. Setting CORS
 
-Log in console -> Cloud storage -> Space management -> Log in storage bucket test-cors -> Space setting -> Cross-origin access setting and click CORS statement configuration to log in the configuration page.
+Log in console -> Object Storage Service -> Bucket Management -> Log in bucket test-cors -> Bucket Setting -> Cross-origin resource sharing setting.Clicking CORS statement configuration to log in the configuration page.
 
 ![](https://github.com/jdcloudcom/cn/blob/edit/image/Object-Storage-Service/OSS-087.jpg)
 
