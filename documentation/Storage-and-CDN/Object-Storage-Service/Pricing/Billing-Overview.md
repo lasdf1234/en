@@ -2,7 +2,7 @@
 
 ## Charging items
 
-JD Cloud object storage service adopts the quantity-based pay-as-you-go billing mode, which pushes the bill on a daily basis according to the actual consumption of user and collects charge for the previous day as per the bill per day. Currently, the base charging items for JD Cloud object storage service include: Bucket capacity, access traffic and request times.
+JD Cloud object storage service adopts the quantity-based pay-as-you-go billing mode, which pushes the bill on a daily basis according to the actual consumption of user and collects charge for the previous day as per the bill per day. Currently, the base charging items for JD Cloud object storage service include: bucket capacity, access traffic and request times.
 
 Bucket capacity: refers to the data occupancy amount of the bucket, including the actual bucket occupancy amount and data retrieval amount; the data retrieval amount mainly refers to the access to low-redundancy storage type files, which will calculate the amount of data retrieval according to the reading size of the file, without distinguishing the Intranet from the Internet.
 
