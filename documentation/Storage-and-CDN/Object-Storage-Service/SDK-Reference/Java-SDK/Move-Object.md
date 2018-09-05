@@ -1,4 +1,4 @@
-# Move files
+# Move Object
 
 In the same region, Objects can be moved from one Bucket to another Bucket. Move down the same bucket is equivalent to renaming objects. This action will not modify metadata:
 ```
