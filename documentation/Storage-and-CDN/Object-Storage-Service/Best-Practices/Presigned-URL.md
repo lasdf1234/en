@@ -1,4 +1,4 @@
-# Outputting pre-signature URL
+# Generate presigned URL
 
 ## Implementation method
 
@@ -15,7 +15,7 @@ The dependent sdk configured in pom.xml is as follows:
 
 2. Example code
 
-The URL example code with signature is outputted, as follows:
+The following is an example presigned URL.
 ```
 import java.net.URL;
 import com.amazonaws.ClientConfiguration;
