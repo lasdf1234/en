@@ -35,14 +35,14 @@ The example includes the following contents:
 
 |Example file|Example contents|
 |-|-|
-|JcloudOSSDemo|Demonstrate quick start example for cloud storage use|
+|JcloudOSSDemo|Demonstrate quick start example for Object Storage Service|
 |InitOSSSample|Demonstrate the method of OSS initialization|
 |ObjectSample|Demonstrate the basic object relevant actions, such as upload, download, delete, etc.|
-|PutObjectSample|Demonstrate the usage of simple file upload|
-|GetObjectsample|Demonstrate the usage of downloading files|
-|DeleteObjectSample|Demonstrate the usage of deleting files|
-|MoveObjectSample|Demonstrate the usage of moving files|
-|ListObjectSample|Demonstrate the usage of listing files|
+|PutObjectSample|Demonstrate the usage of uploading object|
+|GetObjectsample|Demonstrate the usage of downloading object|
+|DeleteObjectSample|Demonstrate the usage of deleting object|
+|MoveObjectSample|Demonstrate the usage of moving object|
+|ListObjectSample|Demonstrate the usage of listing objects|
 |PresignedUrlSample|Demonstrate the usage of creating pre-signed URI|
-|BucketSample|Demonstrate the usage of configuring storage space, including basic actions (create, delete, display all storage space of the account) of the storage space, relevant actions of anti-theft chain, etc.|
+|BucketSample|Demonstrate the usage of configuring bucket, including basic actions (create, delete, display all buckets of the account) of the storage space, relevant actions of anti-theft chain, etc.|
 |MultipartUploadSample|Demonstrate the usage of multipart upload of large files|
