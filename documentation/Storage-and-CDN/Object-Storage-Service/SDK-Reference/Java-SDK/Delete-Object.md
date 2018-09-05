@@ -1,4 +1,4 @@
-# Delete files
+# Delete Object
 
 Delete an existing Object:
 ```
