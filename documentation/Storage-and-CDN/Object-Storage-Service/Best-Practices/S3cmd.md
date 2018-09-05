@@ -138,11 +138,11 @@ Commands：
 
 <table>
 <tr>
-    <td>功能类型</td>
-    <td>功能命令</td>
+    <td>Function Type</td>
+    <td>Function Command</td>
 </tr>
 <tr>
-    <td rowspan="12"> 管理Bucket</td>
+    <td rowspan="12"> Manager Bucket</td>
     <td>Make bucket<br>s3cmd mb s3://BUCKET</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ Commands：
     <td>Info about Website<br>s3cmd ws-info s3://BUCKET</td>
 </tr> 
 <tr>
-    <td rowspan="7"> 管理Object</td>
+    <td rowspan="7">Manager Object</td>
     <td>Put file into bucket<br>s3cmd put FILE [FILE...]s3://BUCKET[/PREFIX]</td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ Commands：
     <td>List parts of a multipart upload<br>s3cmd listmp s3://BUCKET/OBJECT Id</td>
 </tr>
 <tr>
-    <td rowspan="4"> 其他功能</td>
+    <td rowspan="4">Other Function</td>
     <td>Sign arbitrary string using the secret key<br>s3cmd sign STRING-TO-SIGN</td>
 </tr>
 <tr>
