@@ -9,10 +9,10 @@ definitions:
     properties:
       key:
         type: string
-        description: 过滤条件的名称
+        description: Name of filter requirements
       values:
         type: array
-        description: 过滤条件的值
+        description: Value of filter requirements
         items:
           type: string
 

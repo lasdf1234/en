@@ -6,10 +6,10 @@ definitions:
     properties:
       name:
         type: string
-        description: 配额项的名称
+        description: Name of the quota item
       max:
         type: integer
-        description: 配额
+        description: Quota
       used:
         type: integer
-        description: 已使用的数目
+        description: Number used
