@@ -201,7 +201,7 @@ Commands：
     <td>List parts of a multipart upload<br>s3cmd listmp s3://BUCKET/OBJECT Id</td>
 </tr>
 <tr>
-    <td rowspan="4">Other Function</td>
+    <td rowspan="4">Other Functions</td>
     <td>Sign arbitrary string using the secret key<br>s3cmd sign STRING-TO-SIGN</td>
 </tr>
 <tr>
