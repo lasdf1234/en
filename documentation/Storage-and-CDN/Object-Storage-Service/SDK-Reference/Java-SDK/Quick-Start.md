@@ -6,7 +6,7 @@ In this section, you will see how to quickly use Java SDK to complete normal act
 
 ##Initiate JingdongStorageService
 
-Before sending any a HTTP request to the cloud storage, a JingdongStorageService instance must be created first:
+Before sending any a HTTP request to the object storage service, a JingdongStorageService instance must be created first:
 ```
 //访问京东云的accessKey  
 String accessKey = "<yourAccessKeyId>";  
@@ -27,7 +27,7 @@ Notification: see “Initialization” for more initialization contents of OSSCl
 
 ## Create Bucket
 
-Storage space (Bucket) is OSS global naming space, (being equivalent to the container of data), which can store several files (Objects). The following codes demonstrate how to create a Bucket:
+Bucket is OSS global naming space, (being equivalent to the container of data), which can store several objects. The following codes demonstrate how to create a Bucket:
 ```
 // 创建bucket  
 String bucketName = "<your-bucket-name>";  
@@ -39,9 +39,9 @@ See the naming specification in “Basic Concepts” for that of the Bucket.
 
 See “Manage Bucket” for more information of creating Bucket.
 
-## Upload Object
+## Put Object
 
-The following codes demonstrate how to upload files (objects) to OSS:
+The following codes demonstrate how to upload objects to OSS:
 ```
 File file = new File("D:/test");
 String bucketName =  "<your-bucket-name>";
@@ -60,7 +60,7 @@ Java SDK upload Object to OSS via InputStream.
 
 See “Upload File” for more information of uploading Object.
 
-## Download Object
+## Get Object
 
 The following codes demonstrate how to acquire the text contents of Object:
 ```
@@ -86,7 +86,7 @@ storageObject.close();
 ```
 Notification: see “Download File” for more information of downloading Object.
 
-## List Object
+## List Objects
 
 When a series of upload Object actions have been completed, it may need to view which Objects are contained under the Bucket. The following codes demonstrate how to list the Objects under the Bucket:
 ```
