@@ -1,6 +1,6 @@
 # Initialization
 
-JingdongStorageService (JSS) is the core class of JD Cloud object storage service OSS, it provides a series of interfaces interacting with OSS for the callers, used for OSS resources such as manage, operate storage space (Bucket) and file (Object), etc. Use Java SDK to initiate OSS request, you need to use your AccessKey and SecretKey to initiate a JingdongStorageService instance and modify the default configuration items of ClientConfig according to the requirements.
+JingdongStorageService (JSS) is the core class of JD Cloud object storage service OSS, it provides a series of interfaces interacting with OSS for the callers, used for OSS resources such as manage, operate buckets and objects, etc. Use Java SDK to initiate OSS request, you need to use your AccessKey and SecretKey to initiate a JingdongStorageService instance and modify the default configuration items of ClientConfig according to the requirements.
 
 ## Determine Endpoint
 
