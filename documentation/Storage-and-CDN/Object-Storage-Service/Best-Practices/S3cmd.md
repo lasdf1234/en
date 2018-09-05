@@ -1,4 +1,4 @@
-# Managing JD Cloud OSS via S3cmd
+# Managing OSS via S3cmd
 
 ## Introduction
 
