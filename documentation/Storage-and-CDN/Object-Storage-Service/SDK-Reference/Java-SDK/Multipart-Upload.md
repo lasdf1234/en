@@ -24,14 +24,14 @@ Multipart upload is divided into the following 3 steps:
 
 Before use multipart upload mode, a Multipart Upload event must be initiated first. The action will return an Upload ID created by OSS server, which is used for marking this Multipart Upload event. User can initiate relevant actions by this ID, such as terminate Multipart Upload, query Multipart Upload, etc. Call jss.bucket(bucketName).object(key).initiateMultipartUpload initiate a multipart upload event:
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<yourAccessKey>";  
 String SecretKey = "<yourSecretKey>";  
 String bucketName = "<yourBucketName>";  
 String key = "<yourObjcetkey>";  
-// 创建JingdongStorageService实例  
+// 创建JingdongStorageService实例
 Credential credential = new Credential(accessKey, secreteKey);  
 //默认配置文件。如用户需要个别配置，则自行配置。例:config.setMaxConnections(20);  
 ClientConfig config = new ClientConfig();  
@@ -103,9 +103,9 @@ Notes:
 
 You can terminate corresponding Multipart Upload event according to Upload ID. When a Multipart Upload event is terminated, this Upload ID cannot be used for any actions and the uploaded data will be deleted. Call jss.bucket(bucketName).object(key).abortMultipartUpload to abort multipart upload event:
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<yourAccessKey>";  
 String SecretKey = "<yourSecretKey>";  
 String bucketName = "<your bucketName>";  
@@ -128,9 +128,9 @@ jss.destroy();
 
 List all successfully uploaded parts belong to the designated Upload ID. Note: if a substep upload event has been completed or aborted, its uploaded multiparts cannot be listed.
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-// 您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+// 您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<your accessKey>";  
 String secretKey = "<your secretKey>";  
 String bucketName = "<your bucketName>";  
@@ -164,9 +164,9 @@ jss.destroy();
 
 List all substep upload events in a Bucket space. Note: if a substep upload event has been completed or aborted, the event cannot be listed.
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-// 您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+// 您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<your accessKey>";  
 String secretKey = "<your secretKey>";  
 String bucketName = "<your bucketName>";  
