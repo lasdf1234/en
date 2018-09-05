@@ -143,12 +143,12 @@ Commands：
  <col width=69 style='width:152pt'>
  <col width=337 style='mso-width-source:userset;mso-width-alt:10773;width:453pt'>
  <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl65 width=69 style=’height:14.5pt;width:152pt’>Function Type</td>
-  <td class=xl66 width=337 style=’width:453pt’>Function Command</td>
+  <td height=19 class=xl65 width=69 style='height:14.5pt;width:152pt'>Function Type</td>
+  <td class=xl66 width=337 style='width:453pt'>Function Command</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td rowspan=24 height=588 class=xl67 width=69 style='border-bottom:1.0pt solid black;
-  height:441.0pt;border-top:none;width:152pt’>Management Bucket</td>
+  height:441.0pt;border-top:none;width:152pt'>Management Bucket</td>
   <td rowspan=2 class=xl70 width=337 style='border-bottom:1.0pt solid black;
   border-top:none;width:453pt'>Make bucket s3cmd<br>
     mb s3://BUCKET</td>
@@ -235,7 +235,7 @@ Commands：
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.0pt'>
   <td rowspan=14 height=350 class=xl70 width=69 style='border-bottom:1.0pt solid black;
-  height:262.5pt;border-top:none;width:152pt’>Management Object</td>
+  height:262.5pt;border-top:none;width:152pt'>Management Object</td>
   <td rowspan=2 class=xl70 width=337 style='border-bottom:1.0pt solid black;
   border-top:none;width:453pt'>Put file into bucket<br>
     s3cmd put FILE [FILE...]s3://BUCKET[/PREFIX]</td>
@@ -288,7 +288,7 @@ Commands：
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.0pt'>
   <td rowspan=10 height=344 class=xl70 width=69 style='border-bottom:1.0pt solid black;
-  height:258.5pt;border-top:none;width:152pt’>Other Function</td>
+  height:258.5pt;border-top:none;width:152pt'>Other Function</td>
   <td rowspan=2 class=xl70 width=337 style='border-bottom:1.0pt solid black;
   border-top:none;width:453pt'>Sign arbitrary string using the secret &nbsp;
   key<br>
