@@ -28,4 +28,4 @@ Notification:
 
 * The name of Bucket is global unique, so you need to ensure the names of the Buckets are not duplicated with that of others.
 
-* The permissions of the bucket created by the above codes is private read/write (default permissions).
+* The permissions of the bucket created by the above codes is Private (default permissions).
