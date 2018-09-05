@@ -1,4 +1,4 @@
-# Manage File
+# Manage Objects
 
 In OSS, users can manage files (Objects) in the storage space (Bucket) through a series of interfaces, such as ListObjects, DeleteObject, MoveOb, etc. The name of Object is also called as key or object key.
 
