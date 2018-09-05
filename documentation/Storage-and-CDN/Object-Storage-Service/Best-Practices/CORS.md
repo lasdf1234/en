@@ -1,4 +1,4 @@
-# Cross-origin access best practice
+# Cross-origin resource sharing
 
 ## Same-origin policy
 
@@ -14,7 +14,7 @@ Different ports: http://www.jd.com:80 and http://www.jd.com:81 are from differen
 
 Others: http://www.jd.com/a and http://www.jd.com/b are from the same origin, because they have the same domain name protocol and port.
 
-## Cross-origin access
+## Cross-origin resource sharing
 
 The cross-origin resource sharing (CORS) defines the interaction method between a client Web application program loaded in one domain and resources in another domain. When any one of the protocol, domain name and port requesting URL is different from the current page address, it is cross-origin.
 
@@ -103,6 +103,6 @@ Adopt the loosest configuration in the configuration page: the Origin is http://
 
 5. Verification result
 
-Please try to access the cors.html file again after completing configuration. Cross-origin access setting
+Please try to access the cors.html file again after completing configuration. Cross-origin access to success.
 
 ![](https://github.com/jdcloudcom/cn/blob/edit/image/Object-Storage-Service/OSS-089.jpg)
