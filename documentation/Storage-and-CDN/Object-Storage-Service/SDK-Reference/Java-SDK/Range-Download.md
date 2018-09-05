@@ -2,11 +2,11 @@
 
 If the OSS file is relatively large and only one part of the data is required, it can use range download to download data of designated scope. If the designated range is 0 - 1000, then it will return the data from 0 to 1,000 bytes, including the 1,000 th, 1001 bytes data in total, i.e., [0,1000]. If the designated range is 1000 -, the nit will return the data without the first 1000 bytes and download the rest part:
 ```
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey =  "<yourAccessKeyId>";  
 String secreteKey = "<yourSecretKey>";       
-//endpoint以华北为例，其它region请按实际情况填写  
-String endPoint = "s-bj.jcloud.com";  
+//endpoint以华北-北京为例，其它region请按实际情况填写  
+String endPoint = "oss.cn-north-1.jcloudcs.com";  
 String bucketName = "<yourBucketName>";  
 String objectName = "<yourObjectName>";    
 //ClientConfig当前为默认配置，用户可根据需要自行配置，如设置连接超时时间等  
