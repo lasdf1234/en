@@ -5,8 +5,8 @@ This paper will lead you to open the API through control panel.
 You can open the API service successfully only by completion of the following procedures in turns:
 - STEP1: Create API Groups
 - STEP2: Create the API under group
-- STEP3: Associate the domain name and configure the traffic control policy and backend signature for the group
-- STEP4: Release the API groups to environment
+- STEP3: Release the API groups to environment
+- STEP4: Associate the domain name and configure the traffic control policy and backend signature for the group
 - STEP5: Authorize the API caller to access
 
 
@@ -33,22 +33,19 @@ You can create API after completion of API group. Creation of API is a process o
 - API Advanced Configuration: Backend route, backend parameters, backend constant parameters.
 
 
+### STEP3: Publish the AIP group to environment
 
-### STEP3: Associate the domain name and configure the traffic control policy and backend signature for the group
+Publish the API group to the environment through **Publish** operation in the page of **API grouping management**
+
+During publishing, select the environment (Test, pre-launch, online) required to be published and the version to be published, configure the backend address, and then click to publish, namely, the group is published to the environment.
+
+
+### STEP4: Associate the domain name and configure the traffic control policy and backend signature for the group
 1. API gateway associates the domain name based on API group. The API gateway locates to an unique API group through the domain name, and then determines the unique API through the Path+HTTPMethod.
 
 2. Perform the configuration and association of traffic control policy
 
 3. Perform the configuration and association of backend signature
-
-
-
-
-### STEP4: Publish the AIP group to environment
-
-Publish the API group to the environment through **Publish** operation in the page of **API grouping management**
-
-During publishing, select the environment (Test, pre-launch, online) required to be published and the version to be published, configure the backend address, and then click to publish, namely, the group is published to the environment.
 
 
 
