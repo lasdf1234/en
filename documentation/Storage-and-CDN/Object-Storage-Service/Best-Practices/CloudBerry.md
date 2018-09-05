@@ -4,7 +4,7 @@
 
 CloudBerry Explorer is a file browser developed by the industry, used for directly accessing and managing object storage service under Windows. You may access and managing JD Cloud OSS via CloudBerry Explorer.
 
-Main functions of CloudBerry include: supporting AK/SK login, managing Bucket, managing Object, upload, download, external link, synchronization, etc.
+Main functions of CloudBerry include: supporting AK/SK login, managing bucket, managing object, upload, download, external link, synchronization, etc.
 
 For more details of actions, please download [User Manual for JD Cloud Object Storage Service Cloudberry](https://oss.cn-north-1.jcloudcs.com/downloads/%E4%BA%AC%E4%B8%9C%E4%BA%91%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8CloudBerry%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)
 
@@ -12,7 +12,7 @@ For more details of actions, please download [User Manual for JD Cloud Object St
 
 CloudBerry download link: http://www.cloudberrylab.com/download-thanks.aspx?prod=cbes3free
 
-Before using CloudBerry, you need to register an account in JD Cloud in advance and grant the JD Cloud object storage service (OSS).
+Before using CloudBerry, you need to register an account in JD Cloud in advance and sign up the JD Cloud OSS.
 
 Specific steps for accessing OSS via CloudBerry are as follows:
 
