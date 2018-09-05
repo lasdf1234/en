@@ -14,11 +14,11 @@ Stream download, download to the local file are called as simple download.
 
 When download large files, you may want to perform stream processing (process a part of content for one time) instead of all contents.
 ```
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey =  "<yourAccessKeyId>";  
 String secreteKey = "<yourSecretKey>";       
-// endpoint以华北为例，其它region请按实际情况填写  
-String endPoint = "s-bj.jcloud.com";  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endPoint = "oss.cn-north-1.jcloudcs.com";  
 String bucketName = "<yourBucketName>";  
 String objectName = "<yourObjectName>";  
 //ClientConfig当前为默认配置，用户可根据需要自行配置，如设置连接超时时间等  
@@ -76,11 +76,11 @@ The reason is stream reading may not read all the data by a single time, see Inp
 
 Download the contents of Object to the designated local file(s). If the designated local file do not exist, it will be created.
 ```
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey =  "<yourAccessKeyId>";  
 String secreteKey = "<yourSecretKey>";       
-// endpoint以华北为例，其它region请按实际情况填写  
-String endPoint = "s-bj.jcloud.com";  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endPoint = "oss.cn-north-1.jcloudcs.com";  
 String bucketName = "<yourBucketName>";  
 String objectName = "<yourObjectName>";   
 //ClientConfig当前为默认配置，用户可根据需要自行配置，如设置连接超时时间等  
