@@ -4,9 +4,9 @@ JD Cloud storage provides a kind of authentication method based on Query String,
 
 Generated URL accesses with the method of GET by default, thus, users can directly access relevant contents via a browser, the codes are as follows:
 ```
-// endpoint以华北为例，其它region请按实际情况填写  
-String endpoint = "s-bj.jcloud.com";  
-//您的AccessKey和SecretKey可以登录到京东云存储的控制台，在【Access Key 管理】中查看。  
+// endpoint以华北-北京为例，其它region请按实际情况填写  
+String endpoint = "oss.cn-north-1.jcloudcs.com";  
+//您的AccessKey和SecretKey可以登录到对象存储的控制台，在【Access Key 管理】中查看。  
 String accessKey = "<your accessKey>";  
 String secretKey = "<your secretKey>";  
 String bucketName = "<your bucketName>";  
