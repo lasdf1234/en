@@ -136,7 +136,7 @@ PUT /sign.txt   HTTP/1.1
   Date: Thu, 13 Jul 2017 02:37:31 GMT
   Authorization: jingdong qbS5QXpLORrvdrmb: xvj2Iv7WcSwnN26XYnTq/c2YBQs=
   Content-Length: 20
-  Host: s-bj.jcloud.com
+  Host: oss.cn-north-1.jcloudcs.com
 ```
 Detailed analysis:
 
