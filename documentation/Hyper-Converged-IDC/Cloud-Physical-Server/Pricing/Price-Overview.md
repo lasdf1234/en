@@ -11,13 +11,23 @@ The instance prices of the Cloud Physical Server mainly include the Cloud Physic
 		<td><B>Monthly Package Price (RMB)</B></td>	
     </tr>
     <tr>   
-        <td >Computing</td>
+        <td rowspan="3">Computing Type</td>
 		<td >Standard Computing Type</td>
 		<td >cps.c.normal</td>
 		<td >6300</td>
     </tr>
-     <tr>   
-        <td >Storage</td>
+	<tr>   
+		<td >Computing Performance Type Ⅰ</td>
+		<td >cps.c.perfⅠ</td>
+		<td >7000</td>
+    </tr>
+	<tr>   
+		<td >Computing Performance Type Ⅱ</td>
+		<td >cps.c.perfⅡ</td>
+		<td >9000</td>
+    </tr>
+	<tr>   
+		<td >Storage Type</td>
 		<td >Standard Storage Type</td>
 		<td >cps.s.normal</td>
 		<td >4500</td>

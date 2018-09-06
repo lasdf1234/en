@@ -7,7 +7,7 @@
     href: changelog.md
   - name: Interface Information
     items:
-      - name:  TOPIC APIs
+      - name: TOPIC APIs
         items:
           - name: addTopic
             href:  TOPIC APIs/addTopic.md

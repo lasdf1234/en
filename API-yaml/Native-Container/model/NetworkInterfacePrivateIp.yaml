@@ -1,0 +1,17 @@
+swagger: "2.0"
+definitions:
+  networkInterfacePrivateIp:
+    x-jdcloud-module: nc
+    x-jdcloud-internal: false
+    type: object
+    description: Describe information of network interface Ip resource
+    properties:
+      privateIpAddress:
+        type: string
+        description: IPV4 address of private IP
+      elasticIpId:
+        type: string
+        description: IPV4 address of private IP
+      elasticIpAddress:
+        type: string
+        description: Elastic IP instance address
