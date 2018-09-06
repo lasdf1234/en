@@ -9,4 +9,4 @@ For the security of data, it is recommended to change the password periodically.
 2. Select the target instance required to reset the password; click “Reset the Password”. Parameter description of pop-up box is as follows  
   Password: There are certain restrictions on the length and characters of the password. Specific condition shall be subject to console. 
 
-! [Reset Password](../../../../image/TiDB/Reset-Password-1.png)
+![Reset Password](../../../../image/TiDB/Reset-Password-1.png)

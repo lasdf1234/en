@@ -23,7 +23,7 @@ Please access the product page of JD Cloud Physical Server.
 Select the data center closest to your user, to obtain the less access delay and higher access speed. The regions and availability zones where the data centers are located of which the cloud physical servers are open for sale or are under construction. Please refer to the chapter [Core Concepts](../Introduction/Core-Concepts.md).
 
 **Select Server Configuration** 
-For the server configuration, please refer to the chapter [Specifications] (../Introduction/Specifications.md).
+For the server configuration, please refer to the chapter [Specifications](../Introduction/Specifications.md).
 
 **Billing** 
 The monthly package billing method is adopted. For detailed information related to billing, please refer to the [Billing Rules](../Pricing/Billing-Rules.md) section.

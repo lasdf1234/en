@@ -11,4 +11,4 @@ TiKV Server is responsible for storing data. From the outside, TiKV is a distrib
 Placement Driver (PD) is the management module for the entire cluster. It is responsible for storing the meta information of the cluster, performing scheduling and load balancer for TiKV cluster AND assigning the globally unique and incremental transaction ID.
 
 **Architectural Diagram**
-! [Infrastructure Architecture](../../../../image/TiDB/Basic-Infrastructure.png)
+![Infrastructure Architecture](../../../../image/TiDB/Basic-Infrastructure.png)
