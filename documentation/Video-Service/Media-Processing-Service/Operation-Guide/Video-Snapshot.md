@@ -8,7 +8,7 @@
 
 3. Choose Region in need.
 
-4. Click [New Video Snapshot].
+4. Click [Create Task].
 
 ![](https://github.com/jdcloudcom/cn/blob/edit/image/Media-Processing-Service/MPS-007.png)
 
