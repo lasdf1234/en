@@ -7,7 +7,7 @@ Request grammar:
 PUT /bucket/object?pretreatmentStrategyV2&expires=<expires value>&policy=<policy string>  HTTP/1.1
 Content-MD5: 
 Content-Disposition: 
-Host: <bucketname>.oss.cn-north-1.jcloudcs.com
+Host: oss.cn-north-1.jcloudcs.com
 Date: date
 ```
 Description:
