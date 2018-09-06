@@ -16,7 +16,7 @@ DELETE deleteVideoTask&taskId=78fbb093de19fc HTTP/1.1
 Date: Tue, 15 Dec 2015 12:55:54 GMT
 Authorization: jingdong 2sTXh1AoApNv5x8p:X/CQ6sMZWPFun1k9k3rUZL/Psgw=
 Content-Length: 0
-Host: oss.cn-north-1.jcloudcs.com
+Host: <bucket>.oss.cn-north-1.jcloudcs.com
 Connection: Keep-Alive
 User-Agent: JFS-JCLOUD-SDK-JAVA/1.0.0 (Java 1.8.0_45; Vendor Oracle Corporation; Windows 7 6.1; HttpClient 4.2.1)
 ```
