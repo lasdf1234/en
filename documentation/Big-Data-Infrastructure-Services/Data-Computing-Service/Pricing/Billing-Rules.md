@@ -5,7 +5,7 @@ Data computing service currently supports one billing type:
 
 ## Storage Billing
 
-Users will enjoy first 500GB data storage service for free each month in data computing service. Datasheet and other data exceeding will be billed according to its size of data capacity on basis of billing period: hour(s).
+Users will enjoy first 500GB data storage service for free each month in data computing service. Data table and other data exceeding will be billed according to its size of data capacity on basis of billing period: hour(s).
 Formula for billing: storage costs per hour = storage capacity * storage price as below:
 
 <table>
